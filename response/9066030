@@ -1,0 +1,216 @@
+{
+    "stat": true,
+    "message": "成功",
+    "code": 200,
+    "data": [
+        {
+            "name": "4月10日连板复盘",
+            "G": 13,
+            "stocks": [],
+            "children": [
+                {
+                    "name": "4连板",
+                    "reason": "4连板。",
+                    "sort": 1,
+                    "level": 2,
+                    "pctChg": 9.96,
+                    "detail": null,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "G",
+                            "pctChg": 9.96,
+                            "top": 1,
+                            "code": "sh600743",
+                            "name": "华远控股",
+                            "reason": "涨停时间09:30；公告",
+                            "sort": 1,
+                            "stockId": "600743",
+                            "business": "1"
+                        }
+                    ],
+                    "parentId": 9066030,
+                    "ancestors": "0,9066030",
+                    "subjectId": 9066031,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "3连板",
+                    "reason": "3连板。",
+                    "sort": 2,
+                    "level": 2,
+                    "pctChg": 10.04,
+                    "detail": null,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "G",
+                            "pctChg": 9.98,
+                            "top": 1,
+                            "code": "sh603777",
+                            "name": "来伊份",
+                            "reason": "涨停时间09:32；公告",
+                            "sort": 1,
+                            "stockId": "603777",
+                            "business": "1"
+                        },
+                        {
+                            "GS": "G",
+                            "pctChg": 10,
+                            "top": 1,
+                            "code": "sh603950",
+                            "name": "长源东谷",
+                            "reason": "涨停时间09:29；公告",
+                            "sort": 2,
+                            "stockId": "603950",
+                            "business": "0"
+                        },
+                        {
+                            "GS": "G",
+                            "pctChg": 10.13,
+                            "top": 1,
+                            "code": "sz000889",
+                            "name": "中嘉博创",
+                            "reason": "涨停时间09:29；算力",
+                            "sort": 3,
+                            "stockId": "000889",
+                            "business": "0"
+                        }
+                    ],
+                    "parentId": 9066030,
+                    "ancestors": "0,9066030",
+                    "subjectId": 9066032,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "2连板",
+                    "reason": "2连板。",
+                    "sort": 3,
+                    "level": 2,
+                    "pctChg": 10.01,
+                    "detail": null,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "G",
+                            "pctChg": 10,
+                            "top": 1,
+                            "code": "sh600345",
+                            "name": "长江通信",
+                            "reason": "涨停时间09:30；光通信",
+                            "sort": 1,
+                            "stockId": "600345",
+                            "business": "1"
+                        },
+                        {
+                            "GS": "G",
+                            "pctChg": 10.03,
+                            "top": 1,
+                            "code": "sh600707",
+                            "name": "彩虹股份",
+                            "reason": "涨停时间09:30；玻璃基板",
+                            "sort": 2,
+                            "stockId": "600707",
+                            "business": "1"
+                        },
+                        {
+                            "GS": "G",
+                            "pctChg": 9.99,
+                            "top": 1,
+                            "code": "sh603773",
+                            "name": "沃格光电",
+                            "reason": "涨停时间10:05；玻璃基板",
+                            "sort": 3,
+                            "stockId": "603773",
+                            "business": "1"
+                        },
+                        {
+                            "GS": "G",
+                            "pctChg": 10,
+                            "top": 1,
+                            "code": "sh603933",
+                            "name": "睿能科技",
+                            "reason": "涨停时间09:29；公告",
+                            "sort": 4,
+                            "stockId": "603933",
+                            "business": "0"
+                        },
+                        {
+                            "GS": "G",
+                            "pctChg": 9.99,
+                            "top": 1,
+                            "code": "sz002364",
+                            "name": "中恒电气",
+                            "reason": "涨停时间09:29；公告",
+                            "sort": 5,
+                            "stockId": "002364",
+                            "business": "0"
+                        },
+                        {
+                            "GS": "G",
+                            "pctChg": 10.01,
+                            "top": 1,
+                            "code": "sz002328",
+                            "name": "新朋股份",
+                            "reason": "涨停时间09:31；液冷服务器",
+                            "sort": 6,
+                            "stockId": "002328",
+                            "business": "0"
+                        },
+                        {
+                            "GS": "G",
+                            "pctChg": 10.03,
+                            "top": 1,
+                            "code": "sz002580",
+                            "name": "圣阳股份",
+                            "reason": "涨停时间10:14；液冷服务器",
+                            "sort": 7,
+                            "stockId": "002580",
+                            "business": "0"
+                        },
+                        {
+                            "GS": "G",
+                            "pctChg": 10.01,
+                            "top": 1,
+                            "code": "sz002824",
+                            "name": "和胜股份",
+                            "reason": "涨停时间09:30；液冷服务器",
+                            "sort": 8,
+                            "stockId": "002824",
+                            "business": "0"
+                        },
+                        {
+                            "GS": "G",
+                            "pctChg": 10.02,
+                            "top": 1,
+                            "code": "sz002962",
+                            "name": "五方光电",
+                            "reason": "涨停时间09:36；玻璃基板",
+                            "sort": 9,
+                            "stockId": "002962",
+                            "business": "0"
+                        }
+                    ],
+                    "parentId": 9066030,
+                    "ancestors": "0,9066030",
+                    "subjectId": 9066033,
+                    "importance": 1,
+                    "limitUpCount": null
+                }
+            ],
+            "S": 0,
+            "subjectId": "9066030",
+            "reason": "4月10日市场连板个股汇总。",
+            "sort": 0,
+            "level": 1,
+            "pctChg": 10.01,
+            "detail": "",
+            "parentId": "0000000000",
+            "ancestors": "0",
+            "importance": 1,
+            "limitUpCount": 0
+        }
+    ]
+}

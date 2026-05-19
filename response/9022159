@@ -1,0 +1,82 @@
+{
+    "msg": "操作成功",
+    "code": 200,
+    "data": [
+        {
+            "ancestors": "0,9022152,9022154",
+            "bizKey": null,
+            "children": [],
+            "createBy": null,
+            "createTime": null,
+            "detail": null,
+            "firstLetter": "AIZT",
+            "imgUrl": null,
+            "importance": 2,
+            "leadTimes": null,
+            "level": 3,
+            "limitUpCount": null,
+            "limitUpTimes": null,
+            "name": "AI制图",
+            "parentId": 9022154,
+            "parentName": "",
+            "pctChg": -1.45,
+            "reason": "AI制图",
+            "remark": null,
+            "selectReason": null,
+            "sort": -9998,
+            "status": "1",
+            "stockCount": null,
+            "stocks": [
+                {
+                    "business": null,
+                    "createTime": "2023-12-03 21:23:37",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "****",
+                    "pctChg": -2.41,
+                    "reason": "AI制图综合实力第一，AI万兴爱画",
+                    "remark": "定位为全球领先的新生代数字创意赋能者，元宇宙时代的潜力 Adobe",
+                    "selectedId": 44338,
+                    "sort": 1,
+                    "stockId": "111",
+                    "subjectId": 9022159,
+                    "top": 0
+                },
+                {
+                    "business": null,
+                    "createTime": "2024-12-08 15:23:52",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "****",
+                    "pctChg": -0.11,
+                    "reason": "AI制图综合实力第二，米塔数字艺术",
+                    "remark": "数字营销行业龙头企业，致力于为客户提供一体化数字营销方案。",
+                    "selectedId": 44339,
+                    "sort": 2,
+                    "stockId": "111",
+                    "subjectId": 9022159,
+                    "top": 0
+                },
+                {
+                    "business": null,
+                    "createTime": "2024-12-08 15:38:25",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "****",
+                    "pctChg": -1.83,
+                    "reason": "图片数据资源量国内第一，视觉中国网；与微软、字节跳动合作",
+                    "remark": "版权内容头部企业，数字资产储量富足，NFT给企业提供充足想象力",
+                    "selectedId": 102858,
+                    "sort": 3,
+                    "stockId": "111",
+                    "subjectId": 9022159,
+                    "top": 1
+                }
+            ],
+            "subjectId": 9022159,
+            "type": null,
+            "updateBy": null,
+            "updateTime": null
+        }
+    ]
+}

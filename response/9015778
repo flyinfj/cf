@@ -1,0 +1,1327 @@
+{
+    "stat": true,
+    "message": "成功",
+    "code": 200,
+    "data": [
+        {
+            "name": "存储芯片",
+            "G": 69,
+            "S": 19,
+            "subjectId": "9015778",
+            "stocks": [],
+            "children": [
+                {
+                    "name": "产品",
+                    "sort": -100,
+                    "reason": "5月31日，韩国统计厅公布的数据显示，4月份芯片库存同比下降33.7%，为2014年底以来的最大降幅。另据韩国科学技术信息通信部日前公布的数据，4月份芯片出口同比增长53.9%，其中存储芯片出口额同比大幅增长98.7%。",
+                    "level": 2,
+                    "detail": "<p style=\"text-align: center;\"><strong>一、芯片产品动态</strong></p><p>5月31日，韩国统计厅公布的数据显示，4月份芯片库存同比下降33.7%，为2014年底以来的最大降幅。另据韩国科学技术信息通信部日前公布的数据，4月份芯片出口同比增长53.9%，其中存储芯片出口额同比大幅增长98.7%。</p>",
+                    "pctChg": 1.45,
+                    "children": [
+                        {
+                            "name": "转型",
+                            "sort": -100000,
+                            "reason": "行业转型",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": -0.08,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz002654",
+                                    "pctChg": 1.01,
+                                    "top": 0,
+                                    "name": "万润科技",
+                                    "sort": 1,
+                                    "reason": "LED转型存储",
+                                    "stockId": "002654",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh605178",
+                                    "pctChg": -2.71,
+                                    "top": 0,
+                                    "name": "时空科技",
+                                    "sort": 2,
+                                    "reason": "公司拟收购收购存储芯片公司嘉合劲威100%股份",
+                                    "stockId": "605178",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz000620",
+                                    "pctChg": 1.44,
+                                    "top": 0,
+                                    "name": "盈新发展",
+                                    "sort": 3,
+                                    "reason": "公司拟收购存储芯片公司长兴半导体 81.8091%股份",
+                                    "stockId": "000620",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9019671,
+                            "subjectId": 9019677,
+                            "importance": 2
+                        },
+                        {
+                            "name": "模组",
+                            "sort": -99999,
+                            "reason": "储存芯片模组是一种集成电路模块，用于存储数字信息。它通常由一个或多个闪存芯片组成，以及一些控制电路和接口电路。储存芯片模组可以用于各种设备和应用程序，例如智能手机、平板电脑、数码相机、MP3播放器、USB闪存驱动器等。储存芯片模组的主要功能是存储数字信息，例如照片、音乐、视频、文档等。它可以通过各种接口连接到计算机或其他设备，例如USB、SD卡、MicroSD卡、MMC卡等。储存芯片模组的容量可以从几百兆字节到几十或几百千兆字节不等，取决于芯片的类型和数量。储存芯片模组的优点是体积小、重量轻、功耗低、读写速度快、可靠性高等。它们也比传统的机械硬盘更耐用，因为它们没有移动部件，不易受到震动和冲击的影响。储存芯片模组也比光盘和磁带等传统存储介质更方便，因为它们可以反复擦写和重复使用。",
+                            "level": 3,
+                            "detail": "<p><span style=\"color: rgb(225, 60, 57);\"><strong>题材基本面介绍：</strong></span></p><p>储存芯片模组是一种集成电路模块，用于存储数字信息。它通常由一个或多个闪存芯片组成，以及一些控制电路和接口电路。储存芯片模组可以用于各种设备和应用程序，例如智能手机、平板电脑、数码相机、MP3播放器、USB闪存驱动器等。储存芯片模组的主要功能是存储数字信息，例如照片、音乐、视频、文档等。它可以通过各种接口连接到计算机或其他设备，例如USB、SD卡、MicroSD卡、MMC卡等。储存芯片模组的容量可以从几百兆字节到几十或几百千兆字节不等，取决于芯片的类型和数量。储存芯片模组的优点是体积小、重量轻、功耗低、读写速度快、可靠性高等。它们也比传统的机械硬盘更耐用，因为它们没有移动部件，不易受到震动和冲击的影响。储存芯片模组也比光盘和磁带等传统存储介质更方便，因为它们可以反复擦写和重复使用。</p>",
+                            "pctChg": 4.38,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz301308",
+                                    "pctChg": 4.85,
+                                    "top": 0,
+                                    "name": "江波龙",
+                                    "sort": 1,
+                                    "reason": "存储芯片模组市占率A股第一",
+                                    "stockId": "301308",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688525",
+                                    "pctChg": 6.19,
+                                    "top": 1,
+                                    "name": "佰维存储",
+                                    "sort": 2,
+                                    "reason": "存储芯片模组市占率A股第二",
+                                    "stockId": "688525",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz001309",
+                                    "pctChg": 10,
+                                    "top": 1,
+                                    "name": "德明利",
+                                    "sort": 3,
+                                    "reason": "存储芯片模组市占率A股第三",
+                                    "stockId": "001309",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688228",
+                                    "pctChg": -0.12,
+                                    "top": 0,
+                                    "name": "开普云",
+                                    "sort": 5,
+                                    "reason": "拟并购的南宁泰克半导体主要产品有SSD及DRAM等，内存模组市占率2.3%；固态硬盘SSD市占率8%",
+                                    "stockId": "688228",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh603316",
+                                    "pctChg": 0.99,
+                                    "top": 0,
+                                    "name": "诚邦股份",
+                                    "sort": 14,
+                                    "reason": "子公司芯存电子科技有存储模组产品的研发",
+                                    "stockId": "603316",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9019671,
+                            "subjectId": 9019684,
+                            "importance": 2
+                        },
+                        {
+                            "name": "DRAM",
+                            "sort": -100,
+                            "reason": "HBM是通过TSV助力DRAM垂直堆叠而成",
+                            "level": 3,
+                            "detail": "<p>题材基本面介绍：</p><p>DRAM细分市场：DRAM不断迭代，目前DDR4是主流产品。主要分为<span style=\"color: rgb(225, 60, 57);\"><strong>主流DRAM和利基DRAM</strong></span></p><p><img src=\"https://guduoduo-app.oss-cn-beijing.aliyuncs.com/upload/rich/2023/07/13/a589f8a5-37d1-4826-8e50-021659a35ace-1689231057939.png\" alt=\"\" data-href=\"\" style=\"width: 384.00px;height: 168.59px;\"/></p><p>国内存储厂商产品布局：</p><p><img src=\"https://guduoduo-app.oss-cn-beijing.aliyuncs.com/upload/rich/2023/07/13/c9560597-92c6-42a1-87cd-dd2a6d66b0d5-1689231134515.png\" alt=\"\" data-href=\"\" style=\"width: 374.00px;height: 179.13px;\"/></p>",
+                            "pctChg": 3.41,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "code": "sh603986",
+                                    "pctChg": 5.82,
+                                    "top": 1,
+                                    "name": "兆易创新",
+                                    "sort": 1,
+                                    "reason": "利基DRAM市占率A股第一",
+                                    "stockId": "603986",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300223",
+                                    "pctChg": 1.88,
+                                    "top": 0,
+                                    "name": "北京君正",
+                                    "sort": 2,
+                                    "reason": "车用DRAM市占率A股第一",
+                                    "stockId": "300223",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh688110",
+                                    "pctChg": 1.85,
+                                    "top": 0,
+                                    "name": "东芯股份",
+                                    "sort": 3,
+                                    "reason": "营收0.81亿，营收占比7.13%",
+                                    "stockId": "688110",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002213",
+                                    "pctChg": 4.09,
+                                    "top": 0,
+                                    "name": "大为股份",
+                                    "sort": 4,
+                                    "reason": "全资子公司大为创芯主要产品有NAND、DRAM存储两大系列",
+                                    "stockId": "002213",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9019671,
+                            "subjectId": 9019672,
+                            "importance": 2
+                        },
+                        {
+                            "name": "NAND FLASH",
+                            "sort": -99,
+                            "reason": "NAND擦写速度快，存储密度高，存储容量大，为大容量数据存储的主流方案",
+                            "level": 3,
+                            "detail": "<p><span style=\"color: rgb(225, 60, 57);\"><strong>题材基本面介绍：</strong></span></p><p><strong>1.介绍</strong></p><p>存储芯片通过对存储介质进行电子或电荷的充放电标记不同的存储状态实现数据存储，根据断电后存储的信息是否留存分为易失性存储芯片与非易失性存储芯片。易失性存储芯片（DRAM和SRAM）在断电后无法保存数据。其中，DRAM为内存的主流方案，SRAM为CPU缓存的主流方案。非易失性存储芯片（NAND Flash、NOR Flash等）在断电后仍保存数据，其中NAND擦写速度快，存储密度高，存储容量大，为大容量数据存储的主流方案；NOR存储容量较小，但可直接运行存储的代码，为存储系统开机程序的主流方案</p><p><br></p><p><strong>2.分类</strong></p><p><img src=\"https://guduoduo-app.oss-cn-beijing.aliyuncs.com/upload/rich/2023/07/13/2f6951b6-6fb9-43fb-8844-2fd54435f548-1689254940544.png\" alt=\"\" data-href=\"\" style=\"width: 547.47px;height: 336.18px;\"/></p>",
+                            "pctChg": 3.84,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "code": "sh688110",
+                                    "pctChg": 1.85,
+                                    "top": 0,
+                                    "name": "东芯股份",
+                                    "sort": 1,
+                                    "reason": "国内主要的SLC NAND FLASH厂商",
+                                    "stockId": "688110",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh603986",
+                                    "pctChg": 5.82,
+                                    "top": 1,
+                                    "name": "兆易创新",
+                                    "sort": 1,
+                                    "reason": "国内主要的SPI NAND FLASH厂商",
+                                    "stockId": "603986",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9019671,
+                            "subjectId": 9019673,
+                            "importance": 2
+                        },
+                        {
+                            "name": "NOR FLASH",
+                            "sort": -97,
+                            "reason": "NOR  Flash容量较小，但可以直接在芯片内执行程序代码，通常用来存储开机软件程序。",
+                            "level": 3,
+                            "detail": "<p><span style=\"color: rgb(225, 60, 57);\"><strong>题材基本面介绍：</strong></span></p><p><br></p><p><strong>1.介绍</strong></p><p>存储芯片可分为易失性存储芯片（断电后数据丢失）和非易失性存储芯片（断电后数据不丢失）。易失性存储芯片常见的有DRAM和SRAM，通常和CPU一起使用，为CPU 提供运算时中间数据的存储。非易失性存储芯片包括Flash（闪存）和ROM（只读存储器）。闪存芯片又分NAND Flash和NOR Flash 两种。NAND Flash 容量大，主要用于大容量数据存储；NOR &nbsp;Flash容量较小，但可以直接在芯片内执行程序代码，通常用来存储开机软件程序。ROM目前应用最多的主要为EEPROM，存储容量更小，通常用来存取少量的程序代码。</p><p><br></p><p><strong>2.对比</strong></p><p><img src=\"https://guduoduo-app.oss-cn-beijing.aliyuncs.com/upload/rich/2023/07/13/250830dc-bb92-4218-9669-49c6b7610dca-1689254182700.png\" alt=\"\" data-href=\"\" style=\"width: 514.47px;height: 307.33px;\"/></p><p><br></p><p><strong>3.竞争格局</strong></p><p><img src=\"https://guduoduo-app.oss-cn-beijing.aliyuncs.com/upload/rich/2023/07/13/7636e87d-2672-4433-8633-a09e153f7b69-1689254238153.png\" alt=\"\" data-href=\"\" style=\"width: 535.47px;height: 285.62px;\"/></p><p><br></p>",
+                            "pctChg": 3.53,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "code": "sh603986",
+                                    "pctChg": 5.82,
+                                    "top": 1,
+                                    "name": "兆易创新",
+                                    "sort": 1,
+                                    "reason": "NOR FLASH市占率A股第一，全球市占率15.6%",
+                                    "stockId": "603986",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688766",
+                                    "pctChg": 4.72,
+                                    "top": 0,
+                                    "name": "普冉股份",
+                                    "sort": 2,
+                                    "reason": "NOR FLASH市占率A股第二，全球市占率4%",
+                                    "stockId": "688766",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688416",
+                                    "pctChg": 0.06,
+                                    "top": 0,
+                                    "name": "恒烁股份",
+                                    "sort": 3,
+                                    "reason": "NOR FLASH市占率A股第三，全球市占率2.7%",
+                                    "stockId": "688416",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9019671,
+                            "subjectId": 9019674,
+                            "importance": 2
+                        },
+                        {
+                            "name": "EEPROM",
+                            "sort": -96,
+                            "reason": "EEPROM属于非易失性存储颗粒，可以在断电的情况下存储信息，耐擦写性达到100万次，主要可以储存小规模、经常需要修改的数据",
+                            "level": 3,
+                            "detail": "<p><span style=\"color: rgb(225, 60, 57);\"><strong>题材基本面介绍：</strong></span></p><p><strong>1.介绍</strong></p><p>EEPROM属于非易失性存储颗粒，可以在断电的情况下存储信息，耐擦写性达到100万次，主要可以储存小规模、经常需要修改的数据，主要应用包括智能手机摄像头模组中镜头与图像的矫正参数、液晶面板中的参数和配置文件、蓝牙模块中的控制参数、内存条的温度传感器的温度参数等。</p><p><br></p><p><strong>2.对比</strong></p><p>EEPROM与NOR Flash所覆盖的存储容量部分重合，但很难完全取代。1）在可靠性方面，EEPROM可确保100年100万次擦写，而NOR &nbsp;Flash为10年10万次擦写；2）在成本方面，NOR &nbsp;Flash存储单元面积更小但周边电路更复杂，因此在1Mb以下的容量区间会导致整体面积高于EEPROM；3）在擦写操作方式上，NOR &nbsp;Flash最小只能对扇区/页进行操作，而EEPROM最小可以对字节进行操作，灵活性更高。</p><p><br></p><p><strong>3.应用</strong></p><p>EEPROM下游应用相对分散，主要可包含智能手机摄像头、液晶面板、智能电表、智能家居、汽车电子等。从竞争格局来看，STMicro、Microchip（Atmel）、聚辰及ON Semi等为全球EEPROM的主要供应商，根据赛迪顾问，2018年全球前五大厂商占据了市场80.7%的份额，前五大厂商中国内只有聚辰占据了一席之地，2018年STMicro为全球EEPROM市场龙头，市占率达到37.0%，Microchip和聚辰半导体分列二、三位，分别占有23.0%/8.2%的市场份额。聚辰目前市占率与STMicro和Microchip有一定差距，主要由于公司在智能手机摄像头及液晶面板等细分领域占比较高，但在汽车电子及内存条等市场仍处在初期布局阶段。</p><p><br></p><p><br></p>",
+                            "pctChg": 2.36,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh688123",
+                                    "pctChg": 2.73,
+                                    "top": 0,
+                                    "name": "聚辰股份",
+                                    "sort": 1,
+                                    "reason": "EEPROM市占率A股第一",
+                                    "stockId": "688123",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688766",
+                                    "pctChg": 4.72,
+                                    "top": 0,
+                                    "name": "普冉股份",
+                                    "sort": 2,
+                                    "reason": "EEPROM市占率A股第二",
+                                    "stockId": "688766",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688385",
+                                    "pctChg": -0.36,
+                                    "top": 0,
+                                    "name": "复旦微电",
+                                    "sort": 3,
+                                    "reason": "EEPROM市占率A股第三",
+                                    "stockId": "688385",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9019671,
+                            "subjectId": 9019675,
+                            "importance": 2
+                        },
+                        {
+                            "name": "HBM",
+                            "sort": -95,
+                            "reason": "目前 唯一量产HBM3的公司是海力士。",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": 1.28,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh600667",
+                                    "pctChg": -1.25,
+                                    "top": 0,
+                                    "name": "太极实业",
+                                    "sort": -1,
+                                    "reason": "供货海力士后工序封测服务；子公司海太半导体负责，持股55%，海力士持股45%",
+                                    "stockId": "600667",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002409",
+                                    "pctChg": 1.17,
+                                    "top": 0,
+                                    "name": "雅克科技",
+                                    "sort": 2,
+                                    "reason": "供货海力士HBM前驱体",
+                                    "stockId": "002409",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002559",
+                                    "pctChg": 2.85,
+                                    "top": 0,
+                                    "name": "亚威股份",
+                                    "sort": 3,
+                                    "reason": "供货海力士HBM芯片测试机",
+                                    "stockId": "002559",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300475",
+                                    "pctChg": 2.52,
+                                    "top": 0,
+                                    "name": "香农芯创",
+                                    "sort": 10,
+                                    "reason": "海力士代理商",
+                                    "stockId": "300475",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002156",
+                                    "pctChg": 1.1,
+                                    "top": 0,
+                                    "name": "通富微电",
+                                    "sort": 11,
+                                    "reason": "与长鑫存储合作开发HBM芯片样品",
+                                    "stockId": "002156",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9019671,
+                            "subjectId": 9019676,
+                            "importance": 2
+                        },
+                        {
+                            "name": "SRAM",
+                            "sort": 1,
+                            "reason": "SRAM",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": 0.96,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz300223",
+                                    "pctChg": 1.88,
+                                    "top": 0,
+                                    "name": "北京君正",
+                                    "sort": 1,
+                                    "reason": "市占率全球第二，A股第一",
+                                    "stockId": "300223",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz002180",
+                                    "pctChg": 1.5,
+                                    "top": 0,
+                                    "name": "纳思达",
+                                    "sort": 2,
+                                    "reason": "营收占比4.58%，为11.84亿",
+                                    "stockId": "002180",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300053",
+                                    "pctChg": -0.79,
+                                    "top": 0,
+                                    "name": "航宇微",
+                                    "sort": 3,
+                                    "reason": "可生产高可靠SRAM存储产品",
+                                    "stockId": "300053",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300446",
+                                    "pctChg": 1.23,
+                                    "top": 0,
+                                    "name": "航天智造",
+                                    "sort": 4,
+                                    "reason": "已开发SRAM产品",
+                                    "stockId": "300446",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9019671,
+                            "subjectId": 9028320,
+                            "importance": 2
+                        },
+                        {
+                            "name": "光存储",
+                            "sort": 10,
+                            "reason": "光存储",
+                            "level": 3,
+                            "detail": "<p><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-size: 14px;\">题材相关介绍：</span></p><p><br></p><p><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-size: 14px;\">在日常生活中，光盘是一种常见的储存媒介。你可曾想过，光盘的存储容量可以达到什么量级？近日，中国科学院上海光学精密机械研究所与上海理工大学等科研单位合作，在超大容量超分辨三维光存储研究中取得突破性进展。相关研究成果于2月22日发表在国际顶尖学术期刊《自然》（Nature）杂志，为光存储研究领域带来新的曙光。</span></p>",
+                            "pctChg": -2.84,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "code": "sz300212",
+                                    "pctChg": -5.15,
+                                    "top": 0,
+                                    "name": "易华录",
+                                    "sort": 1,
+                                    "reason": "光存储单机容量A股第一，1.6PB，华录集团旗下",
+                                    "stockId": "300212",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh601789",
+                                    "pctChg": -0.53,
+                                    "top": 0,
+                                    "name": "宁波建工",
+                                    "sort": 2,
+                                    "reason": "光存储单机容量A股第二，1PB，控股中经云",
+                                    "stockId": "601789",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9019671,
+                            "subjectId": 9024977,
+                            "importance": 2
+                        },
+                        {
+                            "name": "NAS网络附加存储",
+                            "sort": 11,
+                            "reason": "NAS网络附加存储",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": -0.03,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz301606",
+                                    "pctChg": 4.43,
+                                    "top": 0,
+                                    "name": "绿联科技",
+                                    "sort": 1,
+                                    "reason": "NAS产品线覆盖入门级-高端级各类设备",
+                                    "stockId": "301606",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz001314",
+                                    "pctChg": 1.13,
+                                    "top": 0,
+                                    "name": "亿道信息",
+                                    "sort": 2,
+                                    "reason": "NAS产品包括私有云存储服务器产品",
+                                    "stockId": "001314",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300857",
+                                    "pctChg": -9.8,
+                                    "top": 1,
+                                    "name": "协创数据",
+                                    "sort": 3,
+                                    "reason": "NAS产品包括NAS存储器",
+                                    "stockId": "300857",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300042",
+                                    "pctChg": -1.91,
+                                    "top": 0,
+                                    "name": "朗科科技",
+                                    "sort": 4,
+                                    "reason": "已开展家庭NAS存储器的开发",
+                                    "stockId": "300042",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh603893",
+                                    "pctChg": 6.02,
+                                    "top": 0,
+                                    "name": "瑞芯微",
+                                    "sort": 5,
+                                    "reason": "公司SOC芯片已应用于NAS领域",
+                                    "stockId": "603893",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9019671,
+                            "subjectId": 9063310,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9015778,
+                    "ancestors": "0,9015778",
+                    "subjectId": 9019671,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "部件",
+                    "sort": -99,
+                    "reason": "部件",
+                    "level": 2,
+                    "detail": "<p><br></p>",
+                    "pctChg": 0.83,
+                    "children": [
+                        {
+                            "name": "封装材料",
+                            "sort": 3,
+                            "reason": "GMC，高性能环氧塑封料，是HBM的上游封装材料，因为HBM的的叠层厚度很高，普通的封装材料难以满足，所以必须要用GMC进行封装。GMC的门槛壁垒极高，全球仅有两家日本企业供应，处于垄断状态，并且目前已经限制出口。国内想要突破GMC的封锁，只能靠国产替代",
+                            "level": 3,
+                            "detail": "<p><span style=\"color: rgb(225, 60, 57);\"><strong>题材基本面介绍：</strong></span></p><p>GMC，高性能环氧塑封料，是HBM的上游封装材料，因为HBM的的叠层厚度很高，普通的封装材料难以满足，所以必须要用GMC进行封装。GMC的门槛壁垒极高，全球仅有两家日本企业供应，处于垄断状态，并且目前已经限制出口。国内想要突破GMC的封锁，只能靠国产替代</p>",
+                            "pctChg": 0.2,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh688535",
+                                    "pctChg": 0.67,
+                                    "top": 0,
+                                    "name": "华海诚科",
+                                    "sort": 1,
+                                    "reason": "A股环氧塑封料唯一标的，主持起草行业标准",
+                                    "stockId": "688535",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300236",
+                                    "pctChg": 1.61,
+                                    "top": 0,
+                                    "name": "上海新阳",
+                                    "sort": 2,
+                                    "reason": "传统封装电镀液及配套试剂市占率国内第一",
+                                    "stockId": "300236",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688720",
+                                    "pctChg": -1.68,
+                                    "top": 0,
+                                    "name": "艾森股份",
+                                    "sort": 3,
+                                    "reason": "传统封装电镀液及配套试剂市占率国内第二",
+                                    "stockId": "688720",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9019678,
+                            "subjectId": 9019681,
+                            "importance": 2
+                        },
+                        {
+                            "name": "连接器",
+                            "sort": 4,
+                            "reason": "连接器",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": 0.64,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz300991",
+                                    "pctChg": 0.64,
+                                    "top": 0,
+                                    "name": "创益通",
+                                    "sort": 1,
+                                    "reason": "数据存储互连产品营收占比32.61%，1.4亿元",
+                                    "stockId": "300991",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9019678,
+                            "subjectId": 9019680,
+                            "importance": 2
+                        },
+                        {
+                            "name": "PCB",
+                            "sort": 6,
+                            "reason": "PCB",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": 1.19,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz002916",
+                                    "pctChg": 7.61,
+                                    "top": 0,
+                                    "name": "深南电路",
+                                    "sort": 2,
+                                    "reason": "存储类封装基板，业务占比约17%",
+                                    "stockId": "002916",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002436",
+                                    "pctChg": 3.53,
+                                    "top": 0,
+                                    "name": "兴森科技",
+                                    "sort": 4,
+                                    "reason": "存储 IC 封装基板，业务占比约15%",
+                                    "stockId": "002436",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh603175",
+                                    "pctChg": -1.81,
+                                    "top": 0,
+                                    "name": "超颖电子",
+                                    "sort": 5,
+                                    "reason": "SSD 控制板、内存条板、存储服务器背板，业务占比约12%",
+                                    "stockId": "603175",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300903",
+                                    "pctChg": -0.82,
+                                    "top": 0,
+                                    "name": "科翔股份",
+                                    "sort": 6,
+                                    "reason": "存储 PCB、存储封装基板，业务占比约8%",
+                                    "stockId": "300903",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002579",
+                                    "pctChg": -0.63,
+                                    "top": 0,
+                                    "name": "中京电子",
+                                    "sort": 7,
+                                    "reason": "存储 PCB、存储封装基板，业务占比约7%",
+                                    "stockId": "002579",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh603936",
+                                    "pctChg": -0.72,
+                                    "top": 0,
+                                    "name": "博敏电子",
+                                    "sort": 8,
+                                    "reason": "存储 IC 载板，业务占比约5%",
+                                    "stockId": "603936",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9019678,
+                            "subjectId": 9065075,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9015778,
+                    "ancestors": "0,9015778",
+                    "subjectId": 9019678,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "存储芯片两大巨头",
+                    "sort": -98,
+                    "reason": "国内巨头",
+                    "level": 2,
+                    "detail": "<p><br></p>",
+                    "pctChg": 0.25,
+                    "children": [
+                        {
+                            "name": "长江存储",
+                            "sort": 1,
+                            "reason": "长江存储",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": 0.25,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh603156",
+                                    "pctChg": -1.33,
+                                    "top": 0,
+                                    "name": "养元饮品",
+                                    "sort": 1,
+                                    "reason": "参股长江存储股份比例A股第一，0.98%",
+                                    "stockId": "603156",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600640",
+                                    "pctChg": 0.75,
+                                    "top": 0,
+                                    "name": "国脉文化",
+                                    "sort": 2,
+                                    "reason": "参股长江存储参股比例较低",
+                                    "stockId": "600640",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh601900",
+                                    "pctChg": 0.45,
+                                    "top": 0,
+                                    "name": "南方传媒",
+                                    "sort": 3,
+                                    "reason": "参股长江存储参股比例较低",
+                                    "stockId": "601900",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688039",
+                                    "pctChg": 0.57,
+                                    "top": 0,
+                                    "name": "当虹科技",
+                                    "sort": 4,
+                                    "reason": "参股长江存储参股比例较低",
+                                    "stockId": "688039",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh600604",
+                                    "pctChg": 1.24,
+                                    "top": 0,
+                                    "name": "市北高新",
+                                    "sort": 5,
+                                    "reason": "参股长江存储参股比例较低",
+                                    "stockId": "600604",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600637",
+                                    "pctChg": 1.16,
+                                    "top": 0,
+                                    "name": "东方明珠",
+                                    "sort": 6,
+                                    "reason": "参股长江存储参股比例较低",
+                                    "stockId": "600637",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600769",
+                                    "pctChg": -1.15,
+                                    "top": 0,
+                                    "name": "祥龙电业",
+                                    "sort": 7,
+                                    "reason": "公司与长江存储为同一实控人",
+                                    "stockId": "600769",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9057498,
+                            "subjectId": 9057499,
+                            "importance": 1
+                        },
+                        {
+                            "name": "长鑫存储",
+                            "sort": 2,
+                            "reason": "长鑫存储",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": 0.26,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "code": "sh603986",
+                                    "pctChg": 5.82,
+                                    "top": 1,
+                                    "name": "兆易创新",
+                                    "sort": 1,
+                                    "reason": "参股长鑫存储股份比例A股第一，0.9527%",
+                                    "stockId": "603986",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz000672",
+                                    "pctChg": 0.22,
+                                    "top": 0,
+                                    "name": "上峰水泥",
+                                    "sort": 2,
+                                    "reason": "参股长鑫存储股份比例0.15%",
+                                    "stockId": "000672",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh603726",
+                                    "pctChg": 1.18,
+                                    "top": 0,
+                                    "name": "朗迪集团",
+                                    "sort": 3,
+                                    "reason": "间接参股长鑫科技，参股比例较低",
+                                    "stockId": "603726",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz000685",
+                                    "pctChg": 2.12,
+                                    "top": 0,
+                                    "name": "中山公用",
+                                    "sort": 4,
+                                    "reason": "间接参股长鑫科技，参股比例较低",
+                                    "stockId": "000685",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600126",
+                                    "pctChg": -6.95,
+                                    "top": 0,
+                                    "name": "杭钢股份",
+                                    "sort": 5,
+                                    "reason": "间接参股长鑫科技，参股比例较低",
+                                    "stockId": "600126",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh600160",
+                                    "pctChg": 0.29,
+                                    "top": 0,
+                                    "name": "巨化股份",
+                                    "sort": 6,
+                                    "reason": "间接参股长鑫科技，参股比例较低",
+                                    "stockId": "600160",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz002208",
+                                    "pctChg": 0.67,
+                                    "top": 0,
+                                    "name": "合肥城建",
+                                    "sort": 7,
+                                    "reason": "公司母公司为长鑫存储第一大股东",
+                                    "stockId": "002208",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600667",
+                                    "pctChg": -1.25,
+                                    "top": 0,
+                                    "name": "太极实业",
+                                    "sort": 8,
+                                    "reason": "公司承接长鑫存储12英寸存储器晶圆制造基地项目",
+                                    "stockId": "600667",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9057498,
+                            "subjectId": 9057500,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9015778,
+                    "ancestors": "0,9015778",
+                    "subjectId": 9057498,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "业务相关性",
+                    "sort": 10000,
+                    "reason": "按照掉电后数据是否保存，可以分为易失性存储和非易失性存储，分别以DRAM和NAND Flash为代表，两者占据半导体存储接近95%的市场份额。",
+                    "level": 2,
+                    "detail": "<p><span style=\"color: rgb(225, 60, 57);\"><strong>题材基本面介绍：</strong></span></p><p><strong>一、存储芯片分类</strong></p><p><img src=\"https://guduoduo-app.oss-cn-beijing.aliyuncs.com/upload/rich/2023/07/06/2138186e-d1e3-4427-8a48-12344feb5cf3-1688641381610.png\" alt=\"\" data-href=\"\" style=\"width: 530.92px;height: 275.87px;\"/></p><p><br></p><p><strong>二、产业环节</strong></p><p>存储芯片产业链主要有四个环节，存储晶圆颗粒、主控芯片制造、封测及模组厂商集成，存储颗粒是存储器核心价值所在，负责所有数据、信息的存储；主控芯片是存储器控制中心，负责存储器的读写操作。</p><p>封测是将内存颗粒和主控芯片封装在一起，并对存储器进行调试；模组厂商主要做集成，形成最终产品。</p><p><br></p>",
+                    "pctChg": 1.52,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "G",
+                            "code": "sz300302",
+                            "pctChg": 2.01,
+                            "top": 0,
+                            "name": "同有科技",
+                            "sort": 1,
+                            "reason": "存储芯片营收占比A股第一，100%；固态存储产品党政领域市占率40%",
+                            "stockId": "300302",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz300042",
+                            "pctChg": -1.91,
+                            "top": 0,
+                            "name": "朗科科技",
+                            "sort": 2,
+                            "reason": "存储芯片营收占比A股第二，97.96%；移动存储设备开始放量",
+                            "stockId": "300042",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sh688110",
+                            "pctChg": 1.85,
+                            "top": 0,
+                            "name": "东芯股份",
+                            "sort": 3,
+                            "reason": "存储芯片营收占比A股第三，95%；中小型NOR、NAND闪存市占率第一",
+                            "stockId": "688110",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh688766",
+                            "pctChg": 4.72,
+                            "top": 0,
+                            "name": "普冉股份",
+                            "sort": 4,
+                            "reason": "存储芯片营收占比A股第四，94.27%；EEPROM闪存营收规模A股第一",
+                            "stockId": "688766",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh688123",
+                            "pctChg": 2.73,
+                            "top": 0,
+                            "name": "聚辰股份",
+                            "sort": 5,
+                            "reason": "存储芯片营收占比A股第五，87.12%；EEPROM闪存营收规模A股第二",
+                            "stockId": "688123",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh688416",
+                            "pctChg": 0.06,
+                            "top": 0,
+                            "name": "恒烁股份",
+                            "sort": 6,
+                            "reason": "存储芯片营收占比A股第六，80.98%；NOR Flash闪存全球市占率2.7%",
+                            "stockId": "688416",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz300223",
+                            "pctChg": 1.88,
+                            "top": 0,
+                            "name": "北京君正",
+                            "sort": 7,
+                            "reason": "存储芯片营收占比A股第七，74.92%；车用DRAM市占率A股第一",
+                            "stockId": "300223",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sh603986",
+                            "pctChg": 5.82,
+                            "top": 1,
+                            "name": "兆易创新",
+                            "sort": 8,
+                            "reason": "存储芯片营收占比A股第八，59.36%；利基型DRAM内存、NOR Flash闪存市占率A股第一",
+                            "stockId": "603986",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh603499",
+                            "pctChg": -0.87,
+                            "top": 0,
+                            "name": "翔港科技",
+                            "sort": 9,
+                            "reason": "参股金泰克；金泰克是为存储芯片公司",
+                            "stockId": "603499",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sh688439",
+                            "pctChg": 0.72,
+                            "top": 0,
+                            "name": "振华风光",
+                            "sort": 10,
+                            "reason": "公司已布局 NA-ND FL-A-SH、eM-MC、DDR、EE-P-R-OM、NOR FL-A-SH 等多款存储芯片",
+                            "stockId": "688439",
+                            "business": "0"
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz002990",
+                            "pctChg": 2.16,
+                            "top": 0,
+                            "name": "盛视科技",
+                            "sort": 11,
+                            "reason": "参股亿铸科技3.35%，其布局ReRAM 存算一体芯片",
+                            "stockId": "002990",
+                            "business": "0"
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz300606",
+                            "pctChg": -0.88,
+                            "top": 0,
+                            "name": "金太阳",
+                            "sort": 12,
+                            "reason": "参股中科声龙，其专注3D 异质集成大规模存算一体芯片",
+                            "stockId": "300606",
+                            "business": "0"
+                        }
+                    ],
+                    "parentId": 9015778,
+                    "ancestors": "0,9015778",
+                    "subjectId": 9015779,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "服务",
+                    "sort": 1000000,
+                    "reason": "服务",
+                    "level": 2,
+                    "detail": "<p><br></p>",
+                    "pctChg": 0.64,
+                    "children": [
+                        {
+                            "name": "封测",
+                            "sort": 2,
+                            "reason": "储存芯片封测是指将制造好的芯片进行封装，以保护芯片并方便其在电路板上使用的过程。封测通常包括以下步骤：\n\n切割：将制造好的芯片切割成单个芯片。\n\n清洗：清洗芯片以去除任何残留物，确保芯片表面干净。\n\n测试：对芯片进行测试以确保其符合规格和性能要求。\n\n封装：将芯片放入封装材料中，通常是塑料或陶瓷，以保护芯片并方便其在电路板上使用。\n\n标记：在封装的芯片上标记型号、批次号等信息，以便追踪和管理。\n\n最终测试：对封装好的芯片进行最终测试，以确保其符合规格和性能要求。",
+                            "level": 3,
+                            "detail": "<p><span style=\"color: rgb(225, 60, 57);\"><strong>题材基本面介绍：</strong></span></p><p>储存芯片封测是指将制造好的芯片进行封装，以保护芯片并方便其在电路板上使用的过程。封测通常包括以下步骤：</p><p>切割：将制造好的芯片切割成单个芯片。</p><p>清洗：清洗芯片以去除任何残留物，确保芯片表面干净。</p><p>测试：对芯片进行测试以确保其符合规格和性能要求。</p><p>封装：将芯片放入封装材料中，通常是塑料或陶瓷，以保护芯片并方便其在电路板上使用。</p><p>标记：在封装的芯片上标记型号、批次号等信息，以便追踪和管理。</p><p>最终测试：对封装好的芯片进行最终测试，以确保其符合规格和性能要求。</p>",
+                            "pctChg": 0.57,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz000021",
+                                    "pctChg": 1.44,
+                                    "top": 0,
+                                    "name": "深科技",
+                                    "sort": 1,
+                                    "reason": "存储芯片封测规模第一",
+                                    "stockId": "000021",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002156",
+                                    "pctChg": 1.1,
+                                    "top": 0,
+                                    "name": "通富微电",
+                                    "sort": 2,
+                                    "reason": "存储芯片封测规模第二",
+                                    "stockId": "002156",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz301095",
+                                    "pctChg": 3.86,
+                                    "top": 0,
+                                    "name": "广立微",
+                                    "sort": 3,
+                                    "reason": "存储芯片测试规模第三",
+                                    "stockId": "301095",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz301306",
+                                    "pctChg": -3.76,
+                                    "top": 0,
+                                    "name": "西测测试",
+                                    "sort": 4,
+                                    "reason": "存储芯片测试规模第四",
+                                    "stockId": "301306",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh688053",
+                                    "pctChg": 0.33,
+                                    "top": 0,
+                                    "name": "ST思科瑞",
+                                    "sort": 5,
+                                    "reason": "存储芯片测试规模第五",
+                                    "stockId": "688053",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688328",
+                                    "pctChg": 0.45,
+                                    "top": 0,
+                                    "name": "深科达",
+                                    "sort": 6,
+                                    "reason": "公司提供存储AOI检测设备、高精度芯片贴合设备、磁头测试产线自动化设备等多款产品",
+                                    "stockId": "688328",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9019679,
+                            "subjectId": 9019682,
+                            "importance": 2
+                        },
+                        {
+                            "name": "分销商",
+                            "sort": 6,
+                            "reason": "存储芯片分销商",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": 0.74,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz001287",
+                                    "pctChg": 3.28,
+                                    "top": 0,
+                                    "name": "中电港",
+                                    "sort": 1,
+                                    "reason": "存储器分销营收规模A股第一，162.23亿元",
+                                    "stockId": "001287",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300475",
+                                    "pctChg": 2.52,
+                                    "top": 0,
+                                    "name": "香农芯创",
+                                    "sort": 2,
+                                    "reason": "存储器分销营收规模A股第二，134.8亿元（不全是储存器）",
+                                    "stockId": "300475",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh605178",
+                                    "pctChg": -2.71,
+                                    "top": 0,
+                                    "name": "时空科技",
+                                    "sort": 3,
+                                    "reason": "线上分销综合排名第一，拟收购公司嘉合劲威旗下存储产品品牌阿斯加特、光威分别位列内存条品牌第五、第八",
+                                    "stockId": "605178",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688228",
+                                    "pctChg": -0.12,
+                                    "top": 0,
+                                    "name": "开普云",
+                                    "sort": 4,
+                                    "reason": "线上分销综合排名第二",
+                                    "stockId": "688228",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9019679,
+                            "subjectId": 9019683,
+                            "importance": 2
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9015778,
+                    "ancestors": "0,9015778",
+                    "subjectId": 9019679,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "混合键合",
+                    "sort": 1000001,
+                    "reason": "混合键合",
+                    "level": 2,
+                    "detail": "<p><br></p>",
+                    "pctChg": 0.56,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "G",
+                            "code": "sh688072",
+                            "pctChg": 1.51,
+                            "top": 0,
+                            "name": "拓荆科技",
+                            "sort": 1,
+                            "reason": "混合键合设备进度A股第一，晶圆混合键合设备已出货至客户端进行验证",
+                            "stockId": "688072",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz002845",
+                            "pctChg": 0.65,
+                            "top": 0,
+                            "name": "同兴达",
+                            "sort": 2,
+                            "reason": "目前已具备混合键合相关技术",
+                            "stockId": "002845",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh603203",
+                            "pctChg": -1.52,
+                            "top": 0,
+                            "name": "快克智能",
+                            "sort": 3,
+                            "reason": "公司已完成先进封装领域混合键合设备的研发",
+                            "stockId": "603203",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sz300751",
+                            "pctChg": 3.1,
+                            "top": 0,
+                            "name": "迈为股份",
+                            "sort": 4,
+                            "reason": "公司产品涵盖半导体混合键合设备",
+                            "stockId": "300751",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh603360",
+                            "pctChg": -0.92,
+                            "top": 0,
+                            "name": "百傲化学",
+                            "sort": 5,
+                            "reason": "参股企业芯慧联自研的首台D2W和W2W混合键合设备已出货",
+                            "stockId": "603360",
+                            "business": null
+                        }
+                    ],
+                    "parentId": 9015778,
+                    "ancestors": "0,9015778",
+                    "subjectId": 9059311,
+                    "importance": 1,
+                    "limitUpCount": null
+                }
+            ],
+            "sort": 1,
+            "reason": "存储芯片是半导体产业中用于存储数据和程序的核心元器件，在全球半导体市场中占据重要地位。\n从2024年后，Google、Meta、微软及亚马逊AWS等北美四大云厂（CSP）持续扩大AI基础建设投资，2026年总投资金额有望达到6000亿美元历史新高规模。在AI强劲需求带动下，2025年存储芯片价格大涨，其中DDR4 16Gb涨幅高达1800%，DDR5 16Gb涨幅高达500%，512Gb NAND闪存涨幅高达300%。",
+            "level": 1,
+            "pctChg": 0.92,
+            "detail": "<h2 style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong> 简述：存储行业主要分DRAM(55%以上)和NAND(40%)两个，行业巨头以三星、海力士、美国美光为主导，中国只有长江存储(NAND市场)、长鑫存储(DRAM市场)快速追上，将跻身第二阵营。</strong></span></h2><p style=\"text-align: start;\">?DRAM（动态随机存取存储器）?，如电脑内存条：?原理?：利用微小电容器存储电荷来表示数据，需定期刷新以维持电荷。属于临时存储，存储和提取速度远高于NAND 。?特性?：属于?易失性存储?，一旦断电，电容电荷消失，数据即刻丢失 。</p><p style=\"text-align: start;\">?NAND Flash（闪存）?，如电脑固态硬盘：?原理?：使用浮栅晶体管捕获电子来存储数据，无需持续供电 。特性?：属于?非易失性存储?，断电后数据仍能长期保存，适合持久化存储 。</p><p style=\"text-align: start;\">2025年Q4季度板块大涨，因<span style=\"font-size: 14px;\"><strong>AI算力需求爆发，服务器存储芯片大量挤占DDR4/DDR5产能，全存储产业价格大涨。</strong></span></p><p style=\"text-align: start;\"><br></p><h2 style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>第一部分：存储芯片产业概述</strong></span></h2><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">1.1 产业规模与供需关系</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">存储芯片产业属于半导体产业的核心细分领域，2026年全球市场规模预计达5516亿美元(行业近年规模为2200亿美元左右，因单价上涨，市场总额剧增)，同比增长134%，首次超过晶圆代工规模，成为半导体产业第一增长极。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">【供需关系】</span></p><ul><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">产能情况：全球DRAM月产能约150万片（12英寸晶圆），三星、SK海力士、美光三大厂商合计占比超90%</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">产量情况：2026年全球DRAM位增长率或达26%，NAND位增长率或达21%，较2025年（22%/15%）呈现加速态势</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">供需平衡：供不应求，2026年DRAM供不应求幅度达4.9%，为过去15年来最严重短缺，NAND和HBM的供需缺口也分别达到4.2%和5.1%</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">价格走势：2026年一季度DRAM价格环比暴涨100%，全年涨幅有望达到130%至150%，NAND闪存涨幅接近这一水平，高端HBM溢价更为明显</span></li></ul><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">促进该产业发展的主要拉动因素为</span><span style=\"font-size: 14px;\"><strong>AI算力需求爆发</strong></span><span style=\"font-size: 14px;\">和</span><span style=\"font-size: 14px;\"><strong>技术升级换代</strong></span><span style=\"font-size: 14px;\">。AI服务器单台DRAM需求是普通服务器的8-10倍，对NAND闪存的需求更是提升了12倍以上；DDR5/HBM等高端存储技术的普及带动存储芯片ASP（平均售价）上行。</span></p><p style=\"text-align: start;\"><br></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">1.2 产业重要性</span></h3><blockquote style=\"text-align: start;\"><span style=\"font-size: 14px;\">\"集成电路是新一代信息技术的核心和基石，是支撑经济社会发展和保障国家安全的战略性、基础性和先导性产业\"——国务院《新时期集成电路产业发展纲要》</span></blockquote><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">1.3 全球市场份额分布</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>全球市场份额分布（按销售额统计，2025Q3）</strong></span></p><p style=\"text-align: start;\"><img src=\"https://space-static.coze.site/7623595435517002035/global_market_share_by_country-1f7b5a6697.png?sign=1777598880-2fc20f4424-0-53f0e4bfd84d0fc887e3c0d5ef136254202e4828dd5547c8e2de9e9de97d8fd3\" alt=\"\" data-href=\"\" style=\"width: 640px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">国家/地区</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">市场份额</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">主要企业</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">数据来源及链接</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">韩国</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">67.8%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">三星电子、SK海力士</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">TrendForce</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">美国</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">21.5%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">美光科技</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">TrendForce</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">中国</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">5.5%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">长江存储、长鑫存储</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">Counterpoint Research</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">日本</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">3.5%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">铠侠</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">TrendForce</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">其他</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">1.7%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">-</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">行业研究报告</span></td></tr></tbody></table><p style=\"text-align: start;\"><br></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>全球DRAM市场份额分布（按销售额统计，2025Q3）</strong></span></p><p style=\"text-align: start;\"><img src=\"https://space-static.coze.site/7623595435517002035/global_dram_market_share-9b3088a4f9.png?sign=1777598880-b241501804-0-88f1ab9c21832e95fb49a5f5ce7a9fd0c310e12a20de4e8e3f8b062641a69bdf\" alt=\"\" data-href=\"\" style=\"width: 640px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">企业名称</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">国家</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">市场份额</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">SK海力士</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">韩国</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">34.1%</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">三星电子</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">韩国</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">33.7%</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">美光科技</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">美国</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">21.5%</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">长鑫存储</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">中国</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">6%</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">其他</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">-</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">4.7%</span></td></tr></tbody></table><p style=\"text-align: start;\"><br></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>全球NAND Flash市场份额分布（按销售额统计，2025Q3）</strong></span></p><p style=\"text-align: start;\"><img src=\"https://space-static.coze.site/7623595435517002035/global_nand_market_share-6651417cc8.png?sign=1777598880-4c6cfcacfc-0-51321b86577207fb91231bb84946f0cf76dcb0185b3b258907d7b188c9dc029e\" alt=\"\" data-href=\"\" style=\"width: 640px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">企业名称</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">国家</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">市场份额</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">三星电子</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">韩国</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">32.9%</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">SK海力士</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">韩国</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">21.1%</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">铠侠</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">日本</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">14.5%</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">美光科技</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">美国</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">13%</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">长江存储</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">中国</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">13%</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">西部数据</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">美国</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">5.5%</span></td></tr></tbody></table><p style=\"text-align: start;\"><br></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>国内存储芯片企业市场份额分布（2026年）</strong></span></p><p style=\"text-align: start;\"><img src=\"https://space-static.coze.site/7623595435517002035/domestic_market_share-a15194ecd6.png?sign=1777598880-e8480e8e2f-0-d1ce37328a11b7ef0af9e10bbf510ffadbe2a53b2c6c8cbdd67518aa470f2c7f\" alt=\"\" data-href=\"\" style=\"width: 640px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">企业名称</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">市场份额</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">长江存储</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">45%</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">长鑫存储</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">35%</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">兆易创新</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">10%</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">其他</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">10%</span></td></tr></tbody></table><p style=\"text-align: start;\"><br></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">1.4 产业重大事件</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>【国家政策】</strong></span></p><ol><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">[2026年3月] 工信部发布《2026年半导体产业创新发展规划》，将存储芯片列为重点突破领域，提出到2027年实现DRAM与NAND闪存关键技术节点国产化率不低于60%</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">[2025年12月] \"十五五\"规划建议将集成电路定位为新兴支柱产业，并部署智算集群建设，存储芯片由此上升为国家战略安全层面的核心资产</span></li></ol><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>【产业板块大涨】</strong></span></p><ol><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">[2025年5月-2026年3月] 存储芯片板块大涨</span><span style=\"font-size: 14px;\"><strong>140%</strong></span><span style=\"font-size: 14px;\"> ，主要驱动因素为AI服务器需求爆发和全球存储芯片短缺（解读：AI算力需求激增叠加供给端产能收缩，产业进入超级景气周期）</span></li></ol><p style=\"text-align: start;\"><br></p><h2 style=\"text-align: start;\"><span style=\"font-size: 14px;\">第二部分：存储芯片产业内部分析</span></h2><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">2.1 产品组成与应用场景分布</span></h3><h4 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">产品组成分布</span></h4><p style=\"text-align: start;\"><img src=\"https://space-static.coze.site/7623595435517002035/product_composition-f2c1283db2.png?sign=1777598880-d0268c87ad-0-a2a4a3ac78f793064e9d732db29e48092cb42917d0b3b0a6bc4149ebe4f9cd3f\" alt=\"\" data-href=\"\" style=\"width: 640px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">从产品组成来看，存储芯片产业主要由以下几部分构成：</span></p><ul><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">DRAM：占比</span><span style=\"font-size: 14px;\"><strong>58.26%</strong></span><span style=\"font-size: 14px;\"> ，是产业的核心技术环节，主要应用于服务器、PC和移动设备的系统内存</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">NAND Flash：占比</span><span style=\"font-size: 14px;\"><strong>41.68%</strong></span><span style=\"font-size: 14px;\"> ，广泛应用于固态硬盘、U盘、手机存储等场景</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">其他：占比0.06%，包括NOR Flash、EEPROM等产品</span></li></ul><p style=\"text-align: start;\"><br></p><h4 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">核心部件上游分析 - 硅片</span></h4><p style=\"text-align: start;\"><img src=\"https://space-static.coze.site/7623595435517002035/silicon_wafer_upstream-982d02c06f.png?sign=1777598880-8bfc0982df-0-2598b9e964b530362842168d32577dc4944fef52aaa563dbd307ecd23ddb58c6\" alt=\"\" data-href=\"\" style=\"width: 640px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">硅片作为存储芯片制造的核心原材料，占芯片制造成本的30%到40%，其上游主要供应商包括：</span></p><ul><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">日本信越化学：占比28%，全球硅片行业的</span><span style=\"font-size: 14px;\"><strong>龙头</strong></span><span style=\"font-size: 14px;\">企业</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">日本SUMCO：占比27%，全球第二大硅片供应商</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">中国台湾环球晶圆：占比15%，全球第三大硅片供应商</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">德国世创：占比13%，专注于高端硅片市场</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">韩国SK Siltron：占比10%，主要供应韩国存储芯片企业</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">中国沪硅产业：占比7%，国内</span><span style=\"font-size: 14px;\"><strong>龙头</strong></span><span style=\"font-size: 14px;\">硅片企业</span></li></ul><p style=\"text-align: start;\"><br></p><h4 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">核心部件上游分析 - 光刻机</span></h4><p style=\"text-align: start;\"><img src=\"https://space-static.coze.site/7623595435517002035/lithography_machine_upstream-888aaf5dea.png?sign=1777598880-1db99001fe-0-745881083a5f0a23c9cfbc2b0cf50e32d400d180e2997f37e8f54fb6b19fc2e5\" alt=\"\" data-href=\"\" style=\"width: 640px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">光刻机是存储芯片制造的核心设备，其上游主要供应商包括：</span></p><p style=\"text-align: start;\"><br></p><ul><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">荷兰ASML：占比</span><span style=\"font-size: 14px;\"><strong>80%</strong></span><span style=\"font-size: 14px;\"> ，全球光刻机行业的</span><span style=\"font-size: 14px;\"><strong>龙头</strong></span><span style=\"font-size: 14px;\">企业，垄断了EUV光刻机市场</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">日本尼康：占比15%，主要供应DUV光刻机</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">日本佳能：占比5%，在低端光刻机市场有一定份额</span></li></ul><p style=\"text-align: start;\"><br></p><h4 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">应用场景分布</span></h4><p style=\"text-align: start;\"><img src=\"https://space-static.coze.site/7623595435517002035/application_scenarios-4305609259.png?sign=1777598880-d686e7f6bc-0-018ce806a078967717287ead0aa15591a7f5a9ea67b27763d075a5b339a961ad\" alt=\"\" data-href=\"\" style=\"width: 640px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">存储芯片的主要应用场景包括：</span></p><ul><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">数据中心与AI服务器：占比40%，是近年来增长最快的细分市场，对HBM等高带宽存储的需求激增</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">消费电子：占比35%，涵盖智能手机、个人电脑和平板电脑等设备，是存储芯片的传统最大应用市场</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">汽车电子：占比15%，随着新能源汽车和智能驾驶的发展，车载存储需求快速增长</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">工业控制与物联网：占比10%，对存储芯片的可靠性和耐久性要求较高</span></li></ul><p style=\"text-align: start;\"><br></p><h4 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">常用辅材及消耗材料列表</span></h4><p style=\"text-align: start;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">辅材/消耗材料名称</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">主要供应厂家</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">数据来源</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">电子特气</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">华特气体、金宏气体、南大光电</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">中国半导体行业协会</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">光刻胶</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">南大光电、上海新阳、晶瑞电材</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">中国半导体行业协会</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">溅射靶材</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">江丰电子、阿石创、有研新材</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">中国半导体行业协会</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">封装材料</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">华海诚科、联瑞新材、康强电子</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">中国半导体行业协会</span></td></tr></tbody></table><p style=\"text-align: start;\"><br></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">2.2 新增量与新技术分析</span></h3><h4 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">新增量与新技术分布</span></h4><p style=\"text-align: start;\"><img src=\"https://space-static.coze.site/7623595435517002035/new_technologies-938a070c85.png?sign=1777598880-44b750dae0-0-7e62ca432697a6ece03ff828171991c10cc8080d3c238b03a8ade6d8f0a2d2ad\" alt=\"\" data-href=\"\" style=\"width: 640px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">技术名称</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">占比</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">增长率</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">数据来源</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">HBM（高带宽内存）</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">40%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">67%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">TrendForce</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">DDR5内存</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">30%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">50%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">TrendForce</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">3D NAND（300层以上）</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">20%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">35%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">TrendForce</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">CXL互连技术</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">10%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">80%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">IDC</span></td></tr></tbody></table><p style=\"text-align: start;\"><br></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>增长潜力分析</strong></span><span style=\"font-size: 14px;\">：</span></p><p><span style=\"font-size: 14px;\">HBM作为AI服务器的核心存储芯片，单价是普通DRAM的5-10倍，2025年全球HBM市场规模预计突破200亿美元，头部厂商（如三星、SK海力士）的利润弹性显著。预计未来3年将保持年均60%以上的增长率，主要受益于AI算力需求的持续爆发。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>前景预测</strong></span><span style=\"font-size: 14px;\">：</span></p><p><span style=\"font-size: 14px;\">随着AI技术的不断发展，HBM在DRAM总营收中的占比将持续提升，预计到2030年将占据DRAM总营收的50%以上。同时，CXL互连技术的普及将推动内存池化的发展，大幅提升AI训练效率。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>新兴技术趋势</strong></span><span style=\"font-size: 14px;\">：</span></p><p><span style=\"font-size: 14px;\">当前存储芯片产业呈现以下新兴技术趋势：</span></p><ol><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">存算一体化：将计算单元与存储单元集成在一起，突破冯·诺依曼架构的性能瓶颈</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">新型存储介质：如MRAM（磁阻存储器）、ReRAM（阻变存储器）等，兼具DRAM的速度和NAND Flash的非易失性</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">先进封装技术：如CoWoS、FOPLP等，提升存储芯片的集成度和性能</span></li></ol><p style=\"text-align: start;\"><br></p><h4 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">HBM技术受益行业分析</span></h4><p style=\"text-align: start;\"><img src=\"https://space-static.coze.site/7623595435517002035/hbm_beneficiaries-bbe62a4602.png?sign=1777598880-4d9faca381-0-84df7b53057b7f018d75871b2a45ec1184ec77607370d43ff2acb4437e6e8a81\" alt=\"\" data-href=\"\" style=\"width: 640px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">HBM技术的推广应用将利好以下行业：</span></p><ul><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">AI服务器：占比</span><span style=\"font-size: 14px;\"><strong>70%</strong></span><span style=\"font-size: 14px;\"> ，受益于AI大模型训练和推理对高带宽存储的需求</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">超级计算机：占比15%，受益于高性能计算对存储带宽的极致要求</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">高端工作站：占比10%，受益于专业图形处理和科学计算对存储性能的需求</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">其他：占比5%，包括游戏主机、高端智能手机等</span></li></ul><p style=\"text-align: start;\"><br></p><h4 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">DDR5技术受益行业分析</span></h4><p style=\"text-align: start;\"><img src=\"https://space-static.coze.site/7623595435517002035/ddr5_beneficiaries-851435b286.png?sign=1777598880-7899890f18-0-aed0465816b39e4848d841891cafb4a979f7d9b521956083911f9d1a3cbcdd00\" alt=\"\" data-href=\"\" style=\"width: 640px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">DDR5技术的推广应用将利好以下行业：</span></p><ul><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">数据中心：占比40%，受益于DDR5的高带宽和低功耗特性</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">PC与笔记本电脑：占比30%，受益于DDR5对系统性能的提升</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">智能手机：占比20%，受益于LPDDR5X的低功耗和高带宽特性</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">其他：占比10%，包括服务器、工业控制等</span></li></ul><p style=\"text-align: start;\"><br></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">2.3 行业不同技术路线及对应公司</span></h3><p style=\"text-align: start;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">技术路线</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">路线特点</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">代表公司</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">数据来源</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">DRAM</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">易失性存储，读写速度快，主要应用于系统内存</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">三星电子、SK海力士、美光科技、长鑫存储</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">TrendForce</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">NAND Flash</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">非易失性存储，断电后数据能够长期保留，主要应用于大容量存储</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">三星电子、SK海力士、铠侠、美光科技、长江存储</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">TrendForce</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">HBM</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">高带宽内存，通过3D堆叠技术将多颗DRAM芯片垂直堆叠，大幅提升带宽并降低功耗，主要应用于AI服务器</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">三星电子、SK海力士、美光科技</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">TrendForce</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">MRAM</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">磁阻存储器，兼具SRAM速度、DRAM密度与Flash非易失性，主要应用于车规级MCU、工业控制器</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">三星、台积电、英特尔</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">行业研究报告</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">ReRAM</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">阻变存储器，单元面积小，读写速度是NAND的1000倍，同时功耗可以降低15倍</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">美光科技、三星电子</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">行业研究报告</span></td></tr></tbody></table><p style=\"text-align: start;\"><br></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">2.4 前沿企业</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>前沿技术与方向</strong></span><span style=\"font-size: 14px;\">：</span></p><p><span style=\"font-size: 14px;\">存储芯片产业最新的前沿技术发展方向包括：</span></p><ol><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">HBM技术：持续提升堆叠层数和带宽，HBM4预计2026年下半年出货，带宽将提升至5.4TB/s</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">3D NAND技术：堆叠层数突破400层，转向\"水平扩展+架构优化\"，如三星V-NAND的阶梯式架构、铠侠的BiCS架构</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">存算一体化技术：将计算单元与存储单元集成在一起，突破冯·诺依曼架构的性能瓶颈</span></li></ol><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>关键技术突破点</strong></span><span style=\"font-size: 14px;\">：</span></p><ul><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">HBM3e技术实现量产，带宽达3.6TB/s</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">3D NAND堆叠层数突破300层，长江存储294层3D NAND稳定量产，良率超90%</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">DDR5内存渗透率突破50%，成为服务器市场主流</span></li></ul><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>未来3-5年技术演进路径</strong></span><span style=\"font-size: 14px;\">：</span></p><ul><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">短期（1-2年）：HBM4实现量产，3D NAND堆叠层数突破400层，DDR5成为PC和智能手机的主流配置</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">中期（2-3年）：存算一体化技术实现规模化应用，新型存储介质（如MRAM、ReRAM）在特定场景得到广泛应用</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">长期（3-5年）：存储芯片性能将实现数量级提升，AI训练效率将大幅提高，存储成本将进一步降低</span></li></ul><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>产业进度前五A股企业列表</strong></span><span style=\"font-size: 14px;\">：</span></p><p style=\"text-align: start;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">A股名称</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">产业进度的具体情况说明</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">数据来源</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">长江存储</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">全球NAND第一梯队，294层3D NAND稳定量产，良率超90%，2026年总产能达30万片/月，全球市占率有望从8%提升至15%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">公司公告、中国半导体行业协会</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">长鑫存储</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">DRAM国产</span><span style=\"font-size: 14px;\"><strong>龙头</strong></span><span style=\"font-size: 14px;\">，17nm DDR5已大规模量产，良率超80%，性能与国际一线差距缩至5%以内，已交付HBM3样品，2026年HBM月产能目标至少5万片</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">公司公告、中国半导体行业协会</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">兆易创新</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">NOR Flash国产</span><span style=\"font-size: 14px;\"><strong>龙头</strong></span><span style=\"font-size: 14px;\">，市占率全球前三，DDR5内存接口芯片配套成熟，AI服务器需求爆发下量价齐升</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">公司公告、中国半导体行业协会</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">澜起科技</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">全球HBM接口芯片</span><span style=\"font-size: 14px;\"><strong>龙头</strong></span><span style=\"font-size: 14px;\">，全球市占率超40%，产品全面供货三星、SK海力士、美光，行业壁垒极高</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">公司公告、中国半导体行业协会</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">佰维存储</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">专注于嵌入式存储和企业级固态硬盘，是AI眼镜存储领域的核心供应商，2025年业绩大幅预增，净利润预计同比增长427%到520%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">公司公告、中国半导体行业协会</span></td></tr></tbody></table><p style=\"text-align: start;\"><br></p><h2 style=\"text-align: start;\"><span style=\"font-size: 14px;\">第三部分：存储芯片产业链分析</span></h2><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">3.1 上游核心部件分析</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">存储芯片产业链上游主要包括半导体材料、EDA设计工具和半导体设备三大板块，这些环节技术壁垒极高，目前仍由国际巨头主导。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>半导体材料</strong></span><span style=\"font-size: 14px;\">：</span></p><ul><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">硅片：全球前六大硅片厂商合计占据80%的市场份额，国内硅片国产化率约为20%到30%，代表企业有沪硅产业、中环股份等</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">电子特气：华特气体成功突破ArF光刻气等高端产品，通过台积电、中芯国际认证，国内高端特气市占率领先</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">光刻胶：南大光电的ArF光刻胶已通过国内大厂验证，突破海外垄断</span></li></ul><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>EDA设计工具</strong></span><span style=\"font-size: 14px;\">：</span></p><p><span style=\"font-size: 14px;\">全球市场基本被Cadence、Synopsys和Mentor三家美国公司垄断，国内企业如华大九天、概伦电子和广立微正在加速追赶，但在高端领域仍有差距。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>半导体设备</strong></span><span style=\"font-size: 14px;\">：</span></p><ul><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">光刻机：荷兰ASML在EUV光刻机领域独占鳌头，国内企业在DUV光刻机领域取得一定突破</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">刻蚀机：中微公司的5nm等离子体刻蚀机通过台积电验证，国内市占率逐步提升</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">薄膜沉积设备：拓荆科技是国内唯一实现PECVD设备量产的厂商，在长江存储招标份额达55%</span></li></ul><p style=\"text-align: start;\"><br></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">3.2 中游制造与集成</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">存储芯片中游环节根据商业模式不同可分为三种类型：</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>IDM模式</strong></span><span style=\"font-size: 14px;\">：</span></p><p><span style=\"font-size: 14px;\">即设计、制造和封测一体化运营，代表企业包括国际巨头三星、SK海力士和美光，以及国内的长江存储、长鑫存储。IDM模式的优势在于对产业链的自主可控，能够快速响应市场需求和技术迭代，但资本投入巨大，技术门槛高。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>Fabless模式</strong></span><span style=\"font-size: 14px;\">：</span></p><p><span style=\"font-size: 14px;\">即专注于芯片设计，不涉及制造环节，代表企业包括兆易创新、北京君正、东芯股份等。Fabless模式的优势在于轻资产运营，能够快速推出新产品，但对代工厂的依赖度较高。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>Foundry代工模式</strong></span><span style=\"font-size: 14px;\">：</span></p><p><span style=\"font-size: 14px;\">代表企业有中芯国际和华虹半导体，它们为没有制造能力的设计公司提供芯片代工服务。Foundry模式的优势在于能够实现资源共享，降低芯片设计企业的成本，但技术水平和产能利用率对企业发展至关重要。</span></p><p style=\"text-align: start;\"><br></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">3.3 下游应用领域</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">存储芯片的下游应用非常广泛，主要包括四大领域：</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>消费电子领域</strong></span><span style=\"font-size: 14px;\">：</span></p><p><span style=\"font-size: 14px;\">涵盖智能手机、个人电脑和平板电脑等设备，这是存储芯片的传统最大应用市场。随着AI手机、AI PC的普及，对存储容量和性能的需求持续提升，LPDDR6低功耗内存、PCIe 5.0 SSD成为标配。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>数据中心与AI服务器领域</strong></span><span style=\"font-size: 14px;\">：</span></p><p><span style=\"font-size: 14px;\">是近年来增长最快的细分市场，随着人工智能技术的爆发，对HBM等高带宽存储的需求激增。单台AI服务器的DRAM需求是普通服务器的8-10倍，对NAND闪存的需求更是提升了12倍以上。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>汽车电子领域</strong></span><span style=\"font-size: 14px;\">：</span></p><p><span style=\"font-size: 14px;\">随着新能源汽车和智能驾驶的发展，车载存储需求快速增长，单车存储容量从传统燃油车的1GB提升至新能源汽车的10GB以上。车规级存储对可靠性和耐久性要求极高，北京君正在该领域具有明显优势。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>工业控制、物联网和网络通信领域</strong></span><span style=\"font-size: 14px;\">：</span></p><p><span style=\"font-size: 14px;\">对存储芯片的可靠性和耐久性要求较高，也是重要的应用方向。工业控制领域对存储芯片的温度范围、抗震性等指标有严格要求，物联网领域对存储芯片的低功耗特性要求较高。</span></p><p><br></p>",
+            "parentId": "0000000000",
+            "ancestors": "0",
+            "importance": 2,
+            "limitUpCount": 0
+        }
+    ]
+}

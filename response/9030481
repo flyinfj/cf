@@ -1,0 +1,200 @@
+{
+    "stat": true,
+    "message": "成功",
+    "code": 200,
+    "data": [
+        {
+            "name": "航天国家队",
+            "G": 6,
+            "stocks": [],
+            "children": [
+                {
+                    "name": "航天科技集团",
+                    "reason": "航天科技集团",
+                    "sort": 1,
+                    "level": 3,
+                    "pctChg": -0.57,
+                    "detail": "<p><br></p>",
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "G",
+                            "pctChg": -1.15,
+                            "top": 0,
+                            "code": "sh600151",
+                            "name": "航天机电",
+                            "reason": "母公司航天八院研制长征十二号甲可重复使用火箭",
+                            "sort": 0,
+                            "stockId": "600151",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "pctChg": -0.34,
+                            "top": 0,
+                            "code": "sh603698",
+                            "name": "航天工程",
+                            "reason": "母公司航天一院研制长征十号甲可重复使用火箭",
+                            "sort": 1,
+                            "stockId": "603698",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "pctChg": -0.27,
+                            "top": 0,
+                            "code": "sh600118",
+                            "name": "中国卫星",
+                            "reason": "卫星研发组装龙头企业",
+                            "sort": 1,
+                            "stockId": "600118",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "pctChg": 0.18,
+                            "top": 0,
+                            "code": "sh601698",
+                            "name": "中国卫通",
+                            "reason": "卫星运营龙头企业",
+                            "sort": 2,
+                            "stockId": "601698",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "pctChg": -1.75,
+                            "top": 0,
+                            "code": "sh600343",
+                            "name": "航天动力",
+                            "reason": "航天液体火箭龙头企业",
+                            "sort": 3,
+                            "stockId": "600343",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "pctChg": 0.16,
+                            "top": 0,
+                            "code": "sz003009",
+                            "name": "中天火箭",
+                            "reason": "航天固体火箭龙头企业",
+                            "sort": 4,
+                            "stockId": "003009",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "pctChg": -1.07,
+                            "top": 0,
+                            "code": "sh600879",
+                            "name": "航天电子",
+                            "reason": "航天电子器件龙头企业",
+                            "sort": 5,
+                            "stockId": "600879",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "pctChg": -0.42,
+                            "top": 0,
+                            "code": "sz300455",
+                            "name": "航天智装",
+                            "reason": "航天控制系统龙头企业",
+                            "sort": 6,
+                            "stockId": "300455",
+                            "business": null
+                        }
+                    ],
+                    "parentId": 9030481,
+                    "ancestors": "0,9019807,9030481",
+                    "subjectId": 9030483,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "航天科工集团",
+                    "reason": "航天科工集团",
+                    "sort": 1,
+                    "level": 3,
+                    "pctChg": -0.86,
+                    "detail": "<p><br></p>",
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "S",
+                            "pctChg": -0.97,
+                            "top": 0,
+                            "code": "sz000547",
+                            "name": "航天发展",
+                            "reason": "航天卫星发射业务",
+                            "sort": 1,
+                            "stockId": "000547",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "pctChg": -0.31,
+                            "top": 0,
+                            "code": "sh600501",
+                            "name": "航天晨光",
+                            "reason": "航天用金属软管",
+                            "sort": 1,
+                            "stockId": "600501",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "pctChg": -2.53,
+                            "top": 0,
+                            "code": "sz002025",
+                            "name": "航天电器",
+                            "reason": "航天连接器业务",
+                            "sort": 2,
+                            "stockId": "002025",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "pctChg": -0.58,
+                            "top": 0,
+                            "code": "sh600855",
+                            "name": "航天长峰",
+                            "reason": "航天红外光电和电源业务",
+                            "sort": 3,
+                            "stockId": "600855",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "pctChg": 0.09,
+                            "top": 0,
+                            "code": "sz000901",
+                            "name": "航天科技",
+                            "reason": "航天加速度传感器业务",
+                            "sort": 4,
+                            "stockId": "000901",
+                            "business": null
+                        }
+                    ],
+                    "parentId": 9030481,
+                    "ancestors": "0,9019807,9030481",
+                    "subjectId": 9030482,
+                    "importance": 2,
+                    "limitUpCount": null
+                }
+            ],
+            "S": 7,
+            "subjectId": "9030481",
+            "reason": "在商业航天领域，国企扮演着重要角色，通常拥有强大的研发实力和丰富的技术积累。国企如中国航天科技集团和中国航天科工集团等，它们在卫星制造、发射服务以及相关应用方面占据重要地位。这些国企不仅负责国家的重大航天项目，如北斗导航系统和嫦娥探月工程，同时也在商业航天市场中发挥着引领作用。例如，中国航天科技集团的子公司上海航天技术研究院，参与了多个商业航天项目，包括提供卫星和发射服务。国企在商业航天领域的参与，有助于推动技术创新，降低成本，并促进整个行业的健康发展",
+            "sort": 1,
+            "level": 2,
+            "pctChg": -0.69,
+            "detail": "<p style=\"text-align: center;\"><span style=\"color: rgb(6, 6, 7); background-color: rgb(255, 255, 255); font-size: 14px;\"><strong>航天国家队介绍</strong></span></p><p><span style=\"color: rgb(6, 6, 7); background-color: rgb(255, 255, 255); font-size: 14px;\">在商业航天领域，国企扮演着重要角色，通常拥有强大的研发实力和丰富的技术积累。国企如中国航天科技集团和中国航天科工集团等，它们在卫星制造、发射服务以及相关应用方面占据重要地位。这些国企不仅负责国家的重大航天项目，如北斗导航系统和嫦娥探月工程，同时也在商业航天市场中发挥着引领作用。例如，中国航天科技集团的子公司上海航天技术研究院，参与了多个商业航天项目，包括提供卫星和发射服务。国企在商业航天领域的参与，有助于推动技术创新，降低成本，并促进整个行业的健康发展</span></p>",
+            "parentId": "0009019807",
+            "ancestors": "0,9019807",
+            "importance": 2,
+            "limitUpCount": 0
+        }
+    ]
+}

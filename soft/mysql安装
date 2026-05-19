@@ -1,0 +1,32 @@
+﻿一、下载软件
+ 
+ wget https://dev.mysql.com/get/mysql57-community-release-el7-11.noarch.rpm
+ 
+ rpm -ivh mysql57-community-release-el7-11.noarch.rpm
+ 
+二、安装软件
+ 
+ sudo rpm --import https://repo.mysql.com/RPM-GPG-KEY-mysql-2022
+ 
+ sudo yum install mysql-community-server
+ 
+三、启动
+systemctl start mysqld
+
+systemctl enable mysqld
+
+四、设置root密码
+grep 'temporary password' /var/log/mysqld.log
+	2025-12-04T12:39:27.655293Z 1 [Note] A temporary password is generated for root@localhost: %og%h3t&fYau
+
+mysql -uroot -p 
+	ALTER USER 'root'@'localhost' IDENTIFIED BY 'Wwh@123321';
+
+五、建数据库、创建用户和授权。
+CREATE DATABASE IF NOT EXISTS cfdb 
+	DEFAULT CHARACTER SET utf8mb4 
+	DEFAULT COLLATE utf8mb4_unicode_ci;
+
+CREATE USER IF NOT EXISTS 'cfuser'@'%' IDENTIFIED BY 'Cf@123321';
+
+GRANT ALL PRIVILEGES ON cfdb.* TO 'cfuser'@'%' WITH GRANT OPTION;

@@ -1,0 +1,9 @@
+[root@iZbp1j6d9cfpls0f8gs27xZ ~]# crontab -l
+50 9 * * * /root/getMon.sh >/root/getMon.log
+48 8,9,11,18 * * * /root/getMessage.sh >/root/getMessage.log
+0 18 * * * /root/getTrend.sh >/root/getThrend.log
+30 23 * * * /root/getPopRank.sh >/root/getPopRank.log
+*/1 9-11 * * 1-5 /root/getTushare.py >/root/getTushare.log 2>&1
+*/1 13-14 * * 1-5 /root/getTushare.py >/root/getTushare.log 2>&1
+30 15 * * 1-5 /root/getTushare.py >/root/getTushare.log 2>&1
+[root@iZbp1j6d9cfpls0f8gs27xZ ~]# 

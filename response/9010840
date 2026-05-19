@@ -1,0 +1,66 @@
+{
+    "msg": "操作成功",
+    "code": 200,
+    "data": [
+        {
+            "ancestors": "0,9010317,9010331",
+            "children": [],
+            "createBy": null,
+            "createTime": null,
+            "detail": null,
+            "firstLetter": "TDI",
+            "imgUrl": null,
+            "importance": 1,
+            "leadTimes": null,
+            "level": 3,
+            "limitUpCount": null,
+            "limitUpTimes": null,
+            "name": "TDI",
+            "parentId": 9010331,
+            "parentName": "",
+            "pctChg": 6.44,
+            "reason": "2025年7月21日，TDI单日再涨超1000元/吨。",
+            "remark": null,
+            "selectReason": null,
+            "sort": 0,
+            "status": "1",
+            "stockCount": null,
+            "stocks": [
+                {
+                    "business": null,
+                    "createTime": "2025-06-12 17:51:26",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "****",
+                    "pctChg": 2.85,
+                    "reason": "TDI（甲苯二异氰酸酯）产能A股第一，144万吨",
+                    "remark": "聚氨酯龙头再迎新一轮成长，打造新材料平台型企业。",
+                    "selectedId": 6663,
+                    "sort": 1,
+                    "stockId": "111",
+                    "subjectId": 9010840,
+                    "top": 0
+                },
+                {
+                    "business": null,
+                    "createTime": "2025-06-12 17:53:13",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "****",
+                    "pctChg": 10.03,
+                    "reason": "TDI（甲苯二异氰酸酯）产能A股第二，16万吨",
+                    "remark": "首家规模生产 TDI 的公司，TDI 产业链完整",
+                    "selectedId": 6664,
+                    "sort": 2,
+                    "stockId": "111",
+                    "subjectId": 9010840,
+                    "top": 1
+                }
+            ],
+            "subjectId": 9010840,
+            "type": null,
+            "updateBy": null,
+            "updateTime": null
+        }
+    ]
+}

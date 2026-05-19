@@ -1,0 +1,569 @@
+{
+    "stat": true,
+    "message": "成功",
+    "code": 200,
+    "data": [
+        {
+            "name": "4月10日龙虎榜",
+            "G": 26,
+            "S": 2,
+            "subjectId": "9066072",
+            "stocks": [],
+            "children": [
+                {
+                    "name": "逻辑派",
+                    "sort": 1,
+                    "reason": "逻辑派。",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 1.67,
+                    "children": [
+                        {
+                            "name": "深南东路",
+                            "sort": 1,
+                            "reason": "深南东路",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 0.03,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh603588",
+                                    "pctChg": -9.97,
+                                    "top": 0,
+                                    "name": "高能环境",
+                                    "sort": 1,
+                                    "reason": "净买入4919.79万；",
+                                    "stockId": "603588",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600707",
+                                    "pctChg": 10.03,
+                                    "top": 1,
+                                    "name": "彩虹股份",
+                                    "sort": 2,
+                                    "reason": "净买入5574.01万；",
+                                    "stockId": "600707",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066074,
+                            "subjectId": 9066079,
+                            "importance": 1
+                        },
+                        {
+                            "name": "杭州五星路",
+                            "sort": 2,
+                            "reason": "杭州五星路",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 2.76,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh603538",
+                                    "pctChg": 8.24,
+                                    "top": 1,
+                                    "name": "美诺华",
+                                    "sort": 1,
+                                    "reason": "净买入9116.52万；",
+                                    "stockId": "603538",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh603182",
+                                    "pctChg": -9.97,
+                                    "top": 0,
+                                    "name": "嘉华股份",
+                                    "sort": 2,
+                                    "reason": "净卖-3741.55万；",
+                                    "stockId": "603182",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600345",
+                                    "pctChg": 10,
+                                    "top": 1,
+                                    "name": "长江通信",
+                                    "sort": 3,
+                                    "reason": "净买入5021.97万；",
+                                    "stockId": "600345",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066074,
+                            "subjectId": 9066080,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066072,
+                    "ancestors": "0,9066072",
+                    "subjectId": 9066074,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "机构净买入前五",
+                    "sort": 1,
+                    "reason": "机构专用席位，净买入前五。",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 7.58,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "G",
+                            "code": "sz002384",
+                            "pctChg": 8.87,
+                            "top": 1,
+                            "name": "东山精密",
+                            "sort": 1,
+                            "reason": "机构专用席位，净买入金额第一，6.79万；",
+                            "stockId": "002384",
+                            "business": "1"
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh600482",
+                            "pctChg": 10.01,
+                            "top": 1,
+                            "name": "中国动力",
+                            "sort": 2,
+                            "reason": "机构专用席位，净买入金额第二，5.09万；",
+                            "stockId": "600482",
+                            "business": "1"
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz002213",
+                            "pctChg": 4.09,
+                            "top": 0,
+                            "name": "大为股份",
+                            "sort": 3,
+                            "reason": "机构专用席位，净买入金额第三，3.85万；",
+                            "stockId": "002213",
+                            "business": "0"
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh603306",
+                            "pctChg": 4.88,
+                            "top": 1,
+                            "name": "华懋科技",
+                            "sort": 4,
+                            "reason": "机构专用席位，净买入金额第四，2.88万；",
+                            "stockId": "603306",
+                            "business": "0"
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz001309",
+                            "pctChg": 10,
+                            "top": 1,
+                            "name": "德明利",
+                            "sort": 5,
+                            "reason": "机构专用席位，净买入金额第五，2.51万；",
+                            "stockId": "001309",
+                            "business": "0"
+                        }
+                    ],
+                    "parentId": 9066072,
+                    "ancestors": "0,9066072",
+                    "subjectId": 9066073,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "统帅级",
+                    "sort": 2,
+                    "reason": "统帅级。",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 7.79,
+                    "children": [
+                        {
+                            "name": "上海光复路",
+                            "sort": 1,
+                            "reason": "上海光复路",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 10.04,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "code": "sh600983",
+                                    "pctChg": 10.05,
+                                    "top": 1,
+                                    "name": "惠而浦",
+                                    "sort": 1,
+                                    "reason": "净买入608.43万；",
+                                    "stockId": "600983",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002962",
+                                    "pctChg": 10.02,
+                                    "top": 1,
+                                    "name": "五方光电",
+                                    "sort": 2,
+                                    "reason": "净买入474.20万；",
+                                    "stockId": "002962",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066075,
+                            "subjectId": 9066081,
+                            "importance": 1
+                        },
+                        {
+                            "name": "作手新一",
+                            "sort": 2,
+                            "reason": "作手新一",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 4.86,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz300489",
+                                    "pctChg": 10.43,
+                                    "top": 0,
+                                    "name": "光智科技",
+                                    "sort": 1,
+                                    "reason": "净卖-670.66万；",
+                                    "stockId": "300489",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002384",
+                                    "pctChg": 8.87,
+                                    "top": 1,
+                                    "name": "东山精密",
+                                    "sort": 2,
+                                    "reason": "净买入5.93亿；",
+                                    "stockId": "002384",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002263",
+                                    "pctChg": 10.11,
+                                    "top": 1,
+                                    "name": "大东南",
+                                    "sort": 3,
+                                    "reason": "净买入1.11亿；",
+                                    "stockId": "002263",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz000586",
+                                    "pctChg": -9.99,
+                                    "top": 1,
+                                    "name": "汇源通信",
+                                    "sort": 4,
+                                    "reason": "净卖-4372.19万；",
+                                    "stockId": "000586",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066075,
+                            "subjectId": 9066082,
+                            "importance": 1
+                        },
+                        {
+                            "name": "炒股养家",
+                            "sort": 3,
+                            "reason": "炒股养家",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 7.9,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh688690",
+                                    "pctChg": 20.02,
+                                    "top": 0,
+                                    "name": "纳微科技",
+                                    "sort": 1,
+                                    "reason": "净买入1436.65万；",
+                                    "stockId": "688690",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh603889",
+                                    "pctChg": 10.06,
+                                    "top": 0,
+                                    "name": "新澳股份",
+                                    "sort": 2,
+                                    "reason": "净买入1435.56万；",
+                                    "stockId": "603889",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600654",
+                                    "pctChg": -8.48,
+                                    "top": 1,
+                                    "name": "中安科",
+                                    "sort": 3,
+                                    "reason": "净卖-3126.71万；",
+                                    "stockId": "600654",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002824",
+                                    "pctChg": 10.01,
+                                    "top": 1,
+                                    "name": "和胜股份",
+                                    "sort": 4,
+                                    "reason": "净卖-167.15万；",
+                                    "stockId": "002824",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066075,
+                            "subjectId": 9066083,
+                            "importance": 1
+                        },
+                        {
+                            "name": "葛卫东",
+                            "sort": 4,
+                            "reason": "葛卫东",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 9.75,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh600707",
+                                    "pctChg": 10.03,
+                                    "top": 1,
+                                    "name": "彩虹股份",
+                                    "sort": 1,
+                                    "reason": "净买入5072.34万；",
+                                    "stockId": "600707",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600345",
+                                    "pctChg": 10,
+                                    "top": 1,
+                                    "name": "长江通信",
+                                    "sort": 2,
+                                    "reason": "净买入1.04亿；",
+                                    "stockId": "600345",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600103",
+                                    "pctChg": 10.14,
+                                    "top": 1,
+                                    "name": "青山纸业",
+                                    "sort": 3,
+                                    "reason": "净买入5054.85万；",
+                                    "stockId": "600103",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002384",
+                                    "pctChg": 8.87,
+                                    "top": 1,
+                                    "name": "东山精密",
+                                    "sort": 4,
+                                    "reason": "净买入6.19亿；",
+                                    "stockId": "002384",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066075,
+                            "subjectId": 9066084,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066072,
+                    "ancestors": "0,9066072",
+                    "subjectId": 9066075,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "新生代",
+                    "sort": 3,
+                    "reason": "新生代。",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 10,
+                    "children": [
+                        {
+                            "name": "湖里大道",
+                            "sort": 1,
+                            "reason": "湖里大道",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 9.98,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh603777",
+                                    "pctChg": 9.98,
+                                    "top": 1,
+                                    "name": "来伊份",
+                                    "sort": 1,
+                                    "reason": "净卖-197.63万；",
+                                    "stockId": "603777",
+                                    "business": "1"
+                                }
+                            ],
+                            "parentId": 9066076,
+                            "subjectId": 9066085,
+                            "importance": 1
+                        },
+                        {
+                            "name": "流沙河",
+                            "sort": 2,
+                            "reason": "流沙河",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 10.03,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh600707",
+                                    "pctChg": 10.03,
+                                    "top": 1,
+                                    "name": "彩虹股份",
+                                    "sort": 1,
+                                    "reason": "净买入3599.54万；",
+                                    "stockId": "600707",
+                                    "business": "1"
+                                }
+                            ],
+                            "parentId": 9066076,
+                            "subjectId": 9066086,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066072,
+                    "ancestors": "0,9066072",
+                    "subjectId": 9066076,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "多资金聚集地",
+                    "sort": 4,
+                    "reason": "多资金聚集地。",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 10.03,
+                    "children": [
+                        {
+                            "name": "中信浙江分",
+                            "sort": 1,
+                            "reason": "中信浙江分",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 10.03,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "code": "sh603093",
+                                    "pctChg": 10.03,
+                                    "top": 0,
+                                    "name": "南华期货",
+                                    "sort": 1,
+                                    "reason": "净卖-339.54万；",
+                                    "stockId": "603093",
+                                    "business": "1"
+                                }
+                            ],
+                            "parentId": 9066077,
+                            "subjectId": 9066087,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066072,
+                    "ancestors": "0,9066072",
+                    "subjectId": 9066077,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "首板流",
+                    "sort": 5,
+                    "reason": "首板流。",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 10.01,
+                    "children": [
+                        {
+                            "name": "中山东路",
+                            "sort": 1,
+                            "reason": "中山东路",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 10.01,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz002328",
+                                    "pctChg": 10.01,
+                                    "top": 1,
+                                    "name": "新朋股份",
+                                    "sort": 1,
+                                    "reason": "净卖-180.55万；",
+                                    "stockId": "002328",
+                                    "business": "1"
+                                }
+                            ],
+                            "parentId": 9066078,
+                            "subjectId": 9066088,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066072,
+                    "ancestors": "0,9066072",
+                    "subjectId": 9066078,
+                    "importance": 1,
+                    "limitUpCount": null
+                }
+            ],
+            "sort": 0,
+            "reason": "4月10日龙虎榜中上榜机构以及各路游资汇总",
+            "level": 1,
+            "pctChg": 6.47,
+            "detail": "",
+            "parentId": "0000000000",
+            "ancestors": "0",
+            "importance": 1,
+            "limitUpCount": 0
+        }
+    ]
+}

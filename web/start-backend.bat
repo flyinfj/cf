@@ -1,0 +1,6 @@
+@echo off
+echo Starting Spring Boot Backend...
+cd backend
+echo Running Maven Spring Boot application...
+mvn spring-boot:run
+pause

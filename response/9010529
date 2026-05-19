@@ -1,0 +1,81 @@
+{
+    "msg": "操作成功",
+    "code": 200,
+    "data": [
+        {
+            "ancestors": "0,9010270",
+            "children": [],
+            "createBy": null,
+            "createTime": null,
+            "detail": null,
+            "firstLetter": "M",
+            "imgUrl": null,
+            "importance": 1,
+            "leadTimes": null,
+            "level": 2,
+            "limitUpCount": null,
+            "limitUpTimes": null,
+            "name": "钼",
+            "parentId": 9010270,
+            "parentName": "",
+            "pctChg": 1.32,
+            "reason": "钼及其合金在冶金、农业、电气、化工、环保和宇航等重要部门有着广泛的应用和良好的前景，成为国民经济中一种重要的原料和不可替代的战略物质。我国已探明的钼金属储量为172万吨，基础储量为343万吨，仅次于美国而居世界第二位。",
+            "remark": null,
+            "selectReason": null,
+            "sort": -97,
+            "status": "1",
+            "stockCount": null,
+            "stocks": [
+                {
+                    "business": null,
+                    "createTime": "2023-07-05 17:05:44",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "****",
+                    "pctChg": 2.32,
+                    "reason": "钼金属业务市占率A股第一，16%",
+                    "remark": "国内钼行业的龙头企业，“自产+自营+贸易”多元化经营",
+                    "selectedId": 4734,
+                    "sort": 1,
+                    "stockId": "111",
+                    "subjectId": 9010529,
+                    "top": 1
+                },
+                {
+                    "business": null,
+                    "createTime": "2023-07-05 17:06:04",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "****",
+                    "pctChg": 3.12,
+                    "reason": "钼金属业务市占率A股第二，13%",
+                    "remark": "全球铜钴龙头企业，未来2年公司TFM混合矿项目和KFM铜钴矿等将投产运营，将迎来快速增长期。",
+                    "selectedId": 4735,
+                    "sort": 2,
+                    "stockId": "111",
+                    "subjectId": 9010529,
+                    "top": 0
+                },
+                {
+                    "business": null,
+                    "createTime": "2023-07-05 17:06:20",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "****",
+                    "pctChg": -1.48,
+                    "reason": "钼产品营收45亿元，营收占比64.55%",
+                    "remark": "国内大型钼业企业，主营钼炉料、钼化工、钼金属等钼系列产品",
+                    "selectedId": 4736,
+                    "sort": 3,
+                    "stockId": "111",
+                    "subjectId": 9010529,
+                    "top": 0
+                }
+            ],
+            "subjectId": 9010529,
+            "type": null,
+            "updateBy": null,
+            "updateTime": null
+        }
+    ]
+}

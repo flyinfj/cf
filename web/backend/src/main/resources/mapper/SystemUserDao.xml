@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.stock.dao.SystemUserDao">
+    
+    <resultMap id="BaseResultMap" type="com.stock.entity.SystemUser">
+        <id column="id" property="id"/>
+        <result column="user_name" property="userName"/>
+        <result column="password" property="password"/>
+    </resultMap>
+
+    <select id="findByUserName" resultMap="BaseResultMap">
+        SELECT id, user_name, password
+        FROM system_user
+        WHERE user_name = #{userName}
+    </select>
+
+    <insert id="insert" parameterType="com.stock.entity.SystemUser" useGeneratedKeys="true" keyProperty="id">
+        INSERT INTO system_user (user_name, password)
+        VALUES (#{userName}, #{password})
+    </insert>
+
+</mapper>

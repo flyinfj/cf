@@ -1,0 +1,67 @@
+{
+    "msg": "操作成功",
+    "code": 200,
+    "data": [
+        {
+            "ancestors": "0,9041906",
+            "bizKey": null,
+            "children": [],
+            "createBy": null,
+            "createTime": null,
+            "detail": null,
+            "firstLetter": "QHKJ",
+            "imgUrl": null,
+            "importance": 2,
+            "leadTimes": null,
+            "level": 2,
+            "limitUpCount": null,
+            "limitUpTimes": null,
+            "name": "群核科技",
+            "parentId": 9041906,
+            "parentName": "",
+            "pctChg": 3.04,
+            "reason": "群核科技‌是一家全球领先的云设计软件平台，专注于具身智能和空间智能领域。公司成立于2011年11月，总部位于浙江省杭州市。群核科技的主要业务包括云设计软件系统的研发和应用，面向家居家装、商业空间、地产建筑等全空间领域，提供设计渲染、营销展示、生产对接、施工落地等场景的软件产品和数字化解决方案‌。\n",
+            "remark": null,
+            "selectReason": null,
+            "sort": 4,
+            "status": "1",
+            "stockCount": null,
+            "stocks": [
+                {
+                    "business": null,
+                    "createTime": "2025-02-11 10:02:49",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "****",
+                    "pctChg": 0.44,
+                    "reason": "关联度第一，电商SAAS+AI智能体，电商SAAS服务营收A股第一，4.8亿；参股公司实在智能Agent智能体开放公测",
+                    "remark": "业内领先的电商SaaS企业",
+                    "selectedId": 122381,
+                    "sort": 1,
+                    "stockId": "111",
+                    "subjectId": 9041924,
+                    "top": 0
+                },
+                {
+                    "business": null,
+                    "createTime": "2025-02-11 10:03:03",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "****",
+                    "pctChg": 5.64,
+                    "reason": "云服务+机器人，全资子公司华通云数据开展智慧云服务业务；公司推出多模态政务服务机器人",
+                    "remark": "智慧云服务、智慧城市、智慧商务、智慧生活的解决方案提供商",
+                    "selectedId": 122382,
+                    "sort": 2,
+                    "stockId": "111",
+                    "subjectId": 9041924,
+                    "top": 1
+                }
+            ],
+            "subjectId": 9041924,
+            "type": null,
+            "updateBy": null,
+            "updateTime": null
+        }
+    ]
+}

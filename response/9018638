@@ -1,0 +1,849 @@
+{
+    "stat": true,
+    "message": "成功",
+    "code": 200,
+    "data": [
+        {
+            "name": "海峡两岸",
+            "G": 27,
+            "S": 31,
+            "subjectId": "9018638",
+            "stocks": [],
+            "children": [
+                {
+                    "name": "平潭免税区",
+                    "sort": -10000,
+                    "reason": "平潭免税区",
+                    "level": 2,
+                    "detail": "<p><br></p>",
+                    "pctChg": -2.72,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "G",
+                            "code": "sz000592",
+                            "pctChg": -4.03,
+                            "top": 1,
+                            "name": "平潭发展",
+                            "sort": 1,
+                            "reason": "平潭综合试验区开发唯一上市公司",
+                            "stockId": "000592",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sz300300",
+                            "pctChg": -1.41,
+                            "top": 0,
+                            "name": "ST峡创",
+                            "sort": 2,
+                            "reason": "平潭综合试验区国资委唯一控股上市公司",
+                            "stockId": "300300",
+                            "business": null
+                        }
+                    ],
+                    "parentId": 9018638,
+                    "ancestors": "0,9018638",
+                    "subjectId": 9018647,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "创投",
+                    "sort": -9999,
+                    "reason": "创投",
+                    "level": 2,
+                    "detail": "<p><br></p>",
+                    "pctChg": -0.29,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "S",
+                            "code": "sz300300",
+                            "pctChg": -1.41,
+                            "top": 0,
+                            "name": "ST峡创",
+                            "sort": 0,
+                            "reason": "公司投资参控企业超50家，包括极光推送、京东金融",
+                            "stockId": "300300",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sz000632",
+                            "pctChg": 0.23,
+                            "top": 0,
+                            "name": "三木集团",
+                            "sort": 1,
+                            "reason": "公司参股盈科汇金，其主营为私募股权投资与创业投资管理",
+                            "stockId": "000632",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sz000753",
+                            "pctChg": -3.18,
+                            "top": 0,
+                            "name": "漳州发展",
+                            "sort": 2,
+                            "reason": "公司参股福建华兴漳发创业投资有限公司",
+                            "stockId": "000753",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sh600067",
+                            "pctChg": 2.82,
+                            "top": 0,
+                            "name": "冠城新材",
+                            "sort": 3,
+                            "reason": "子公司福建冠城投资有限公司，其主营为多行业股权投资",
+                            "stockId": "600067",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh605086",
+                            "pctChg": -1.05,
+                            "top": 0,
+                            "name": "龙高股份",
+                            "sort": 5,
+                            "reason": "公司参股深创投红土一号基金，其主要投资于战略新兴产业",
+                            "stockId": "605086",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sh600734",
+                            "pctChg": -0.53,
+                            "top": 0,
+                            "name": "实达集团",
+                            "sort": 6,
+                            "reason": "公司参股深圳南山金融科技双创股权投资基金，其主要投资大数据、人工智能、云计算等领域",
+                            "stockId": "600734",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh600493",
+                            "pctChg": 1.09,
+                            "top": 0,
+                            "name": "凤竹纺织",
+                            "sort": 7,
+                            "reason": "公司参股上海兴烨创业投资有限公司，其主营创业投资业务",
+                            "stockId": "600493",
+                            "business": null
+                        }
+                    ],
+                    "parentId": 9018638,
+                    "ancestors": "0,9018638",
+                    "subjectId": 9034095,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "金融",
+                    "sort": 999,
+                    "reason": "金融",
+                    "level": 2,
+                    "detail": "<p><br></p>",
+                    "pctChg": 1.04,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "S",
+                            "code": "sh601377",
+                            "pctChg": 3.44,
+                            "top": 0,
+                            "name": "兴业证券",
+                            "sort": 1,
+                            "reason": "福建省第一大证券上市公司，海峡股权交易中心持股比例A股第一，45.2%",
+                            "stockId": "601377",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sz000993",
+                            "pctChg": 0.25,
+                            "top": 0,
+                            "name": "闽东电力",
+                            "sort": 2,
+                            "reason": "海峡股权交易中心持股比例A股第二，4.76%",
+                            "stockId": "000993",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sz002961",
+                            "pctChg": 2.6,
+                            "top": 0,
+                            "name": "瑞达期货",
+                            "sort": 3,
+                            "reason": "福建省第一大期货上市公司",
+                            "stockId": "002961",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sh601187",
+                            "pctChg": -0.8,
+                            "top": 0,
+                            "name": "厦门银行",
+                            "sort": 4,
+                            "reason": "厦门市第一大上市城商行",
+                            "stockId": "601187",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sh601166",
+                            "pctChg": -0.27,
+                            "top": 0,
+                            "name": "兴业银行",
+                            "sort": 6,
+                            "reason": "福建省第一大银行上市公司",
+                            "stockId": "601166",
+                            "business": null
+                        }
+                    ],
+                    "parentId": 9018638,
+                    "ancestors": "0,9018638",
+                    "subjectId": 9018644,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "其他",
+                    "sort": 1000,
+                    "reason": "其他",
+                    "level": 2,
+                    "detail": "<p><br></p>",
+                    "pctChg": -0.19,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "G",
+                            "code": "sz300972",
+                            "pctChg": 3.7,
+                            "top": 0,
+                            "name": "万辰集团",
+                            "sort": 1,
+                            "reason": "福建本地股，量贩零售（批发价超市）门店A股第一全国第二，6200家",
+                            "stockId": "300972",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sh601933",
+                            "pctChg": 0.81,
+                            "top": 0,
+                            "name": "永辉超市",
+                            "sort": 2,
+                            "reason": "福建本地股，超市零售业营收A股第一，737亿",
+                            "stockId": "601933",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz300102",
+                            "pctChg": -0.35,
+                            "top": 0,
+                            "name": "乾照光电",
+                            "sort": 3,
+                            "reason": "福建本地股，LED芯片产能市占率A股第四，10%",
+                            "stockId": "300102",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz000536",
+                            "pctChg": 1.4,
+                            "top": 0,
+                            "name": "华映科技",
+                            "sort": 4,
+                            "reason": "福建本地股，公司LCD显示面板、液晶模组营收14.5亿",
+                            "stockId": "000536",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz002474",
+                            "pctChg": 0.66,
+                            "top": 0,
+                            "name": "榕基软件",
+                            "sort": 6,
+                            "reason": "公司拥有福建省物联网公共服务平台唯一特许经营权",
+                            "stockId": "002474",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh603162",
+                            "pctChg": -4.1,
+                            "top": 0,
+                            "name": "海通发展",
+                            "sort": 7,
+                            "reason": "福建本地股，主要从事船舶租赁业务",
+                            "stockId": "603162",
+                            "business": "0"
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sz002593",
+                            "pctChg": 0.74,
+                            "top": 0,
+                            "name": "日上集团",
+                            "sort": 8,
+                            "reason": "福建本地股，汽车轮胎",
+                            "stockId": "002593",
+                            "business": "0"
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sz002512",
+                            "pctChg": 0.51,
+                            "top": 0,
+                            "name": "ST达华",
+                            "sort": 9,
+                            "reason": "福建本地股，主要从事电视机主板业务",
+                            "stockId": "002512",
+                            "business": "0"
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz002639",
+                            "pctChg": -5.37,
+                            "top": 1,
+                            "name": "雪人集团",
+                            "sort": 10,
+                            "reason": "福建本地股，商业制冷",
+                            "stockId": "002639",
+                            "business": "0"
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sz002333",
+                            "pctChg": 1.65,
+                            "top": 0,
+                            "name": "罗普斯金",
+                            "sort": 11,
+                            "reason": "公司创始人为台资企业，现已转为大陆民营控股",
+                            "stockId": "002333",
+                            "business": "0"
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh603175",
+                            "pctChg": -1.81,
+                            "top": 0,
+                            "name": "超颖电子",
+                            "sort": 12,
+                            "reason": "公司控股股东为台湾定颖投控",
+                            "stockId": "603175",
+                            "business": "0"
+                        }
+                    ],
+                    "parentId": 9018638,
+                    "ancestors": "0,9018638",
+                    "subjectId": 9034123,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "房地产",
+                    "sort": 1000,
+                    "reason": "福建房地产",
+                    "level": 2,
+                    "detail": "<p><br></p>",
+                    "pctChg": 2.13,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "S",
+                            "code": "sh600067",
+                            "pctChg": 2.82,
+                            "top": 0,
+                            "name": "冠城新材",
+                            "sort": 1,
+                            "reason": "福建省第一大民营房企",
+                            "stockId": "600067",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sz000797",
+                            "pctChg": 1.44,
+                            "top": 0,
+                            "name": "中国武夷",
+                            "sort": 2,
+                            "reason": "福建省第一大国资房企",
+                            "stockId": "000797",
+                            "business": null
+                        }
+                    ],
+                    "parentId": 9018638,
+                    "ancestors": "0,9018638",
+                    "subjectId": 9018639,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "谐音梗",
+                    "sort": 99999,
+                    "reason": "谐音梗",
+                    "level": 2,
+                    "detail": "<p><br></p>",
+                    "pctChg": -0.17,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "G",
+                            "code": "sh600506",
+                            "pctChg": 1.23,
+                            "top": 0,
+                            "name": "统一股份",
+                            "sort": 1,
+                            "reason": "个股名称中包含统一",
+                            "stockId": "600506",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sz002205",
+                            "pctChg": 1.26,
+                            "top": 0,
+                            "name": "国统股份",
+                            "sort": 2,
+                            "reason": "个股名称中包含国统",
+                            "stockId": "002205",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz002840",
+                            "pctChg": -3,
+                            "top": 0,
+                            "name": "华统股份",
+                            "sort": 3,
+                            "reason": "个股名称中包含华统",
+                            "stockId": "002840",
+                            "business": null
+                        }
+                    ],
+                    "parentId": 9018638,
+                    "ancestors": "0,9018638",
+                    "subjectId": 9043429,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "福建辈",
+                    "sort": 99999,
+                    "reason": "福建辈",
+                    "level": 2,
+                    "detail": "<p><br></p>",
+                    "pctChg": 0.15,
+                    "children": [
+                        {
+                            "name": "福字辈",
+                            "sort": 1,
+                            "reason": "福字辈",
+                            "level": 3,
+                            "detail": "",
+                            "pctChg": 0.7,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "code": "sh600802",
+                                    "pctChg": -0.51,
+                                    "top": 0,
+                                    "name": "福建水泥",
+                                    "sort": 1,
+                                    "reason": "福建省第一大水泥上市公司，营收20.5亿",
+                                    "stockId": "600802",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh600033",
+                                    "pctChg": -0.27,
+                                    "top": 0,
+                                    "name": "福建高速",
+                                    "sort": 2,
+                                    "reason": "福建省第一大高速上市公司，营收30.5亿",
+                                    "stockId": "600033",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz002679",
+                                    "pctChg": 0.66,
+                                    "top": 0,
+                                    "name": "福建金森",
+                                    "sort": 3,
+                                    "reason": "福建省第一大林业企业，营收1.47亿",
+                                    "stockId": "002679",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600203",
+                                    "pctChg": 0.54,
+                                    "top": 0,
+                                    "name": "福日电子",
+                                    "sort": 4,
+                                    "reason": "为华为手机提供ODM业务",
+                                    "stockId": "600203",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688010",
+                                    "pctChg": 2.84,
+                                    "top": 0,
+                                    "name": "福光股份",
+                                    "sort": 5,
+                                    "reason": "公司超高清镜头产品应用于“天问一号”、 “神舟系列”、 “嫦娥探月”、 “长征运载火箭”等高端装备",
+                                    "stockId": "688010",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh603686",
+                                    "pctChg": 0.87,
+                                    "top": 0,
+                                    "name": "福龙马",
+                                    "sort": 6,
+                                    "reason": "福建本地环卫车辆上市公司",
+                                    "stockId": "603686",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9034142,
+                            "subjectId": 9034145,
+                            "importance": 2
+                        },
+                        {
+                            "name": "厦门辈",
+                            "sort": 9999,
+                            "reason": "厦门辈",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": -0.03,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "code": "sz000701",
+                                    "pctChg": 0,
+                                    "top": 0,
+                                    "name": "厦门信达",
+                                    "sort": 1,
+                                    "reason": "厦门本地第一大汽车经销商",
+                                    "stockId": "000701",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz000905",
+                                    "pctChg": -2.5,
+                                    "top": 0,
+                                    "name": "厦门港务",
+                                    "sort": 2,
+                                    "reason": "厦门本地第一大港口企业",
+                                    "stockId": "000905",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600897",
+                                    "pctChg": 0.74,
+                                    "top": 0,
+                                    "name": "厦门空港",
+                                    "sort": 3,
+                                    "reason": "厦门本地第一大机场上市公司",
+                                    "stockId": "600897",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600057",
+                                    "pctChg": 0.72,
+                                    "top": 0,
+                                    "name": "厦门象屿",
+                                    "sort": 4,
+                                    "reason": "厦门本地第一大大宗商品供应链企业",
+                                    "stockId": "600057",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600755",
+                                    "pctChg": 0.31,
+                                    "top": 0,
+                                    "name": "厦门国贸",
+                                    "sort": 5,
+                                    "reason": "厦门本地第二大大宗商品供应链企业",
+                                    "stockId": "600755",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600549",
+                                    "pctChg": 0.51,
+                                    "top": 0,
+                                    "name": "厦门钨业",
+                                    "sort": 6,
+                                    "reason": "厦门本地第一大钨粉上市公司",
+                                    "stockId": "600549",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600815",
+                                    "pctChg": 0,
+                                    "top": 0,
+                                    "name": "厦工股份",
+                                    "sort": 7,
+                                    "reason": "厦门本地第一大工程机械上市公司",
+                                    "stockId": "600815",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9034142,
+                            "subjectId": 9034143,
+                            "importance": 2
+                        },
+                        {
+                            "name": "闽字辈",
+                            "sort": 10000,
+                            "reason": "闽字辈",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": -0.33,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz002578",
+                                    "pctChg": -2.42,
+                                    "top": 0,
+                                    "name": "闽发铝业",
+                                    "sort": 1,
+                                    "reason": "福建本地最大铝型材企业，营收28.2亿",
+                                    "stockId": "002578",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz000993",
+                                    "pctChg": 0.25,
+                                    "top": 0,
+                                    "name": "闽东电力",
+                                    "sort": 2,
+                                    "reason": "福建本地电力企业，电力营收4.7亿",
+                                    "stockId": "000993",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh600163",
+                                    "pctChg": 0.34,
+                                    "top": 0,
+                                    "name": "中闽能源",
+                                    "sort": 3,
+                                    "reason": "福建本地风电企业，风电营收17.34亿",
+                                    "stockId": "600163",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz002110",
+                                    "pctChg": 0.52,
+                                    "top": 0,
+                                    "name": "三钢闽光",
+                                    "sort": 4,
+                                    "reason": "福建本地最大钢铁企业，营收479.4亿",
+                                    "stockId": "002110",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9034142,
+                            "subjectId": 9034144,
+                            "importance": 2
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9018638,
+                    "ancestors": "0,9018638",
+                    "subjectId": 9034142,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "沙县小吃",
+                    "sort": 100000,
+                    "reason": "沙县小吃",
+                    "level": 2,
+                    "detail": "<p><br></p>",
+                    "pctChg": 0.84,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "G",
+                            "code": "sh603536",
+                            "pctChg": 2.22,
+                            "top": 0,
+                            "name": "惠发食品",
+                            "sort": 1,
+                            "reason": "合作进度A股第一，2021年与沙县小吃集团签独家战略合作，涉及产品研发标准化生产、供应链、品牌运营",
+                            "stockId": "603536",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh605136",
+                            "pctChg": -0.1,
+                            "top": 0,
+                            "name": "丽人丽妆",
+                            "sort": 2,
+                            "reason": "合作进度A股第二，公司自有品牌寻味档案与沙县小吃集团已达成战略合作关系",
+                            "stockId": "605136",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz000895",
+                            "pctChg": 0.83,
+                            "top": 0,
+                            "name": "双汇发展",
+                            "sort": 3,
+                            "reason": "公司已与沙县小吃建立合作关系",
+                            "stockId": "000895",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sz002702",
+                            "pctChg": 1.09,
+                            "top": 0,
+                            "name": "海欣食品",
+                            "sort": 4,
+                            "reason": "福建本地食品上市公司，存在供货可能性",
+                            "stockId": "002702",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sh603696",
+                            "pctChg": 0.13,
+                            "top": 0,
+                            "name": "安记食品",
+                            "sort": 5,
+                            "reason": "福建本地食品上市公司，存在供货可能性",
+                            "stockId": "603696",
+                            "business": null
+                        }
+                    ],
+                    "parentId": 9018638,
+                    "ancestors": "0,9018638",
+                    "subjectId": 9060717,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "台湾馆长",
+                    "sort": 100001,
+                    "reason": "其他合作",
+                    "level": 2,
+                    "detail": "<p><br></p>",
+                    "pctChg": 0.1,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "G",
+                            "code": "sh605339",
+                            "pctChg": 1.18,
+                            "top": 0,
+                            "name": "南侨食品",
+                            "sort": 1,
+                            "reason": "母公司南侨投控为台湾烘焙油脂龙头企业",
+                            "stockId": "605339",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh603345",
+                            "pctChg": -0.87,
+                            "top": 0,
+                            "name": "安井食品",
+                            "sort": 3,
+                            "reason": "公司台湾手抓饼、章鱼小丸子等产品通过大陆生产基地供应两岸餐饮渠道",
+                            "stockId": "603345",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sz002702",
+                            "pctChg": 1.09,
+                            "top": 0,
+                            "name": "海欣食品",
+                            "sort": 4,
+                            "reason": "福建百年鱼丸老字号，产品通过台湾大润发、全家便利店等渠道进入台湾市场",
+                            "stockId": "002702",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sz002014",
+                            "pctChg": 0.94,
+                            "top": 0,
+                            "name": "永新股份",
+                            "sort": 5,
+                            "reason": "公司与台湾长春石化联合开发耐蒸煮复合膜，用于佛跳墙、小米海参等高端预制菜包装",
+                            "stockId": "002014",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sz300512",
+                            "pctChg": 2.11,
+                            "top": 0,
+                            "name": "中亚股份",
+                            "sort": 6,
+                            "reason": "公司与台湾松川企业合作开发真空包装机、气调包装机",
+                            "stockId": "300512",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz002969",
+                            "pctChg": -3.78,
+                            "top": 0,
+                            "name": "嘉美包装",
+                            "sort": 7,
+                            "reason": "公司为旺旺提供灌装服务",
+                            "stockId": "002969",
+                            "business": null
+                        }
+                    ],
+                    "parentId": 9018638,
+                    "ancestors": "0,9018638",
+                    "subjectId": 9060773,
+                    "importance": 1,
+                    "limitUpCount": null
+                }
+            ],
+            "sort": 1,
+            "reason": "海峡两岸，主要涉及有三：离台湾省最近的福建各上市公司，活跃的如平潭发展等。其次是台湾省在中国大陆有分公司的A股相关企业。第三涉及的就是其他福建企业及 带统一字眼的 国统股份、统一股份等市场情绪个股。",
+            "level": 1,
+            "pctChg": 0.06,
+            "detail": "<h2 style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>一、海峡两岸 福建和台湾省企业合作 概述</strong></span></h2><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">1.1 行业属性</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">福建及台湾企业产业属于</span><span style=\"font-size: 14px;\"><strong>跨区域协同产业</strong></span><span style=\"font-size: 14px;\">，涵盖电子信息、机械装备、农业、物流贸易等多个领域，是两岸经济融合的核心载体。</span></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">1.2 供需关系</span></h3><ul><li style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>产能情况</strong></span><span style=\"font-size: 14px;\">：福建已形成完备的制造业产能体系，2025年规模以上工业增加值突破2.8万亿元，台湾在半导体、精密制造等领域拥有全球领先的技术产能。</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>产量情况</strong></span><span style=\"font-size: 14px;\">：2024年福建对台贸易额达890亿元，同比增长9.8%，2025年1-8月闽台贸易额达607.5亿元，全年预计突破900亿元。</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>供需平衡</strong></span><span style=\"font-size: 14px;\">：两岸产业形成\"台湾技术+大陆产能+两岸市场\"的协同格局，互补性需求旺盛，供需关系处于动态平衡状态。</span></li></ul><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">1.3 拉动因素</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">促进该产业发展的主要拉动因素为</span><span style=\"font-size: 14px;\"><strong>两岸政策红利释放</strong></span><span style=\"font-size: 14px;\">和</span><span style=\"font-size: 14px;\"><strong>产业链互补协同</strong></span><span style=\"font-size: 14px;\">。</span></p><ul><li style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>两岸政策红利释放</strong></span><span style=\"font-size: 14px;\">：自《中共中央 国务院关于支持福建探索海峡两岸融合发展新路建设两岸融合发展示范区的意见》发布以来，福建先后出台5批74条促进闽台融合政策措施，总投资超万亿元。</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>产业链互补协同</strong></span><span style=\"font-size: 14px;\">：台湾在半导体、精密制造、医疗技术、现代农业等领域具备技术优势，而大陆拥有庞大市场、完备产能及产业链配套能力，双方形成深度协同。</span></li></ul><p style=\"text-align: start;\"><br></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">1.4 产业重要性分析</span></h3><blockquote style=\"text-align: start;\"><span style=\"font-size: 14px;\">\"支持福建探索海峡两岸融合发展新路、建设两岸融合发展示范区，是党中央立足新时代党解决台湾问题的总体方略、推进祖国和平统一进程作出的重要部署。\"——来源：国务院《关于支持福建探索海峡两岸融合发展新路建设两岸融合发展示范区的意见》</span></blockquote><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">2024年闽台贸易额达</span><span style=\"font-size: 14px;\"><strong>890亿元</strong></span><span style=\"font-size: 14px;\">，2025年预计突破</span><span style=\"font-size: 14px;\"><strong>900亿元</strong></span><span style=\"font-size: 14px;\">，2028年预计突破</span><span style=\"font-size: 14px;\"><strong>1500亿元</strong></span><span style=\"font-size: 14px;\">，年均复合增速12%-15%。</span></p><p style=\"text-align: start;\"><img src=\"https://s.coze.cn/image/OCe5FG2guRE/\" alt=\"\" data-href=\"\" style=\"width: 597px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">年份</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">闽台贸易额（亿元）</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">增速</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">数据来源</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">2023</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">810</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">7.2%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">福建省商务厅</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">2024</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">890</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">9.8%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">福建省商务厅</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">2025（预计）</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">900+</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">1.1%+</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">福建省商务厅</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">2028（预计）</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">1500+</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">18.5%+</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">海峡两岸融合题材分析报告</span></td></tr></tbody></table><p style=\"text-align: start;\"><br></p><h2 style=\"text-align: start;\"><span style=\"font-size: 14px;\">二、产业重大事件</span></h2><ol><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">[2023年9月] 中共中央、国务院发布《关于支持福建探索海峡两岸融合发展新路建设两岸融合发展示范区的意见》，明确福建在两岸融合发展中的战略定位。</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">[2025年1月] 福建省发布第五批支持两岸融合发展的政策措施，进一步强化两岸经贸合作的政策基础。</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">[2025年5月] 第二十七届海峡两岸经贸交易会在福州举行，10个台资项目集中签约，总投资金额达82.7亿元。</span></li></ol><p style=\"text-align: start;\"><br></p><h2 style=\"text-align: start;\"><span style=\"font-size: 14px;\">三、产业内部分析</span></h2><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">3.1 组成部分分布</span></h3><p style=\"text-align: start;\"><br></p><h4 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">3.1.1 产品组成分布</span></h4><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">两岸产业合作主要集中在电子信息、机械装备、农业、物流贸易等领域。</span></p><p style=\"text-align: start;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">领域</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">占比</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">特点说明</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">数据来源</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">电子信息</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">40%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">台湾技术+大陆产能深度融合</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">福建省商务厅</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">机械装备</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">25%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">两岸标准共通推动协同发展</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">福建省商务厅</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">农业</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">15%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">精致农业技术与大陆资源结合</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">福建省农业农村厅</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">物流贸易</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">10%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">两岸物流通道高效畅通</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">福建省交通运输厅</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">其他</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">10%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">文旅、医疗等领域合作</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">福建省文旅厅</span></td></tr></tbody></table><p style=\"text-align: start;\"><br></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">行业景气度影响因素分析</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">两岸产业合作的景气度受政策、市场、技术等多方面因素影响。</span></p><p style=\"text-align: start;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">影响因素</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">占比</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">影响说明</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">数据来源</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">政策红利</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">35%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">两岸融合政策持续出台</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">福建省台港澳办</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">市场需求</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">28%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">两岸市场需求旺盛</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">福建省商务厅</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">技术创新</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">22%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">两岸技术协同创新</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">福建省科技厅</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">外部环境</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">15%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">国际形势变化影响</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">商务部国际贸易经济合作研究院</span></td></tr></tbody></table><p style=\"text-align: center;\"><br></p><p style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>附图：海峡两岸位置</strong></span></p><p style=\"text-align: left;\"><img src=\"https://guduoduo-app.oss-cn-beijing.aliyuncs.com/upload/rich/2024/10/30/82035504-05c6-4f04-81b5-ef7a7a2b0eed-1730256395042.png\" alt=\"\" data-href=\"\" style=\"\"></p><p style=\"text-align: left;\"><img src=\"https://guduoduo-app.oss-cn-beijing.aliyuncs.com/upload/rich/2024/10/30/76b14ada-2896-4a00-b81a-1c382e526dd2-1730256464530.png\" alt=\"\" data-href=\"\" style=\"\"></p><p style=\"text-align: start;\"><span style=\"color: rgb(225, 60, 57); font-size: 14px;\"><strong>平潭：根据搜狗百科提供的信息，平潭岛（海坛岛）位于福建省平潭县境内，东临台湾海峡，与台湾省新竹港相距仅68海里，是中国大陆距台湾最近的地方。</strong></span><span style=\"font-size: 14px;\">平潭在地理上与台湾非常接近，是大陆与台湾之间的重要连接点。</span></p><p style=\"text-align: start;\"><span style=\"color: rgb(225, 60, 57); font-size: 14px;\"><strong>厦门：根据中国政府网的报道，厦门与台湾一水之隔，是两岸融合的最前沿。</strong></span><span style=\"font-size: 14px;\">厦门位于中国东南沿海，与台湾隔海相望，具有重要的地缘优势。</span><span style=\"color: rgb(225, 60, 57); font-size: 14px;\"><strong>厦门经济特区因“台”而设、因“台”而特，是两岸融合的前沿。</strong></span><span style=\"font-size: 14px;\">厦门积极探索海峡两岸融合发展的新路，努力打造台胞登陆的“第一家园”。厦门在两岸“三通”、经贸合作、人员往来、文化交流等方面不断有“破冰”之举，持续深化两岸交流合作综合配套改革。厦门已成为两岸经贸合作最紧密的区域，引进了多家台湾百大企业，台企工业产值约占厦门规模以上工业总产值的1/4，显示了其在两岸经济合作中的核心地位。</span></p><p style=\"text-align: start;\"><br></p>",
+            "parentId": "0000000000",
+            "ancestors": "0",
+            "importance": 2,
+            "limitUpCount": 0
+        }
+    ]
+}

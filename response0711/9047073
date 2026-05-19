@@ -1,0 +1,81 @@
+{
+    "msg": "操作成功",
+    "code": 200,
+    "data": [
+        {
+            "ancestors": "0,9047066,9047067",
+            "children": [],
+            "createBy": null,
+            "createTime": null,
+            "detail": null,
+            "firstLetter": "YMYL",
+            "imgUrl": null,
+            "importance": 2,
+            "leadTimes": null,
+            "level": 3,
+            "limitUpCount": null,
+            "limitUpTimes": null,
+            "name": "医美医疗",
+            "parentId": 9047067,
+            "parentName": "",
+            "pctChg": 8.97,
+            "reason": "医美医疗",
+            "remark": null,
+            "selectReason": null,
+            "sort": 1,
+            "status": "1",
+            "stockCount": null,
+            "stocks": [
+                {
+                    "business": null,
+                    "createTime": "2023-03-31 11:17:31",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "漱玉平民",
+                    "pctChg": 4.41,
+                    "reason": "医美医疗类阿里持股比例第一，持股比例8.41%",
+                    "remark": "国内知名连锁药店",
+                    "selectedId": 137519,
+                    "sort": 1,
+                    "stockId": "301017",
+                    "subjectId": 9047073,
+                    "top": 0
+                },
+                {
+                    "business": null,
+                    "createTime": "2025-02-16 15:01:10",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "美年健康",
+                    "pctChg": 2.54,
+                    "reason": "医美医疗类阿里持股比例第二，持股比例8.02%",
+                    "remark": "中国领先的专业健康体检和医疗服务集团",
+                    "selectedId": 137520,
+                    "sort": 2,
+                    "stockId": "002044",
+                    "subjectId": 9047073,
+                    "top": 0
+                },
+                {
+                    "business": null,
+                    "createTime": "2025-03-18 10:16:44",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "华人健康",
+                    "pctChg": 19.97,
+                    "reason": "医美医疗类阿里持股比例第三，阿里持股4.99%",
+                    "remark": "安徽省最大的零售药店连锁企业。主要从事医药零售、代理及终端集采三大块业务。",
+                    "selectedId": 137521,
+                    "sort": 3,
+                    "stockId": "301408",
+                    "subjectId": 9047073,
+                    "top": 1
+                }
+            ],
+            "subjectId": 9047073,
+            "type": null,
+            "updateBy": null,
+            "updateTime": null
+        }
+    ]
+}

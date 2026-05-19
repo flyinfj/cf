@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.stock.dao.SubjectMessageDao">
+    
+    <resultMap id="BaseResultMap" type="com.stock.entity.SubjectMessage">
+        <result column="create_time" property="createTime"/>
+        <result column="category_code" property="categoryCode"/>
+        <result column="category_name" property="categoryName"/>
+        <result column="pct_chg" property="pctChg"/>
+        <result column="description" property="description"/>
+    </resultMap>
+
+    <resultMap id="SubjectDateResultMap" type="com.stock.entity.vo.SubjectDateVO">
+        <result column="date" property="date"/>
+    </resultMap>
+
+    <select id="getSubjectDates" resultMap="SubjectDateResultMap">
+        SELECT DISTINCT DATE_FORMAT(create_time, '%Y-%m-%d') as date
+        FROM subject_message
+        ORDER BY date DESC
+    </select>
+
+    <select id="getMessagesByDate" resultMap="BaseResultMap">
+        SELECT create_time, category_code, category_name, pct_chg, description
+        FROM subject_message
+        WHERE DATE_FORMAT(create_time, '%Y-%m-%d') = #{date}
+        ORDER BY create_time DESC
+    </select>
+
+    <resultMap id="MessageDetailResultMap" type="com.stock.entity.vo.SubjectMessageDetailVO">
+        <result column="create_time" property="createTime"/>
+        <result column="category_code" property="categoryCode"/>
+        <result column="category_name" property="categoryName"/>
+        <result column="pct_chg" property="pctChg"/>
+        <result column="description" property="description"/>
+    </resultMap>
+
+    <select id="getMessageDetailsByDate" resultMap="MessageDetailResultMap">
+        SELECT create_time, category_code, category_name, pct_chg, description
+        FROM subject_message
+        WHERE DATE_FORMAT(create_time, '%Y-%m-%d') = #{date}
+        ORDER BY create_time DESC
+    </select>
+
+    <select id="getMessageDetailsByCategory" resultMap="MessageDetailResultMap">
+        SELECT create_time, category_code, category_name, pct_chg, description
+        FROM subject_message
+        WHERE category_code = #{categoryCode}
+        ORDER BY create_time DESC
+    </select>
+
+</mapper>

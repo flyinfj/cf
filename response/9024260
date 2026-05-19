@@ -1,0 +1,67 @@
+{
+    "msg": "操作成功",
+    "code": 200,
+    "data": [
+        {
+            "ancestors": "0,9021988",
+            "bizKey": null,
+            "children": [],
+            "createBy": null,
+            "createTime": null,
+            "detail": null,
+            "firstLetter": "DF",
+            "imgUrl": null,
+            "importance": 2,
+            "leadTimes": null,
+            "level": 2,
+            "limitUpCount": null,
+            "limitUpTimes": null,
+            "name": "东风",
+            "parentId": 9021988,
+            "parentName": "",
+            "pctChg": -0.79,
+            "reason": "东风",
+            "remark": null,
+            "selectReason": null,
+            "sort": 10,
+            "status": "1",
+            "stockCount": null,
+            "stocks": [
+                {
+                    "business": null,
+                    "createTime": "2024-01-21 16:56:21",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "****",
+                    "pctChg": 0.78,
+                    "reason": "东风集团控股，持有57.55%，整车",
+                    "remark": "实控人国务院国资委   东风集团加速整合商用车业务。",
+                    "selectedId": 50715,
+                    "sort": 1,
+                    "stockId": "111",
+                    "subjectId": 9024260,
+                    "top": 1
+                },
+                {
+                    "business": null,
+                    "createTime": "2024-01-21 16:57:36",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "****",
+                    "pctChg": -2.37,
+                    "reason": "东风集团控股，持有75。87%，零配件",
+                    "remark": "国内前五大整车生产厂商之一",
+                    "selectedId": 50716,
+                    "sort": 2,
+                    "stockId": "111",
+                    "subjectId": 9024260,
+                    "top": 0
+                }
+            ],
+            "subjectId": 9024260,
+            "type": null,
+            "updateBy": null,
+            "updateTime": null
+        }
+    ]
+}

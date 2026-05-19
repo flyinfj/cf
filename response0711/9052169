@@ -1,0 +1,81 @@
+{
+    "msg": "操作成功",
+    "code": 200,
+    "data": [
+        {
+            "ancestors": "0,1",
+            "children": [],
+            "createBy": null,
+            "createTime": null,
+            "detail": null,
+            "firstLetter": "FLWJXWS",
+            "imgUrl": null,
+            "importance": 2,
+            "leadTimes": null,
+            "level": 2,
+            "limitUpCount": null,
+            "limitUpTimes": null,
+            "name": "辅料微晶纤维素",
+            "parentId": 1,
+            "parentName": "",
+            "pctChg": 0.16,
+            "reason": "2025年7月1日，全球微晶纤维素巨头SigachiIndustries位于印度海得拉巴的工厂发生爆炸。",
+            "remark": null,
+            "selectReason": null,
+            "sort": 1000,
+            "status": "1",
+            "stockCount": null,
+            "stocks": [
+                {
+                    "business": null,
+                    "createTime": "2025-07-01 13:05:18",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "山东赫达",
+                    "pctChg": 0.3,
+                    "reason": "微晶纤维素产能A股第一，1.5万吨，预计2026年投产",
+                    "remark": "国内纤维素醚行业龙头，也是国内少数产品可以满足植物胶囊、植物肉应用要求的医药食品级纤维素醚厂商。",
+                    "selectedId": 152242,
+                    "sort": -1,
+                    "stockId": "002810",
+                    "subjectId": 9052169,
+                    "top": 0
+                },
+                {
+                    "business": null,
+                    "createTime": "2025-07-01 13:05:26",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "山河药辅",
+                    "pctChg": 0.54,
+                    "reason": "微晶纤维素产能A股第二，1.45万吨",
+                    "remark": "国内排名前列的口服固体制剂药用辅料生产供应商",
+                    "selectedId": 152238,
+                    "sort": 1,
+                    "stockId": "300452",
+                    "subjectId": 9052169,
+                    "top": 1
+                },
+                {
+                    "business": null,
+                    "createTime": "2025-07-01 13:05:39",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "红日药业",
+                    "pctChg": 0.0,
+                    "reason": "子公司湖州展望药业生产微晶纤维素",
+                    "remark": "最早的中药配方颗粒国家试点企业之一，同时也涉及医疗器械、成品药等业务。",
+                    "selectedId": 152240,
+                    "sort": 4,
+                    "stockId": "300026",
+                    "subjectId": 9052169,
+                    "top": 0
+                }
+            ],
+            "subjectId": 9052169,
+            "type": null,
+            "updateBy": null,
+            "updateTime": null
+        }
+    ]
+}

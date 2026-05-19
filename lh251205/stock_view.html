@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>股票信息查看</title>
+    <style>
+        .container {
+            padding: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+        .stock-link {
+            color: blue;
+            text-decoration: underline;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <table id="stockTable">
+            <thead>
+                <tr>
+                    <th>股票代码</th>
+                    <th>涨幅</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- 示例数据 -->
+                <tr>
+                    <td><span class="stock-link" onclick="showStock('600000')">600000</span></td>
+                    <td>2.5%</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+    <script>
+        function showStock(code) {
+            const prefix = code.startsWith('6') ? 'sh' : 'sz';
+            const url = `https://summary.jrj.com.cn/stock/${prefix}/${code}`;
+            window.open(url, '_blank');
+        }
+    </script>
+</body>
+</html>

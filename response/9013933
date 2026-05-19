@@ -1,0 +1,1780 @@
+{
+    "stat": true,
+    "message": "成功",
+    "code": 200,
+    "data": [
+        {
+            "name": "共封装光学CPO",
+            "G": 105,
+            "S": 7,
+            "subjectId": "9013933",
+            "stocks": [],
+            "children": [
+                {
+                    "name": "光材料",
+                    "sort": -9999,
+                    "reason": "光材料",
+                    "level": 2,
+                    "detail": "<p><br></p>",
+                    "pctChg": -0.14,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "G",
+                            "code": "sz002428",
+                            "pctChg": 2.25,
+                            "top": 1,
+                            "name": "云南锗业",
+                            "sort": 1,
+                            "reason": "磷化铟产能A股第一，15万片/年",
+                            "stockId": "002428",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh600330",
+                            "pctChg": -3.45,
+                            "top": 0,
+                            "name": "天通股份",
+                            "sort": 2,
+                            "reason": "铌酸锂单晶市占率国内第一，40%",
+                            "stockId": "600330",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz300620",
+                            "pctChg": 0.82,
+                            "top": 1,
+                            "name": "光库科技",
+                            "sort": 3,
+                            "reason": "薄膜铌酸锂国内市占率第一，全球市占率第三",
+                            "stockId": "300620",
+                            "business": null
+                        }
+                    ],
+                    "parentId": 9013933,
+                    "ancestors": "0,9013933",
+                    "subjectId": 9033791,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "光部件",
+                    "sort": -995,
+                    "reason": "光部件",
+                    "level": 2,
+                    "detail": "<p><br></p>",
+                    "pctChg": 3.03,
+                    "children": [
+                        {
+                            "name": "FAU",
+                            "sort": -9999,
+                            "reason": "FAU(光纤阵列单元)是连接光引擎与计算芯片的核心接口，承担着光信号传输与耦合的关键功能。",
+                            "level": 3,
+                            "detail": "<p style=\"text-align: start;\">在光电共封装（CPO）技术中， FAU （ 光纤阵列单元 ）是连接光引擎与计算芯片的核心接口，承担着光信号传输与耦合的关键功能。</p><p style=\"text-align: start;\">FAU通过微米级精度排列多根光纤，形成密集的光信号传输通道，实现高密度、低损耗的光互联。在CPO架构中，它直接连接光引擎与计算芯片，支撑800G、1.6T等高速光模块的信号传输需求。</p>",
+                            "pctChg": 1.62,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz300394",
+                                    "pctChg": 3.46,
+                                    "top": 1,
+                                    "name": "天孚通信",
+                                    "sort": 1,
+                                    "reason": "FAU光纤阵列单元市占率A股第一，30%；英伟达博通CPO方案FAU供应商",
+                                    "stockId": "300394",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300620",
+                                    "pctChg": 0.82,
+                                    "top": 1,
+                                    "name": "光库科技",
+                                    "sort": 2,
+                                    "reason": "进入博通FAU供应链",
+                                    "stockId": "300620",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688025",
+                                    "pctChg": 0.58,
+                                    "top": 0,
+                                    "name": "杰普特",
+                                    "sort": 3,
+                                    "reason": "通过控股矩阵光电切入FAU产业",
+                                    "stockId": "688025",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9033792,
+                            "subjectId": 9054347,
+                            "importance": 2
+                        },
+                        {
+                            "name": "石英晶振",
+                            "sort": 1,
+                            "reason": "石英晶体谐振器和振荡器是一种常见的频率稳定元件，可以在光模块和算力服务器等领域中得到广泛应用。",
+                            "level": 3,
+                            "detail": "<p><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); font-size: 14px;\">石英晶体谐振器和振荡器在整个光模块中的成本占比不是很高，但却是光模块性能稳定性和可靠性的重要保障。</span></p><p><br></p><p><span style=\"color: rgb(38, 38, 38); background-color: rgb(255, 255, 255); font-size: 14px;\">由于石英晶体谐振器和振荡器可以提供高精度的时钟信号和稳定的频率控制，因此在提高光模块速率、增加通信距离、提高带宽等方面扮演着重要角色。</span></p><p><img src=\"https://guduoduo-app.oss-cn-beijing.aliyuncs.com/upload/rich/2023/06/21/a7ca20cb-64f4-4080-80f2-ba166ebfc9dd-1687327461625.png\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p>",
+                            "pctChg": 2.08,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh603738",
+                                    "pctChg": 0.75,
+                                    "top": 0,
+                                    "name": "泰晶科技",
+                                    "sort": 1,
+                                    "reason": "市占率A股第一，为5.7%",
+                                    "stockId": "603738",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002199",
+                                    "pctChg": 5.03,
+                                    "top": 0,
+                                    "name": "*ST东晶",
+                                    "sort": 2,
+                                    "reason": "市占率A股第二，为3.5%",
+                                    "stockId": "002199",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300460",
+                                    "pctChg": 0.46,
+                                    "top": 0,
+                                    "name": "惠伦晶体",
+                                    "sort": 3,
+                                    "reason": "市占率A股第三，为2.8%",
+                                    "stockId": "300460",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9033792,
+                            "subjectId": 9033794,
+                            "importance": 2
+                        },
+                        {
+                            "name": "滤光片",
+                            "sort": 4,
+                            "reason": "每一个800G光模块，需要8片100G滤光片，9个非球管帽。",
+                            "level": 3,
+                            "detail": "<p>滤光片占光器件成本为2%，换算下来占光模块成本的1.46%</p>",
+                            "pctChg": 0.7,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz002962",
+                                    "pctChg": 10.02,
+                                    "top": 1,
+                                    "name": "五方光电",
+                                    "sort": 1,
+                                    "reason": "红外截止滤光片（IRCF）市占率A股第二，市占率23%。",
+                                    "stockId": "002962",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002273",
+                                    "pctChg": -0.86,
+                                    "top": 1,
+                                    "name": "水晶光电",
+                                    "sort": 1,
+                                    "reason": "红外截止滤光片（IRCF）市占率A股第一，市占率28%。",
+                                    "stockId": "002273",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz301183",
+                                    "pctChg": -4.89,
+                                    "top": 1,
+                                    "name": "东田微",
+                                    "sort": 1,
+                                    "reason": "营收规模A股第一，为2.3亿，唯一实现前十大客广认证并供货的公司",
+                                    "stockId": "301183",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688195",
+                                    "pctChg": -1.51,
+                                    "top": 1,
+                                    "name": "腾景科技",
+                                    "sort": 2,
+                                    "reason": "CWDM滤光片已经成为中际旭创、光迅科技等全球知名光模块厂商的主要供方",
+                                    "stockId": "688195",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9033792,
+                            "subjectId": 9033793,
+                            "importance": 2
+                        },
+                        {
+                            "name": "散热",
+                            "sort": 8,
+                            "reason": "Micro TEC 是被喻为5G和高端数通光通信光器件精准温控的最优解决方案。",
+                            "level": 3,
+                            "detail": "<p>TEC是高端光模块制冷的核心器件。</p><p><img src=\"https://guduoduo-app.oss-cn-beijing.aliyuncs.com/upload/rich/2023/06/09/8204ed91-8442-4333-8ab0-708c5c42c9d9-1686299138906.png\" alt=\"\" data-href=\"\" style=\"width: 418.00px;height: 374.06px;\"/></p><p><br></p><p>目前的200G、400G和800G光模块，microTEC是必须要使用的，否则无法解决波长稳定性的问题。</p><p><br>MicroTEC价格与器件尺寸和晶粒数量有关，速率越高，价格越贵，</p><p>50G光模块的TEC金额约30元（单个光模块使用2片TEC，单个TEC价格为15元）</p><p>100G约100元（6-8片/15元）</p><p>800G约300-400元（6-8片/40元）</p><p><br></p>",
+                            "pctChg": 1.45,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh688662",
+                                    "pctChg": 2,
+                                    "top": 0,
+                                    "name": "富信科技",
+                                    "sort": 1,
+                                    "reason": "国内目前唯一量产microTEC的供应商",
+                                    "stockId": "688662",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600330",
+                                    "pctChg": -3.45,
+                                    "top": 0,
+                                    "name": "天通股份",
+                                    "sort": 2,
+                                    "reason": "420万片铌酸锂晶圆产能已投产",
+                                    "stockId": "600330",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz301419",
+                                    "pctChg": 5.81,
+                                    "top": 0,
+                                    "name": "阿莱德",
+                                    "sort": 3,
+                                    "reason": "公司导热界面材料已切入国内光模块头部企业华工正源供应链",
+                                    "stockId": "301419",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9033792,
+                            "subjectId": 9033795,
+                            "importance": 2
+                        },
+                        {
+                            "name": "光隔离器",
+                            "sort": 9,
+                            "reason": "光隔离器",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": 1.06,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz301183",
+                                    "pctChg": -4.89,
+                                    "top": 1,
+                                    "name": "东田微",
+                                    "sort": 1,
+                                    "reason": "光隔离器进度A股第一，光隔离器产品已实现批量供货",
+                                    "stockId": "301183",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300394",
+                                    "pctChg": 3.46,
+                                    "top": 1,
+                                    "name": "天孚通信",
+                                    "sort": 2,
+                                    "reason": "公司产品包括光隔离器",
+                                    "stockId": "300394",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002222",
+                                    "pctChg": 4.62,
+                                    "top": 1,
+                                    "name": "福晶科技",
+                                    "sort": 3,
+                                    "reason": "光隔离器已开始销售",
+                                    "stockId": "002222",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9033792,
+                            "subjectId": 9060590,
+                            "importance": 1
+                        },
+                        {
+                            "name": "法拉第旋光片",
+                            "sort": 10,
+                            "reason": "成本占比明细\n（1）在光隔离器中的占比\n法拉第旋光片占光隔离器总成本的 50%，是光隔离器的核心成本来源。以 800G 光隔离器为例：\n总成本：25-30 元 / 个（2026 年 Q1）\n旋光片成本：12-15 元 / 片（占比 50%）\n其他成本：起偏器 / 检偏器（20%）、永磁体（10%）、封装与测试（20%）\n（2）在光模块中的占比\n光隔离器占光模块总成本的3%-5%，因此法拉第旋光片在光模块中的直接价值占比约 1.5%-2.5%。但考虑到其不可替代的核心作用，间接价值占比高达 15%-20%（因保护核心器件、提升整体可靠性带来的价值溢价）。\n（3）800G/1.6T 高端模块的特殊情况\n800G 模块：隔离器用量 4 个 / 模块，旋光片总成本约 50-60 元，占模块成本（2000-3000 元）的2%-3%\n1.6T 模块：隔离器用量 6-8 个 / 模块，旋光片总成本约 75-120 元，占模块成本（3000-5000 元）的2.5%-4%\n价格趋势：2024 年初旋光片单价 4 元 / 片，2025 年涨至 8 元 / 片，2026 年高端 TSAG 产品报价达 12-15 元 / 片，涨幅达 200%+",
+                            "level": 3,
+                            "detail": "<p>成本占比明细</p><p>（1）在光隔离器中的占比</p><p>法拉第旋光片占光隔离器总成本的 50%，是光隔离器的核心成本来源。以 800G 光隔离器为例：</p><p>总成本：25-30 元 / 个（2026 年 Q1）</p><p>旋光片成本：12-15 元 / 片（占比 50%）</p><p>其他成本：起偏器 / 检偏器（20%）、永磁体（10%）、封装与测试（20%）</p><p>（2）在光模块中的占比</p><p>光隔离器占光模块总成本的3%-5%，因此法拉第旋光片在光模块中的直接价值占比约 1.5%-2.5%。但考虑到其不可替代的核心作用，间接价值占比高达 15%-20%（因保护核心器件、提升整体可靠性带来的价值溢价）。</p><p>（3）800G/1.6T 高端模块的特殊情况</p><p>800G 模块：隔离器用量 4 个 / 模块，旋光片总成本约 50-60 元，占模块成本（2000-3000 元）的2%-3%</p><p>1.6T 模块：隔离器用量 6-8 个 / 模块，旋光片总成本约 75-120 元，占模块成本（3000-5000 元）的2.5%-4%</p><p>价格趋势：2024 年初旋光片单价 4 元 / 片，2025 年涨至 8 元 / 片，2026 年高端 TSAG 产品报价达 12-15 元 / 片，涨幅达 200%+</p>",
+                            "pctChg": 8.36,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz002222",
+                                    "pctChg": 4.62,
+                                    "top": 1,
+                                    "name": "福晶科技",
+                                    "sort": 1,
+                                    "reason": "关联度第一，国内唯一能量产TGG/TSAG高端磁光晶体(法拉第旋光片核心材料)的上市公司",
+                                    "stockId": "002222",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300489",
+                                    "pctChg": 10.43,
+                                    "top": 0,
+                                    "name": "光智科技",
+                                    "sort": 2,
+                                    "reason": "高纯度 Tb?O?（99.999%）制备技术突破，为 TGG/TSAG 晶体提供关键原料",
+                                    "stockId": "300489",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz301421",
+                                    "pctChg": -1.6,
+                                    "top": 0,
+                                    "name": "波长光电",
+                                    "sort": 3,
+                                    "reason": "法拉第旋光片研磨抛光、镀膜服务",
+                                    "stockId": "301421",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300131",
+                                    "pctChg": 20,
+                                    "top": 1,
+                                    "name": "英唐智控",
+                                    "sort": 4,
+                                    "reason": "拟收购光隆集成，其具备法拉第旋转芯片（法拉第旋光片核心形式）的生产能力",
+                                    "stockId": "300131",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9033792,
+                            "subjectId": 9065381,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9013933,
+                    "ancestors": "0,9013933",
+                    "subjectId": 9033792,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "薄膜铌酸锂",
+                    "sort": -994,
+                    "reason": "铌酸锂材料具备优异的光学性能，集成铌酸锂微波光子芯片不仅速度比传统电子处理器快1000倍，且具有超宽处理带宽和极高的计算精确度，能耗也更低\n同时，采用薄膜铌酸锂调制器可以使得单通道速率超过200G，未来还有望成为1.6T以上光模块的重要解决方案",
+                    "level": 2,
+                    "detail": "<p style=\"text-align: center;\"><strong>薄膜铌酸锂介绍</strong></p><p><span style=\"color: rgb(225, 60, 57);\"><strong>铌酸锂材料具备优异的光学性能，集成铌酸锂微波光子芯片不仅速度比传统电子处理器快1000倍</strong></span>，且具有超宽处理带宽和极高的计算精确度，能耗也更低。</p><p>同时，<span style=\"color: rgb(225, 60, 57);\"><strong>采用薄膜铌酸锂调制器可以使得单通道速率超过200G，未来还有望成为1.6T以上光模块的重要解决方案</strong></span>。下游国产替代需求强烈，尤其是AI算力高速互联与光量子通信等新兴场景对高速光子器件需求爆发。QYResearch调研团队最新报告“全球薄膜铌酸锂(TFLN)调制器市场报告2025-2034”显示，预计2034年全球薄膜铌酸锂(TFLN)调制器市场规模将达到15.1亿美元，未来几年年复合增长率CAGR为46.9%。</p><p><span style=\"color: rgb(0, 0, 0); font-size: 14px;\">薄膜铌酸锂调制器是一种利用薄膜铌酸锂材料制造的光调制器，是传统块状铌酸锂调制器的升级版。它通过施加外部电信号来改变光波的特性（如强度、相位等），将电信号转换成光信号，相当于光通信系统中的\"开关\"或\"编码器\"。</span></p>",
+                    "pctChg": 1.24,
+                    "children": [
+                        {
+                            "name": "材料",
+                            "sort": 1,
+                            "reason": "铌酸锂材料具备优异的光学性能，集成铌酸锂微波光子芯片不仅速度比传统电子处理器快1000倍，且具有超宽处理带宽和极高的计算精确度，能耗也更低。",
+                            "level": 3,
+                            "detail": "<p><span style=\"color: rgb(0, 0, 0); font-size: 13px;\">铌酸锂材料具备优异的光学性能，集成铌酸锂微波光子芯片不仅速度比传统电子处理器快1000倍，且具有超宽处理带宽和极高的计算精确度，能耗也更低。</span></p>",
+                            "pctChg": 0.4,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh600330",
+                                    "pctChg": -3.45,
+                                    "top": 0,
+                                    "name": "天通股份",
+                                    "sort": 1,
+                                    "reason": "A股进度第一，已量产6英寸铌酸锂(LN)和钽酸锂(LT)晶片",
+                                    "stockId": "600330",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002222",
+                                    "pctChg": 4.62,
+                                    "top": 1,
+                                    "name": "福晶科技",
+                                    "sort": 2,
+                                    "reason": "A股进度第二，能够提供少量各种规格高质量的酸理晶体",
+                                    "stockId": "002222",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh603083",
+                                    "pctChg": 0.6,
+                                    "top": 0,
+                                    "name": "剑桥科技",
+                                    "sort": 3,
+                                    "reason": "A股进度第三，公司表示开始基于酸理技术的产品研发",
+                                    "stockId": "603083",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz000962",
+                                    "pctChg": -1.01,
+                                    "top": 0,
+                                    "name": "东方钽业",
+                                    "sort": 5,
+                                    "reason": "公司具有生产铌酸锂材料技术",
+                                    "stockId": "000962",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688126",
+                                    "pctChg": 1.26,
+                                    "top": 0,
+                                    "name": "沪硅产业",
+                                    "sort": 14,
+                                    "reason": "公司子公司是薄膜酸材料的主要参与者",
+                                    "stockId": "688126",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9055921,
+                            "subjectId": 9055922,
+                            "importance": 1
+                        },
+                        {
+                            "name": "调制器",
+                            "sort": 3,
+                            "reason": "薄膜调制器的调制效率提升3倍（从15°/(V·mm)到45°/(V·mm)），3dB带宽从40GHz提升到110GHz，功耗密度降低75%（从100mW/Gbps到25mW/Gbps）。4提到中科院团队最近实现了51.2 GHz的3dB电光响应带宽，片上损耗低于2dB",
+                            "level": 3,
+                            "detail": "<p>薄膜调制器的调制效率提升3倍（从15°/(V·mm)到45°/(V·mm)），3dB带宽从40GHz提升到110GHz，功耗密度降低75%（从100mW/Gbps到25mW/Gbps）。4提到中科院团队最近实现了51.2 GHz的3dB电光响应带宽，片上损耗低于2dB</p><p><img src=\"https://super-data-middle-platform.oss-cn-beijing.aliyuncs.com/image/2025/08/13/88d244be-3bc1-4a58-b617-277e746d6670.png\" alt=\"\" data-href=\"\" style=\"\"/></p>",
+                            "pctChg": 0.82,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz300620",
+                                    "pctChg": 0.82,
+                                    "top": 1,
+                                    "name": "光库科技",
+                                    "sort": 1,
+                                    "reason": "A股唯一实现铌酸锂超高速调制器芯片和器件规模化量产",
+                                    "stockId": "300620",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9055921,
+                            "subjectId": 9055923,
+                            "importance": 1
+                        },
+                        {
+                            "name": "产品",
+                            "sort": 12,
+                            "reason": "采用薄膜铌酸锂调制器可以使得单通道速率超过200G，未来还有望成为1.6T以上光模块的重要解决方案",
+                            "level": 3,
+                            "detail": "<p>采用薄膜铌酸锂调制器可以使得单通道速率超过200G，未来还有望成为1.6T以上光模块的重要解决方案。下游国产替代需求强烈，尤其是AI算力高速互联与光量子通信等新兴场景对高速光子器件需求爆发。QYResearch调研团队最新报告“全球薄膜铌酸锂(TFLN)调制器市场报告2025-2034”显示，预计2034年全球薄膜铌酸锂(TFLN)调制器市场规模将达到15.1亿美元，未来几年年复合增长率CAGR为46.9%。</p>",
+                            "pctChg": 2.01,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz301205",
+                                    "pctChg": -1.79,
+                                    "top": 0,
+                                    "name": "联特科技",
+                                    "sort": 2,
+                                    "reason": "公司拥有基于薄膜酸理调制技术的800G光模块",
+                                    "stockId": "301205",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz000988",
+                                    "pctChg": 0.86,
+                                    "top": 1,
+                                    "name": "华工科技",
+                                    "sort": 2,
+                                    "reason": "公司研发了基于薄膜铌酸锂方案的系列产品",
+                                    "stockId": "000988",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300502",
+                                    "pctChg": 6.63,
+                                    "top": 1,
+                                    "name": "新易盛",
+                                    "sort": 2,
+                                    "reason": "公司研发了基于薄膜铌酸锂方案的系列产品",
+                                    "stockId": "300502",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300308",
+                                    "pctChg": 5.48,
+                                    "top": 1,
+                                    "name": "中际旭创",
+                                    "sort": 6,
+                                    "reason": "公司有开发薄膜铌酸锂技术产品",
+                                    "stockId": "300308",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002281",
+                                    "pctChg": -0.25,
+                                    "top": 1,
+                                    "name": "光迅科技",
+                                    "sort": 13,
+                                    "reason": "公司已初步建立薄膜铌酸锂芯片研发平台",
+                                    "stockId": "002281",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300757",
+                                    "pctChg": 1.11,
+                                    "top": 1,
+                                    "name": "罗博特科",
+                                    "sort": 14,
+                                    "reason": "控股公司ficonTEC的测试及组装设备在铌酸锂光子方面有应用",
+                                    "stockId": "300757",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9055921,
+                            "subjectId": 9055924,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9013933,
+                    "ancestors": "0,9013933",
+                    "subjectId": 9055921,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "光器件",
+                    "sort": 1,
+                    "reason": "光器件是指用于控制、调制、放大、检测、发射或接收光信号的电子器件。光器件通常由半导体材料制成，例如硅、镓砷化物、氮化镓等。常见的光器件包括光电二极管、激光器、光纤、光学调制器、光学开关等。这些器件在光通信、光存储、光计算、光传感等领域中发挥着重要的作用。",
+                    "level": 2,
+                    "detail": "<p>光器件占光模块整体成本的73%<img src=\"https://guduoduo-app.oss-cn-beijing.aliyuncs.com/upload/rich/2023/06/09/10c99147-d53a-45dc-83af-406e2794e472-1686302431830.png\" alt=\"\" data-href=\"\" style=\"width: 336.00px;height: 254.72px;\"/></p>",
+                    "pctChg": -0.1,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "G",
+                            "code": "sz002281",
+                            "pctChg": -0.25,
+                            "top": 1,
+                            "name": "光迅科技",
+                            "sort": 1,
+                            "reason": "光器件销售额国内第一，全球第四。",
+                            "stockId": "002281",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz300394",
+                            "pctChg": 3.46,
+                            "top": 1,
+                            "name": "天孚通信",
+                            "sort": 2,
+                            "reason": "光器件销售额国内第二，稀缺的一站式领先光器件平台。",
+                            "stockId": "300394",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz300548",
+                            "pctChg": -3.61,
+                            "top": 1,
+                            "name": "长芯博创",
+                            "sort": 3,
+                            "reason": "光器件销售额国内第三，无源和有源双擎驱动。",
+                            "stockId": "300548",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz300570",
+                            "pctChg": -0.94,
+                            "top": 0,
+                            "name": "太辰光",
+                            "sort": 4,
+                            "reason": "光器件销售额国内第四，领先的光纤连接器公司。",
+                            "stockId": "300570",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz300620",
+                            "pctChg": 0.82,
+                            "top": 1,
+                            "name": "光库科技",
+                            "sort": 5,
+                            "reason": "光器件销售额国内第五，光纤激光器和铌酸锂调制器国产替代空间巨大。",
+                            "stockId": "300620",
+                            "business": null
+                        }
+                    ],
+                    "parentId": 9013933,
+                    "ancestors": "0,9013933",
+                    "subjectId": 9033801,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "磷化铟",
+                    "sort": 5,
+                    "reason": "产品",
+                    "level": 2,
+                    "detail": "",
+                    "pctChg": 1.67,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "G",
+                            "code": "sz002428",
+                            "pctChg": 2.25,
+                            "top": 1,
+                            "name": "云南锗业",
+                            "sort": 1,
+                            "reason": "A股进度第一，子公司6英寸高品质磷化铟单晶片量产在即",
+                            "stockId": "002428",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh600206",
+                            "pctChg": 1.83,
+                            "top": 0,
+                            "name": "有研新材",
+                            "sort": 2,
+                            "reason": "A股进度第二，6英寸磷化铟衬底良率提升至 60%（未证实）",
+                            "stockId": "600206",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sh600703",
+                            "pctChg": 0.84,
+                            "top": 1,
+                            "name": "三安光电",
+                            "sort": 3,
+                            "reason": "公司从事磷化铟等化合物半导体材料生产，销售",
+                            "stockId": "600703",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz002023",
+                            "pctChg": 3.2,
+                            "top": 0,
+                            "name": "海特高新",
+                            "sort": 4,
+                            "reason": "参股公司华芯科技磷化铟产品实现量产并持续向客户供货",
+                            "stockId": "002023",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sz000925",
+                            "pctChg": 1.99,
+                            "top": 0,
+                            "name": "众合科技",
+                            "sort": 6,
+                            "reason": "参股公司焜腾红外现已建成并投产III-V族（砷化镓、磷化铟、氮化镓）的化合物半导体芯片工艺加工平台",
+                            "stockId": "000925",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz002429",
+                            "pctChg": -0.1,
+                            "top": 0,
+                            "name": "兆驰股份",
+                            "sort": 15,
+                            "reason": "公司拟建设砷化镓、磷化 铟化合物半导体激光晶圆制造生产线",
+                            "stockId": "002429",
+                            "business": null
+                        }
+                    ],
+                    "parentId": 9013933,
+                    "ancestors": "0,9013933",
+                    "subjectId": 9060589,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "光芯片",
+                    "sort": 10,
+                    "reason": "光芯片：将光信号转换为电信号或者将电信号转换为光信号。",
+                    "level": 2,
+                    "detail": "<p>光芯片（Optical chip）是一种基于光学原理设计和制造的微型芯片，它可以将光信号转换为电信号或者将电信号转换为光信号。光芯片通常由多个光学器件组成，例如激光器、光调制器、光放大器、光分路器、光耦合器等。</p><p>光芯片的主要应用领域是光通信和光计算。在光通信领域，光芯片可以用于光纤通信、光无线通信、光传感等方面。在光计算领域，光芯片可以用于光量子计算、光存储、光处理等方面。</p><p>1.1、CPO光芯片内的光部件主要包括调制器、光电探测器、波导、分束器/耦合器等，它们集成为光子集成电路（PIC），承担光电信号转换的核心功能。</p><p>CPO产业链的价值分布呈“金字塔”结构，价值量和利润显著集中于上游核心环节。总体来看，光引擎是整个CPO系统中价值量最高的单一组件，在总物料成本中占比达30%-50%；其内部的光芯片（PIC）价值又占到整个CPO产业链的20%-30%，是价值链的制高点。</p><p>1.2、 CPO光引擎内部价值量构成</p><p>以下是光引擎内部主要组件在CPO总物料成本中的占比估算，可清晰看出价值量的分布。</p><p><br></p><p>核心组件\t成本占比（占CPO总成本）\t说明</p><p>光引擎（整体）\t30%-50%\tCPO系统核心，技术壁垒最高，价值量最大。光引擎的组成部分如下图：</p><p><img src=\"https://super-data-middle-platform.oss-cn-beijing.aliyuncs.com/image/2026/04/03/58d23aaf-4847-4b48-b22a-e7e9359a666f.png\" alt=\"\" data-href=\"\" style=\"\"/></p><p><img src=\"https://super-data-middle-platform.oss-cn-beijing.aliyuncs.com/image/2026/04/03/d90b5b8f-d2ca-4153-8b87-72de40e56228.png\" alt=\"\" data-href=\"\" style=\"\"/></p><p>1.3、 核心光芯片内部价值量分布</p><p>光芯片的价值量在其内部各功能部件间也有显著差异，其中发射端（激光器）价值量远高于接收端（探测器），通常在光芯片物料成本中占比高达60%-70%。</p><p><br></p><p>功能部件\t核心作用\t价值量（占光芯片成本）</p><p>激光器芯片 (LD)\t将电信号转为光信号\t高（60%-70%）</p><p>调制器 (Modulator)\t将数据信号加载到光波上\t中/高</p><p>探测器芯片 (PD)\t将光信号转回电信号\t较低</p><p>波导、耦合器等无源器件\t引导、分配、传输光信号\t低/中</p><p>重要补充：不同的技术路线（如硅光与磷化铟）会直接影响各功能部件的价值占比。</p><p><br></p><p><br></p><p><br></p><p>光芯片占光器件里面成本的81%，换算下来占整个光模块成本的59.13%<img src=\"https://guduoduo-app.oss-cn-beijing.aliyuncs.com/upload/rich/2023/06/09/5eba8c49-21e4-4938-9ef3-7003a11c6f0f-1686302518743.png\" alt=\"\" data-href=\"\" style=\"width: 378.00px;height: 286.55px;\"/></p>",
+                    "pctChg": 3.91,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "G",
+                            "code": "sh688498",
+                            "pctChg": 8.58,
+                            "top": 0,
+                            "name": "源杰科技",
+                            "sort": 2,
+                            "reason": "光模块光芯片营收排名第一，2.32亿元；10G、25G激光器芯片的出货量国内第一",
+                            "stockId": "688498",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh688313",
+                            "pctChg": -0.68,
+                            "top": 0,
+                            "name": "仕佳光子",
+                            "sort": 3,
+                            "reason": "光模块光芯片营收排名第二，1.96亿元；PLC分路器芯片市占率第一，2.5G及以下DFB/FP激光器市场份额第一",
+                            "stockId": "688313",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh600105",
+                            "pctChg": 9.99,
+                            "top": 1,
+                            "name": "永鼎股份",
+                            "sort": 5,
+                            "reason": "目前永鼎10G 1577 EML和25G DFB光芯片已实现批量出货，光芯片团队源自华为海思核心成员",
+                            "stockId": "600105",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz002725",
+                            "pctChg": 1.56,
+                            "top": 0,
+                            "name": "跃岭股份",
+                            "sort": 6,
+                            "reason": "公司持股中石光芯10.05%股份，其主要从事磷化铟基的半导体激光器光芯片业务",
+                            "stockId": "002725",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh603803",
+                            "pctChg": -3.21,
+                            "top": 0,
+                            "name": "瑞斯康达",
+                            "sort": 7,
+                            "reason": "子公司易锐光电自主研发25G/100G/超100G集成光收发芯片",
+                            "stockId": "603803",
+                            "business": null
+                        },
+                        {
+                            "GS": "0",
+                            "code": null,
+                            "pctChg": 7.14,
+                            "top": 0,
+                            "name": "优迅股份",
+                            "sort": 8,
+                            "reason": "在10Gbps及以下速率光通讯电芯片市占率28%，中国第一，世界第二",
+                            "stockId": "688807",
+                            "business": "0"
+                        }
+                    ],
+                    "parentId": 9013933,
+                    "ancestors": "0,9013933",
+                    "subjectId": 9013940,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "光模块",
+                    "sort": 11,
+                    "reason": "2025年7月16日，新易盛：预计下半年起1.6T产品将逐渐起量。",
+                    "level": 2,
+                    "detail": "<p style=\"text-align: center;\"><strong>一、光模块产业动态</strong></p><p><strong>2025年7月16日</strong></p><p>新易盛(300502.SZ)在投资者关系活动记录表中称，公司产品结构的变化主要取决于市场及客户的需求，公司在2025年上半年800G产品出货量和销售占比保持持续提升，400G产品也在持续出货。从目前的市场需求及客户指引来看，预计2025年下半年起，1.6T产品将逐渐起量。</p><p>2024年6月3日</p><p>英伟达 CEO 黄仁勋在台北 ComputeX 2024 大会上展示了英伟达在 加速计算和生成式AI领域的最新成果，还描绘了未来计算和机器人技术的发展蓝图。</p><p style=\"text-align: center;\"><br></p><p style=\"text-align: center;\"><span style=\"color: rgb(225, 60, 57);\"><strong>二、光模块产业介绍</strong></span></p><p>800G光模块具有<span style=\"color: rgb(225, 60, 57);\"><strong>高速传输、高密度、低功耗和高可靠性</strong></span>的特点，可广泛适用于IDC数据中心、光通信骨干网等应用场景。AIGC 的高速发展将进一步促进数据流量的持续增长和包括光模块在内的ICT 行业的发展，加速光模块向800G 及以上产品迭代。</p><p><span style=\"color: rgb(225, 60, 57);\"><strong>未来800G将会逐步取代现有的40G、100G、200G、400G等光模块</strong></span>，占比有望从<span style=\"color: rgb(225, 60, 57);\"><strong>2022年的7%上升至2025年的50%。</strong></span></p><p><img src=\"https://guduoduo-app.oss-cn-beijing.aliyuncs.com/upload/rich/2023/12/08/8881ba91-a015-4673-8741-f77748521dd5-1702035542591.png\" alt=\"\" data-href=\"\" style=\"width: 412.00px;height: 223.58px;\"/></p><p>据行业知名研究机构LightCounting预测，800G光模块有望从2025年开始主导市场。按照销售额口径统计，400G光模块的市场规模有望从2022年的11亿美元下降至2025年的8亿美元；800G光模块的市场规模有望从2022年的2亿美元上升至2025年的16亿美元，800G光模块的占比有望从2022年的<span style=\"color: rgb(225, 60, 57);\"><strong>7%上升至2025年的50%</strong></span>。</p><p><br></p><p style=\"text-align: center;\"><span style=\"color: rgb(225, 60, 57);\"><strong>光模块市占率</strong></span></p><p style=\"text-align: left;\"><span style=\"color: rgb(0, 0, 0);\">根据Yole数据，2020年</span><span style=\"color: rgb(225, 60, 57);\"><strong>全球光模块市场美国企业约占45%，中国企业约占40%，日本企业约占8%</strong></span><span style=\"color: rgb(0, 0, 0);\">。市场CR5为63%，集中度较低，竞争激烈。</span></p><p style=\"text-align: left;\"><img src=\"https://guduoduo-app.oss-cn-beijing.aliyuncs.com/upload/rich/2023/12/08/e2b5dffd-52ae-4c3e-8a0a-7d069593c436-1702040923513.png\" alt=\"\" data-href=\"\" style=\"width: 397.00px;height: 224.77px;\"></p><p style=\"text-align: left;\"><span style=\"color: rgb(0, 0, 0);\">根据LightCounting统计，在全球光模块TOP10中，2016年中国企业占据3位，到2022年已占据7位。华工科技从2020年的第10位攀升至2022年的第8位。中国企业市场份额的增加为光模块出口提供良好预期。</span></p>",
+                    "pctChg": 0.67,
+                    "children": [
+                        {
+                            "name": "全球",
+                            "sort": -9999,
+                            "reason": "800G光模块是最新一代光传输系统的标配，拥有巨大的市场潜力。",
+                            "level": 3,
+                            "detail": "<p><span style=\"color: rgb(225, 60, 57);\"><strong>题材基本面介绍：</strong></span></p><p><br></p><p>800G光模块具有<span style=\"color: rgb(225, 60, 57);\"><strong>高速传输、高密度、低功耗和高可靠性</strong></span>的特点，可广泛适用于IDC数据中心、光通信骨干网等应用场景。AIGC 的高速发展将进一步促进数据流量的持续增长和包括光模块在内的ICT 行业的发展，加速光模块向800G 及以上产品迭代。</p><p><br></p><p><span style=\"color: rgb(225, 60, 57);\"><strong>未来800G将会逐步取代现有的40G、100G、200G、400G等光模块</strong></span>，占比有望从<span style=\"color: rgb(225, 60, 57);\"><strong>2022年的7%上升至2025年的50%。</strong></span></p><p><img src=\"https://guduoduo-app.oss-cn-beijing.aliyuncs.com/upload/rich/2023/12/08/8881ba91-a015-4673-8741-f77748521dd5-1702035542591.png\" alt=\"\" data-href=\"\" style=\"width: 412.00px;height: 223.58px;\"/></p><p>据行业知名研究机构LightCounting预测，800G光模块有望从2025年开始主导市场。按照销售额口径统计，400G光模块的市场规模有望从2022年的11亿美元下降至2025年的8亿美元；800G光模块的市场规模有望从2022年的2亿美元上升至2025年的16亿美元，800G光模块的占比有望从2022年的<span style=\"color: rgb(225, 60, 57);\"><strong>7%上升至2025年的50%</strong></span>。</p>",
+                            "pctChg": 3.26,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz300308",
+                                    "pctChg": 5.48,
+                                    "top": 1,
+                                    "name": "中际旭创",
+                                    "sort": 1,
+                                    "reason": "光模块全球市占率第一，800G全面量产\n",
+                                    "stockId": "300308",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002281",
+                                    "pctChg": -0.25,
+                                    "top": 1,
+                                    "name": "光迅科技",
+                                    "sort": 2,
+                                    "reason": "光模块全球市占率第五，800G已量产",
+                                    "stockId": "002281",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300502",
+                                    "pctChg": 6.63,
+                                    "top": 1,
+                                    "name": "新易盛",
+                                    "sort": 3,
+                                    "reason": "光模块全球市占率第七，800G已量产",
+                                    "stockId": "300502",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz000988",
+                                    "pctChg": 0.86,
+                                    "top": 1,
+                                    "name": "华工科技",
+                                    "sort": 4,
+                                    "reason": "光模块全球市占率第八，全产业链布局",
+                                    "stockId": "000988",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002384",
+                                    "pctChg": 8.87,
+                                    "top": 1,
+                                    "name": "东山精密",
+                                    "sort": 5,
+                                    "reason": "光模块全球市占率第九，公司拟收购索尔思光电100%股权",
+                                    "stockId": "002384",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz301205",
+                                    "pctChg": -1.79,
+                                    "top": 0,
+                                    "name": "联特科技",
+                                    "sort": 6,
+                                    "reason": "全系列光模块生产商，800G处于客户验证",
+                                    "stockId": "301205",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600103",
+                                    "pctChg": 10.14,
+                                    "top": 1,
+                                    "name": "青山纸业",
+                                    "sort": 7,
+                                    "reason": "控股子公司恒宝通光模块产品范围覆盖25G、40G、100G、400G光模块",
+                                    "stockId": "600103",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002792",
+                                    "pctChg": -3.88,
+                                    "top": 0,
+                                    "name": "通宇通讯",
+                                    "sort": 8,
+                                    "reason": "子公司四川光为目前800G光模块已实现小批量出货，1.6T光模块处于早期研发测试阶段",
+                                    "stockId": "002792",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9022462,
+                            "subjectId": 9022464,
+                            "importance": 1
+                        },
+                        {
+                            "name": "英伟达系",
+                            "sort": -4,
+                            "reason": "英伟达系：英伟达宣布分别向Lumentum和Coherent各投资20亿美元(2026.03.03)",
+                            "level": 3,
+                            "detail": "<p>英伟达宣布向两家光子技术公司合计投资40亿美元，将对AI数据中心网络架构的战略布局推向新高度。</p><p>周一，英伟达宣布分别向Lumentum和Coherent各投资20亿美元，两笔交易均包含数十亿美元的采购承诺及对先进激光组件的未来产能权益。</p><p>消息公布后，两家光巨头股价拉升，Lumentum收盘上涨近12%，Coherent涨幅逾15%。</p><p>此次投资直指英伟达正在大力推进的共封装光学（CPO）技术路线。CPO将可插拔收发器直接集成至交换机内部，可降低数据中心运营商的硬件采购成本，并显著压缩网络能耗。两家被投公司将把所获资金用于研发投入及美国本土制造产能扩张。</p><p>战略意图：锁定CPO供应链核心环节</p><p>英伟达此次出手，与其去年在数据中心交换机产品线中引入CPO技术的战略部署高度吻合。据悉，英伟达于去年3月推出了两款采用CPO技术的数据中心交换机系列，Lumentum和Coherent均是该技术所需激光组件的核心供应商。</p><p>在AI集群架构中，服务器之间通过光纤电缆相互连接，交换机负责在数字数据与光信号之间完成转换。CPO技术通过将收发器直接集成至交换机，取代了传统独立可插拔收发器方案，在减少硬件层级的同时降低了整体功耗。</p><p>英伟达创始人兼首席执行官黄仁勋在声明中表示：\"英伟达与Lumentum携手，正在推进全球最先进的硅光子技术，以构建下一代吉瓦级AI工厂。\"他同时表示，英伟达将与Coherent合作开发面向AI基础设施的下一代硅光子技术。</p><p>两家被投公司：各有侧重的光子技术玩家</p><p>Lumentum是全球顶级CPO优化激光模块供应商之一，其发射器可产生1311纳米光束，并配备温度管理机制以优化网络性能。该公司上季度营收为6.655亿美元，产品线涵盖传统可插拔收发器、用于优化AI集群网络流量的光路交换机，以及面向金属焊接等工业场景的工业激光器。去年9月，Lumentum已启动CPO组件产能扩张计划。</p><p><br></p><p>Coherent的业务布局同样横跨工业与数据中心激光领域。该公司近期推出了专为CPO系统优化的激光发射器，并配套销售光纤电缆等相关设备。此外，Coherent还涉足光谱合成仪等测试工具市场，为网络设备供应商提供模拟不同光网络流量类型的工程开发支持。</p><p><br></p><p>根据协议，英伟达与Lumentum签订的是一项多年期战略协议，内容包括多十亿美元采购承诺及对先进激光组件的未来产能权益；与Coherent的协议则在此基础上，还涵盖了对先进激光及光网络产品的未来访问和产能权益。</p>",
+                            "pctChg": 0.5,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz001267",
+                                    "pctChg": 1.43,
+                                    "top": 0,
+                                    "name": "汇绿生态",
+                                    "sort": -4,
+                                    "reason": "北美光模块龙头Coherent为子司武汉钧恒第一大客户，1.6T光模块已送样",
+                                    "stockId": "001267",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh603306",
+                                    "pctChg": 4.88,
+                                    "top": 1,
+                                    "name": "华懋科技",
+                                    "sort": 1,
+                                    "reason": "子司富创优越是Coherent、Lumentum核心PCBA供应商",
+                                    "stockId": "603306",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300620",
+                                    "pctChg": 0.82,
+                                    "top": 1,
+                                    "name": "光库科技",
+                                    "sort": 2,
+                                    "reason": "为Coherent供应光隔离器、OCS、高速调制器",
+                                    "stockId": "300620",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz003031",
+                                    "pctChg": -0.49,
+                                    "top": 0,
+                                    "name": "中瓷电子",
+                                    "sort": 3,
+                                    "reason": "为Coherent、Lumentum光模块陶瓷封装管壳重要供应商",
+                                    "stockId": "003031",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688195",
+                                    "pctChg": -1.51,
+                                    "top": 1,
+                                    "name": "腾景科技",
+                                    "sort": 3,
+                                    "reason": "Coherent和Lumentum是公司的重要客户之一，提供OCS交换机折射棱镜、准直透镜等核心光器件",
+                                    "stockId": "688195",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh601231",
+                                    "pctChg": -2.73,
+                                    "top": 0,
+                                    "name": "环旭电子",
+                                    "sort": 6,
+                                    "reason": "为Coherent提供代工",
+                                    "stockId": "601231",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300757",
+                                    "pctChg": 1.11,
+                                    "top": 1,
+                                    "name": "罗博特科",
+                                    "sort": 7,
+                                    "reason": "子司ficonTEC是全球耦合封装设备龙头，供应设备给Lumentum和coherent",
+                                    "stockId": "300757",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9022462,
+                            "subjectId": 9064936,
+                            "importance": 1
+                        },
+                        {
+                            "name": "华为系",
+                            "sort": -3,
+                            "reason": "华为系：在网络性能优化方面，华为利用光器件上千个参数数据建立了高精度的光学性能仿真模型，并通过海量样本数据进行持续迭代优化。这一创新显著提升了性能评估的准确性，使得光信号的传输距离在现有基础上提升了20%。",
+                            "level": 3,
+                            "detail": "<p style=\"text-align: start;\"><span style=\"font-size: 16px;\">根据华为官网信息，3月3日在西班牙巴塞罗那举行的世界移动通信大会（MWC 2026）上，华为光产品线总裁陈帮华正式发布了下一代全光网创新产品与解决方案。</span></p><p style=\"text-align: start;\"><img src=\"https://www.eet-china.com/d/file/news/2026-03-03/7572548e29456396a571523486ee3aae.jpg\" alt=\"\" data-href=\"\" style=\"height: auto;\"></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">此次发布紧扣“以智赋网（AI for Networks）”和“以网兴智（Networks for AI）”两大核心理念，旨在应对2030年家庭AI终端普及率将达90%、超大型数据中心数量激增77%的未来挑战，标志着全球光网络正式迈入以AI为中心的代际升级新阶段。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">随着国际电信联盟（ITU-T）正式发布ION-2030技术框架，下一代光网络的关键能力与标准化路线已日益清晰。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">华为指出，家庭AI应用的爆发式增长与算力互联的无处不在，对网络带宽、时延及可靠性提出了前所未有的高要求。为此，华为推出了一系列基于深度AI融合的创新技术，力求在提升网络性能的同时，大幅降低运维成本与能耗。</span></p><p style=\"text-align: start;\"><img src=\"https://www.eet-china.com/d/file/news/2026-03-03/6cede7e6c78f6173deb39fdc06978b3b.png\" alt=\"\" data-href=\"\" style=\"height: auto;\"></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">在“AI for Networks”层面，华为通过引入智能感知光模块与智能单板，实现了网络运维的革命性突破。该系统能将故障位置精准定位到10米以内。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">在网络性能优化方面，华为利用光器件上千个参数数据建立了高精度的光学性能仿真模型，并通过海量样本数据进行持续迭代优化。这一创新显著提升了性能评估的准确性，使得光信号的传输距离在现有基础上提升了20%。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">此外，针对用户感知最直接的Wi-Fi体验，华为引入了先进的Wi-Fi感知技术。该技术能实时识别环境干扰，并通过AI算法智能调节Wi-Fi功率、优化信号传输路径及补偿信号损耗。实测数据显示，在复杂干扰场景下，Wi-Fi速率可提升20%。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">华为还在OLT（光线路终端）中引入了智能节能技术。系统能够实时分析业务流量，精准识别设备的忙闲状态，在无流量时段，端口与单板可进入全休眠模式。这种动态调节机制实现了平均40%的节能效果。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">在智能运维领域，基于海量故障场景积累的家宽运维智能体表现卓越。它能自动识别并定位超过60种故障类型，对于Wi-Fi信道配置等常见问题可实现自动闭环处理。同时，通过自然语言交互技术，该智能体还能辅助NOC（网络运营中心）工程师进行远程快速决策，进一步减少了现场派单次数，推动了网络规划、建设、维护、优化全流程的智能化转型。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">在“Networks for AI”层面，华为致力于构建适配AI时代的基础设施。在光接入层，华为打造了下行千兆、上行百兆的“大上行”目标网，充分满足家庭AI新业务对带宽的需求；在光传送层，通过打造国干5ms、区域3ms、城域1ms的极致时延圈，实现了“毫秒用算”，保障各类AI应用的最佳体验。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">陈帮华表示：“华为从AI for Networks和Networks for AI两方面提升下一代全光网解决方案能力，以智赋网实现光纤智能感知，网络性能、用户体验和运维效率提升，能耗降低等，以网兴智升级网络能力，助力运营商构建以AI为中心的全光目标网，加速AI走进千家万户和千行万业。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\"> 而在服务器连接层面</span></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">华为展出的Atlas 950 SuperPoD 智算超节点成为展区焦点，其依托超大规模光互联与系统级架构创新，为万亿参数时代的 AI 训练提供了可落地的关键一环。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">Atlas 950 SuperPoD 超节点采用了光互联技术架构，使用800GE SR星云光互联构建高速互联网络，3万多个光模块将 8192 颗昇腾 950 处理器高效协同，在逻辑层面等效为一台超大规模高性能计算机，可直接支撑超大规模 AI 训练与高并发推理场景。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">800GE星云光互联关键技术差异：从 “拼装式” 到 “系统级” 高可靠互联方案</span></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">传统光模块多采用光芯片与其他组件分离设计，类似 “先造零件再组装”的模式。光模块与系统设备之间容易出现匹配度不足、信号抖动、稳性差等问题。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">800GE SR星云光互联是华为基于其多年在光通信领域积累的技术优势，从 AI 智算的需求出发，将光芯片、光模块、系统架构深度协同设计，把芯片底层要求前置融入模块开发，通过全链路校准与优化，实现了高稳定、低时延传输。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">光链路运维的可视化突破：大规模AI 集群下的 “智能体检医生”</span></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">展会现场展示了800GE SR星云光互联搭载的星云智检 StarSensor功能，它针对AI智算中心链路闪断的核心痛点，为光互联网络配备智能巡检系统。该功能可以自动完成链路检测、故障定位，可提前识别90% 以上潜在故障，大幅降低光链路闪断风险，让大规模智算网络部署与运维更高效。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">光进铜退中的行业趋势：光互联正成为超节点关键竞争力</span></p><p style=\"text-align: start;\"><span style=\"font-size: 16px;\">展会同期交流中，多位行业专家向记者表示，随着大模型迈入万亿参数时代、智能体深度落地，AI 算力需求呈指数级增长。光互联已成为 AI 集群的 “神经网络”，直接决定算力效率与系统稳定性，其重要性被提升到前所未有的高度。未来算力中心将向高密度、大规模、集中化方向演进，光互联技术将成为智算领域的关键竞争壁垒</span></p>",
+                            "pctChg": -0.02,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz000988",
+                                    "pctChg": 0.86,
+                                    "top": 1,
+                                    "name": "华工科技",
+                                    "sort": -11,
+                                    "reason": "关联度第一，华工科技在800G产品上密切支持昇腾集群芯片连接",
+                                    "stockId": "000988",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002281",
+                                    "pctChg": -0.25,
+                                    "top": 1,
+                                    "name": "光迅科技",
+                                    "sort": -3,
+                                    "reason": "关联度第二，光引擎已适配华为昇腾集群，华为是公司重要客户之一",
+                                    "stockId": "002281",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688195",
+                                    "pctChg": -1.51,
+                                    "top": 1,
+                                    "name": "腾景科技",
+                                    "sort": -2,
+                                    "reason": "关联度第三，是华为直接供应商，提供滤光片、偏振分束器(PBS)、透镜等精密光学元组件，应用于华为5G基站、数据中心光模块",
+                                    "stockId": "688195",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600330",
+                                    "pctChg": -3.45,
+                                    "top": 0,
+                                    "name": "天通股份",
+                                    "sort": 1,
+                                    "reason": "薄膜铌酸锂调制器广泛应用于光模块和光器件等，华为是公司客户",
+                                    "stockId": "600330",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300394",
+                                    "pctChg": 3.46,
+                                    "top": 1,
+                                    "name": "天孚通信",
+                                    "sort": 4,
+                                    "reason": "华为是公司客户",
+                                    "stockId": "300394",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh603738",
+                                    "pctChg": 0.75,
+                                    "top": 0,
+                                    "name": "泰晶科技",
+                                    "sort": 5,
+                                    "reason": "华为是公司客户，公司推出了光通信领域高基频、高精度、LVDS差分输出时钟的解决方案",
+                                    "stockId": "603738",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9022462,
+                            "subjectId": 9064978,
+                            "importance": 1
+                        },
+                        {
+                            "name": "光引擎",
+                            "sort": 1,
+                            "reason": "光引擎",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": 3.46,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz300394",
+                                    "pctChg": 3.46,
+                                    "top": 1,
+                                    "name": "天孚通信",
+                                    "sort": 1,
+                                    "reason": "公司高速光引擎产品处于稳定批量交付阶段；公司从光器件逐渐拓展至光引擎行业",
+                                    "stockId": "300394",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9022462,
+                            "subjectId": 9033888,
+                            "importance": 2
+                        },
+                        {
+                            "name": "LPO",
+                            "sort": 1,
+                            "reason": "LPO，光模块新技术路线，具备低功耗、低成本优势，或将成为未来主流路线。",
+                            "level": 3,
+                            "detail": "<p>题材基本面介绍：</p><p><br></p><p>LPO，英文全称Linear-drive &nbsp;Pluggable Optics，即线性驱动可插拔光模块，在数据链路中只使用线性模拟元件，无需DSP或者CDR芯片。</p><p><img src=\"https://guduoduo-app.oss-cn-beijing.aliyuncs.com/upload/rich/2023/12/08/597bf930-649e-4b8b-8aba-241d5709a9b2-1702040398662.png\" alt=\"\" data-href=\"\" style=\"width: 396.91px;height: 309.79px;\"/></p><p style=\"text-align: center;\"><strong>LPO的优势</strong></p><p><span style=\"color: rgb(225, 60, 57);\"><strong>LPO的优势：低功耗、低成本、低延时、易维护。</strong></span></p><p><img src=\"https://guduoduo-app.oss-cn-beijing.aliyuncs.com/upload/rich/2023/12/08/842c2730-724b-4b05-87a0-ae4f80eafe76-1702040503468.png\" alt=\"\" data-href=\"\" style=\"width: 395.97px;height: 337.45px;\"/></p><p><br></p><p style=\"text-align: center;\"><strong>LPO的劣势</strong></p><p><span style=\"color: rgb(0, 0, 0);\">（1）通信距离短，应用场景受限制</span></p><p><span style=\"color: rgb(0, 0, 0);\">（2）标准化刚起步，互联互通存在挑战</span></p><p><br></p><p style=\"text-align: center;\"><span style=\"color: rgb(0, 0, 0);\"><strong>LPO的增速</strong></span></p><p style=\"text-align: left;\"><span style=\"color: rgb(225, 60, 57);\"><strong>预计LPO光模块出货量从2023年的1.31万件增长到2028年的418万件，CAGR可达217%。</strong></span></p>",
+                            "pctChg": -1.05,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh603083",
+                                    "pctChg": 0.6,
+                                    "top": 0,
+                                    "name": "剑桥科技",
+                                    "sort": 1,
+                                    "reason": "800G LPO进度A股第一，2023年下半年送样",
+                                    "stockId": "603083",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002902",
+                                    "pctChg": -2.67,
+                                    "top": 0,
+                                    "name": "铭普光磁",
+                                    "sort": 2,
+                                    "reason": "公司800G LPO已实现小批量出货",
+                                    "stockId": "002902",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9022462,
+                            "subjectId": 9022463,
+                            "importance": 2
+                        },
+                        {
+                            "name": "其他",
+                            "sort": 400000,
+                            "reason": "其他",
+                            "level": 3,
+                            "detail": "",
+                            "pctChg": -1.22,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh601231",
+                                    "pctChg": -2.73,
+                                    "top": 0,
+                                    "name": "环旭电子",
+                                    "sort": 1,
+                                    "reason": "公司7月底发布新一代1.6T光模块并自建测试实验室，未来将与控股股东合作拓展CPO光器件及系统组装业务",
+                                    "stockId": "601231",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz000586",
+                                    "pctChg": -9.99,
+                                    "top": 1,
+                                    "name": "汇源通信",
+                                    "sort": 1,
+                                    "reason": "公司下属子公司有工控光模块相关的研发及产品",
+                                    "stockId": "000586",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz001267",
+                                    "pctChg": 1.43,
+                                    "top": 0,
+                                    "name": "汇绿生态",
+                                    "sort": 3,
+                                    "reason": "控股子司武汉钧恒专注于光模块研发生产，400G/800G高速率产品2025年出货量显著增加",
+                                    "stockId": "001267",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688388",
+                                    "pctChg": 1.79,
+                                    "top": 0,
+                                    "name": "嘉元科技",
+                                    "sort": 4,
+                                    "reason": "持股13.6%的武汉恩达通的800G光模块已批量出货，且拥有1.6T产品",
+                                    "stockId": "688388",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688662",
+                                    "pctChg": 2,
+                                    "top": 0,
+                                    "name": "富信科技",
+                                    "sort": 4,
+                                    "reason": "子公司Micro TEC(微型热电制冷器件)已通过头部企业验证并批量供货，应用于400G及800G 光模块的精密温控",
+                                    "stockId": "688662",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh603052",
+                                    "pctChg": 5.57,
+                                    "top": 1,
+                                    "name": "可川科技",
+                                    "sort": 5,
+                                    "reason": "子公司可川光子首条400G/800G高速光模块生产线已投产，具备硅光芯片设计到模块测试全链条量产能力",
+                                    "stockId": "603052",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002902",
+                                    "pctChg": -2.67,
+                                    "top": 0,
+                                    "name": "铭普光磁",
+                                    "sort": 6,
+                                    "reason": "公司800G LPO已实现小批量出货，800G NPO正与客户联合开发",
+                                    "stockId": "002902",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002980",
+                                    "pctChg": -4.63,
+                                    "top": 1,
+                                    "name": "华盛昌",
+                                    "sort": 7,
+                                    "reason": "拟收购伽蓝特科技100%股权，其专注光通信模块及光芯片测试",
+                                    "stockId": "002980",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz002796",
+                                    "pctChg": -0.89,
+                                    "top": 0,
+                                    "name": "世嘉科技",
+                                    "sort": 8,
+                                    "reason": "公司拟出资1.3亿元受让光彩芯辰6.9365%股权，其产品矩阵覆盖100G至800G、1.6T系列光模块产品",
+                                    "stockId": "002796",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300812",
+                                    "pctChg": -2.16,
+                                    "top": 0,
+                                    "name": "易天股份",
+                                    "sort": 9,
+                                    "reason": "子公司微组半导体的微组装设备可应用于部分光模块的部分器件组装工序",
+                                    "stockId": "300812",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300571",
+                                    "pctChg": -1.09,
+                                    "top": 0,
+                                    "name": "平治信息",
+                                    "sort": 10,
+                                    "reason": "参股武汉飞沃科技25%股权，其主要产品包括光模块、无源波分以及半有源波分产品",
+                                    "stockId": "300571",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9022462,
+                            "subjectId": 9039790,
+                            "importance": 2
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9013933,
+                    "ancestors": "0,9013933",
+                    "subjectId": 9022462,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "光设备",
+                    "sort": 109,
+                    "reason": "光模块相关设备，罗博特科拟收购德国公司ficonTEC，该公司是全球光模块封测设备龙头，硅光设备领域市占率超50%，其量产的全自动设备适用于400G/800G高速光模块的封装及测试。",
+                    "level": 2,
+                    "detail": "<p>光模块封测设备是光模块制造过程中不可或缺的一部分，它涉及到光模块的封装和测试环节，确保光模块的性能和质量满足行业标准。</p>",
+                    "pctChg": 1.11,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "G",
+                            "code": "sz300757",
+                            "pctChg": 1.11,
+                            "top": 1,
+                            "name": "罗博特科",
+                            "sort": 1,
+                            "reason": "控股公司ficon TEC硅光设备市占率全球第一，50%",
+                            "stockId": "300757",
+                            "business": null
+                        }
+                    ],
+                    "parentId": 9013933,
+                    "ancestors": "0,9013933",
+                    "subjectId": 9013942,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "光连接",
+                    "sort": 1000,
+                    "reason": "光连接",
+                    "level": 2,
+                    "detail": "<p><br></p>",
+                    "pctChg": -0.48,
+                    "children": [
+                        {
+                            "name": "MT插芯",
+                            "sort": 2,
+                            "reason": "MT插芯主要用于光模块内部FA到光接口的连接以及跳线两头的光纤连接器中，主要作用是固定光纤，实现光纤的两个端面的物理对接，使光信号形成通路。",
+                            "level": 3,
+                            "detail": "<p><span style=\"color: rgb(12, 12, 12); background-color: rgb(255, 255, 255);\">全球范围内，MT插芯主要生产商包括Sumitomo、US Conec、FSG、潮州三环集团、Hakusan等，其中前五大厂商占有大约74%的市场份额。</span></p>",
+                            "pctChg": 0.09,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz301486",
+                                    "pctChg": -0.59,
+                                    "top": 0,
+                                    "name": "致尚科技",
+                                    "sort": 1,
+                                    "reason": "出货量A股第一，收购福可喜玛股权稳定提供产品",
+                                    "stockId": "301486",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300408",
+                                    "pctChg": 1.81,
+                                    "top": 0,
+                                    "name": "三环集团",
+                                    "sort": 2,
+                                    "reason": "出货量A股第二，16芯已通过验证并供货",
+                                    "stockId": "300408",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300570",
+                                    "pctChg": -0.94,
+                                    "top": 0,
+                                    "name": "太辰光",
+                                    "sort": 3,
+                                    "reason": "出货量A股第三，部分产品进入量产",
+                                    "stockId": "300570",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9033796,
+                            "subjectId": 9033799,
+                            "importance": 2
+                        },
+                        {
+                            "name": "高速电缆DAC",
+                            "sort": 6,
+                            "reason": "AI产业发展有望驱动算力大幅提升，超大规模数据中心建设推动GPU需求量激增，高速电缆DAC需求量与GPU数量强相关",
+                            "level": 3,
+                            "detail": "<p><span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); font-size: 16px;\">与AOC光模块方案相比，DAC铜缆连接方案因为不需要光电转换芯片，在成本端具有显著优势；</span></p><p><br></p><p><span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); font-size: 16px;\">在高速短距互联传输中可靠性、能耗等性能优势显著，并具有较强的耐候性、耐弯折性，无故障时间远高于光缆且时延更低，成为</span><a href=\"iwin://cmd=openf5&amp;stockcode=883534.bak\" target=\"\" style=\"text-align: justify;\">数据中心</a><span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255); font-size: 16px;\">短距互联（一般在5m以内）的主要方案，主导着北美云数据中心短距互联，并适配AI超算数据中心需求。</span></p>",
+                            "pctChg": -2.2,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz300913",
+                                    "pctChg": -2.2,
+                                    "top": 0,
+                                    "name": "兆龙互连",
+                                    "sort": 1,
+                                    "reason": "国内稀缺200/400/800G 高速电缆DAC供应商",
+                                    "stockId": "300913",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9033796,
+                            "subjectId": 9033798,
+                            "importance": 2
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9013933,
+                    "ancestors": "0,9013933",
+                    "subjectId": 9033796,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "硅光",
+                    "sort": 99999,
+                    "reason": "外资研报指出，CPO市场将在2027年显著增长，2028年市场规模将超过10亿美元，并在2030年突破50亿美元。",
+                    "level": 2,
+                    "detail": "<p style=\"text-align: center;\"><strong>一、硅光产业动态</strong></p><p><span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);\"><strong>2025年6月27日</strong></span></p><p><span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);\">摩根大通研报指出，业内专家预测CPO市场将在2027年开始显著增长，2028年市场规模将超过10亿美元，并在2030年突破50亿美元。</span></p><p><span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);\"><strong>2025年1月16日</strong></span></p><p><span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);\">《科创板日报》16日讯，据供应链透露，英伟达将于3月的GTC大会推出CPO（共封装光学）交换机新品，预计试产工作顺利进行，8月份即可量产。（来源：财联社）</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\"><strong>2025年1月7日</strong></span></p><p><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">最新消息称，英伟达与台积电已合作开发出基于硅光子学的芯片原型，并正积极探索光学封装技术，以进一步提升 AI 芯片性能。</span></p><p><span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);\"><strong>2024年12月25日</strong></span></p><p><span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);\"><strong>上海国和投资与超讯通信签署战略合作框架协议，聚焦AI与硅光技术方向</strong></span></p><p><span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);\"><strong>2024年10月30日</strong></span></p><p><span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);\"><strong>报道称：美国议员敦促审查中国硅光技术可能带来的威胁</strong></span></p><p><span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);\"><strong>2024年10月18日</strong></span></p><p><span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);\"><strong>罗博特科接待近70家机构代表调研 谈重组项目中止，预计明年硅光子及CPO有较大新增设备市场需求</strong></span></p><p><span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);\"><strong>2024年9月25日</strong></span></p><p><span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);\">9月25日电，美国加州大学尔湾分校科学家领导的国际科研团队，通过操纵入射光子的动量，使纯硅从间接带隙半导体变为直接带隙半导体，其光学性能提升了4个数量级。相关论文发表于最新一期《美国化学学会·纳米》杂志。</span></p><p><span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);\"><strong>2024年9月13日</strong></span></p><p><span style=\"color: rgb(51, 51, 51); background-color: rgb(255, 255, 255);\">机构表示，在1.6T产业链方面，目前已逐步成熟，硅光模块的出货比例预计将得到提升，硅光模块的渗透率在1.6T时代相比400G及800G时代将显著提升。</span></p><p><strong>2024年9月10日</strong></p><p>近日，硅光技术领域的佼佼者DustPhotonics自豪地宣布，他们已成功推出市场上首款专为1.6Tb/s DR8应用设计的商用硅光子引擎，精准定位于AI及超大规模数据中心市场。</p><p><strong>2024年8月12日</strong></p><p><span style=\"color: rgb(34, 34, 34); background-color: rgb(255, 255, 255);\">据清华大学官方消息，清华大学电子工程系方璐教授课题组、自动化系戴琼海院士课题组另辟蹊径，首创了全前向智能光计算训练架构，研制了“太极-II”光训练芯片，实现了大规模神经网络的原位光训练，为人工智能（AI）大模型探索了光训练的新路径。该研究成果以《光神经网络全前向训练》为题，在线发表于《Nature》期刊。</span></p><p><strong>2024年7月28日</strong></p><p><span style=\"color: rgb(34, 34, 34); background-color: rgb(255, 255, 255);\">百川智能于近期完成了 A 轮融资，总融资金额达 50 亿元，并且将以 200 亿元估值开启 B 轮融资。</span>武汉驿天诺科技有限公司完成数千万元 Pre-A 轮融资，武创华工基金领投，中国信科天使基金、泽森资本、光谷产投、白云边科投等跟投。驿天诺位于武汉光谷，专注于硅光 & 第三代半导体封测设备，核心团队成员来自全球知名产业公司，拥有成熟的量产级硅光及第三代半导体封测设备开发及应用经验，具备整机系统创新能力以及核心关键部件国产化能力。</p><p><strong>2024年6月18日</strong></p><p><strong>相关消息称，天孚获英伟达加单 1.6T光模块200w支。</strong></p><p><br></p><p><strong>2024年6月14日</strong></p><p>相关消息称，旭创在新加坡的交流会上表示，明年800G的量很有可能1500万+只，超市场预期（此前预期1000万只）。</p><p><br></p><p><strong>2024年6月14日</strong></p><p><span style=\"background-color: rgb(255, 255, 255);\">银河证券表示，预计全球光模块市场2024年整体收入增长率将达到27%，主要得益于400G和800G数通光模块的需求扩大，特别是来自英伟达、谷歌和亚马逊的订单需求对收入增长起到了关键作用。</span></p><p><br></p><p><strong>2024年6 月 2 日</strong></p><p>英伟达 CEO 黄仁勋在台北 ComputeX 2024 大会上展示了英伟达在 加速计算和生成式AI领域的最新成果，还描绘了未来计算和机器人技术的发展蓝图。</p><p>1、进一步展开介绍了一下Blackwell平台，并强调客户的热情是难以置信的。并展望了后续的Blackwell Ultra、Ruben、Ruben Ultra系列产品图。</p><p>2、强调了网络的重要性，网络时延对于整体计算AI数据中心的效率影响巨大。 </p><p>3、以太网平台Spectrum-X的Roadmap：意味着800G--1.6T--3.2T的Roadmap明确。 （1）2024年：推出Spectrum-X800 51.2T+BF3 400G SuperNIC ，应用于万卡集群 （2）2025年：推出Spectrum UItra-X800 51.2T+CX8-800G SuperNIC，应用于十万卡集群 （3）2026年：推出Spectrum-X1600 102.4T+CX9-1600 SuperNIC，应用于百万卡集群。</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\"><strong>2024年5月16日</strong></p><p style=\"text-align: left;\">中信证券研报指出，AI大模型推动算力基础设施加速迭代，从而加快光模块产业升级节奏。复盘数通光模块的发展历程，我们认为硅光模块有望自800G时代开始快速提升渗透率</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\"><strong>2024年3月</strong></p><p style=\"text-align: left;\">据媒体报道，日本政府将提供约450亿日元，支持英特尔、SK海力士及日本NTT三方合作开发下一代硅光子技术；另据供应链透露，台积电投入上百人的研发团队，携手国际大客户共同研发硅光子技术，预计2024下半年完成，2025年进入量产。</p><p style=\"text-align: left;\"><br></p><p style=\"text-align: center;\"><strong>二、硅光产业介绍</strong></p><p style=\"text-align: left;\"><strong>光模块主要有四种技术方案：CPO方案、</strong><span style=\"color: rgb(0, 0, 0); background-color: rgb(255, 255, 255);\">薄膜铌酸锂方案、硅光方案、LPO方案</span></p><p style=\"text-align: left;\">1）硅光方案优势：具有集成度高、成本下降潜力大、波导传输性能优异三大优势。</p><p style=\"text-align: left;\"><span style=\"color: rgb(225, 60, 57);\"><strong>硅光芯片兼具微电子和光子的优势，不依赖于先进制程，或成为突破摩尔定律天花板的关键。</strong></span></p><p style=\"text-align: left;\">硅光模块在高速率传输网中优势明显，需求增速将高于传统光模块；<span style=\"color: rgb(225, 60, 57);\"><strong>硅光模块有望在2025年高速光模块市场中占据45%以上份额。</strong></span></p><p style=\"text-align: left;\"><img src=\"https://guduoduo-app.oss-cn-beijing.aliyuncs.com/upload/rich/2024/03/06/5306539f-3960-4722-89f8-66cb91ec31bd-1709719083147.png\" alt=\"\" data-href=\"\" style=\"\"></p><p style=\"text-align: left;\">2）硅光方案劣势：</p><p style=\"text-align: left;\"><strong>设计面临着架构不完善、体积和性能平衡等难题：</strong>前端集成则面积利用率较低，工艺成本高;后端集成制造难度大，尤其是波导制备还很难完成;混合集成的成本与设计难度仍然不小。</p><p style=\"text-align: left;\"><span style=\"color: rgb(225, 60, 57);\"><strong>硅光芯片制造工艺不统一、设备短缺：</strong></span>光学元器件对制造工艺要求更精确，些许偏差就可能造成巨大问题，从而影响到良品率与制造成本。封装问题：硅光芯片所采用的光的波长非常的小，跟光纤、激光器存在不匹配问题，导致耦合损耗比较大。</p><p style=\"text-align: left;\"><strong>配套器件技术、成本问题：</strong>硅光芯片需要的配套光器件很多，如调制器、陶瓷套管/插芯、光收发接口等，而这些光器件仍然面临技术不完善、制造成本高等问题。</p><p style=\"text-align: left;\">Yole预计硅光模块市场规模将从2016年的2.02亿美元，增长到2025年的36.7亿美元，200G/400G和100G光模块市场规模的复合增长率分别达到95.9%、37.3%。新思界产业研究中心认为，2020年全球硅光模块市场普及率较低，仅为15%左右，在5G与数据中心行业拉动下，预计到2025年其市场普及率将达到45%左右，其中，在高速光模块市场中占有率更高，将达到60%以上。</p>",
+                    "pctChg": 1.46,
+                    "children": [
+                        {
+                            "name": "硅光设备",
+                            "sort": -155,
+                            "reason": "硅光设备是集成了硅基光电器件的高科技产品，它们利用硅材料的独特光电特性来实现光信号的产生、调制、传输和检测。这些设备通常包括硅光调制器、硅光探测器、光波导、光开关和光耦合器等，它们可实现在单一硅芯片上的光电子集成。硅光设备以其与现有硅电子工艺的兼容性、低成本制造和高性能等优势，广泛应用于光通信、生物医学成像、光计算和传感等领域，推动了光电子技术的创新和发展",
+                            "level": 3,
+                            "detail": "<p style=\"text-align: center;\"><span style=\"color: rgb(6, 6, 7); background-color: rgb(255, 255, 255); font-size: 14px;\"><strong>硅光设备介绍</strong></span></p><p><span style=\"color: rgb(6, 6, 7); background-color: rgb(255, 255, 255); font-size: 14px;\">硅光设备是集成了硅基光电器件的高科技产品，它们利用硅材料的独特光电特性来实现光信号的产生、调制、传输和检测。这些设备通常包括硅光调制器、硅光探测器、光波导、光开关和光耦合器等，它们可实现在单一硅芯片上的光电子集成。硅光设备以其与现有硅电子工艺的兼容性、低成本制造和高性能等优势，广泛应用于光通信、生物医学成像、光计算和传感等领域，推动了光电子技术的创新和发展</span></p>",
+                            "pctChg": 0.92,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz300757",
+                                    "pctChg": 1.11,
+                                    "top": 1,
+                                    "name": "罗博特科",
+                                    "sort": 1,
+                                    "reason": "控股公司ficon TEC硅光设备市占率全球第一，50%",
+                                    "stockId": "300757",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz000801",
+                                    "pctChg": 0.73,
+                                    "top": 0,
+                                    "name": "四川九洲",
+                                    "sort": 2,
+                                    "reason": "子公司九洲集团COB共晶焊接设备等打破国外技术垄断",
+                                    "stockId": "000801",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9053162,
+                            "subjectId": 9053163,
+                            "importance": 2
+                        },
+                        {
+                            "name": "硅光光源",
+                            "sort": -9,
+                            "reason": "硅光光源是一种基于硅材料的发光器件，它利用硅的光电特性来产生光信号。与传统的III-V族半导体光源相比，硅光光源在硅基平台上制造，易于与电子电路集成，实现光电混合集成。硅光光源通常采用特殊结构如纳米线、量子点或硅基发光二极管等技术来实现发光，尽管硅本身的发光效率较低，但通过技术创新正逐步提高其性能。这种光源在光通信、生物传感和集成光电子等领域具有应用潜力",
+                            "level": 3,
+                            "detail": "<p style=\"text-align: center;\"><span style=\"color: rgb(6, 6, 7); background-color: rgb(255, 255, 255); font-size: 14px;\"><strong>硅光光源介绍</strong></span></p><p><span style=\"color: rgb(6, 6, 7); background-color: rgb(255, 255, 255); font-size: 14px;\">硅光光源是一种基于硅材料的发光器件，它利用硅的光电特性来产生光信号。与传统的III-V族半导体光源相比，硅光光源在硅基平台上制造，易于与电子电路集成，实现光电混合集成。硅光光源通常采用特殊结构如纳米线、量子点或硅基发光二极管等技术来实现发光，尽管硅本身的发光效率较低，但通过技术创新正逐步提高其性能。这种光源在光通信、生物传感和集成光电子等领域具有应用潜力</span></p>",
+                            "pctChg": 3.95,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh688498",
+                                    "pctChg": 8.58,
+                                    "top": 0,
+                                    "name": "源杰科技",
+                                    "sort": 1,
+                                    "reason": "进度A股第一，于24年1月份通过中际旭创认证",
+                                    "stockId": "688498",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688313",
+                                    "pctChg": -0.68,
+                                    "top": 0,
+                                    "name": "仕佳光子",
+                                    "sort": 2,
+                                    "reason": "进度A股第二，开始布局CW光源",
+                                    "stockId": "688313",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9053162,
+                            "subjectId": 9053164,
+                            "importance": 2
+                        },
+                        {
+                            "name": "硅光引擎",
+                            "sort": -8,
+                            "reason": "硅光引擎是一种集成了光电子功能的高性能计算引擎，它将硅基光电子器件与电子芯片紧密集成，以实现高速数据传输和处理。这种引擎利用光子的高频率和低功耗特性，增强了传统电子设备的计算能力和能效比。硅光引擎在光通信、数据中心、高性能计算和人工智能算法加速等领域展现出其巨大的应用潜力，代表了光电集成技术的新前沿。",
+                            "level": 3,
+                            "detail": "<p style=\"text-align: center;\"><span style=\"color: rgb(6, 6, 7); background-color: rgb(255, 255, 255); font-size: 14px;\"><strong>硅光引擎介绍</strong></span></p><p><span style=\"color: rgb(6, 6, 7); background-color: rgb(255, 255, 255); font-size: 14px;\">硅光引擎是一种集成了光电子功能的高性能计算引擎，它将硅基光电子器件与电子芯片紧密集成，以实现高速数据传输和处理。这种引擎利用光子的高频率和低功耗特性，增强了传统电子设备的计算能力和能效比。硅光引擎在光通信、数据中心、高性能计算和人工智能算法加速等领域展现出其巨大的应用潜力，代表了光电集成技术的新前沿。</span></p>",
+                            "pctChg": 2.1,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz300394",
+                                    "pctChg": 3.46,
+                                    "top": 1,
+                                    "name": "天孚通信",
+                                    "sort": 1,
+                                    "reason": "硅光芯片集成高速光引擎送样测试，英伟达绑定",
+                                    "stockId": "300394",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz000801",
+                                    "pctChg": 0.73,
+                                    "top": 0,
+                                    "name": "四川九洲",
+                                    "sort": 2,
+                                    "reason": "子公司九洲集团已推出400G DR4高速硅光引擎",
+                                    "stockId": "000801",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9053162,
+                            "subjectId": 9053165,
+                            "importance": 2
+                        },
+                        {
+                            "name": "硅光模块",
+                            "sort": 1,
+                            "reason": "硅光模块是一种集成了硅基光电子器件的光通信组件，它通过在硅芯片上实现光信号的生成、调制、传输和检测等功能。这些模块通常包含光源、光探测器、调制器、波导和耦合器等关键元件，能够实现高速、低功耗的光信号处理。硅光模块以其尺寸小、集成度高、成本效益好等优势，在数据中心、5G通信和长距离传输等高速光通信领域具有广泛应用。",
+                            "level": 3,
+                            "detail": "<p style=\"text-align: center;\"><span style=\"color: rgb(6, 6, 7); background-color: rgb(255, 255, 255); font-size: 14px;\"><strong>硅光模块介绍</strong></span></p><p><span style=\"color: rgb(6, 6, 7); background-color: rgb(255, 255, 255); font-size: 14px;\">硅光模块是一种集成了硅基光电子器件的光通信组件，它通过在硅芯片上实现光信号的生成、调制、传输和检测等功能。这些模块通常包含光源、光探测器、调制器、波导和耦合器等关键元件，能够实现高速、低功耗的光信号处理。硅光模块以其尺寸小、集成度高、成本效益好等优势，在数据中心、5G通信和长距离传输等高速光通信领域具有广泛应用。</span></p><p style=\"text-align: center;\"><span style=\"color: rgb(6, 6, 7); background-color: rgb(255, 255, 255); font-size: 14px;\"><strong>相关动态</strong></span></p><p><span style=\"color: rgb(6, 6, 7); background-color: rgb(255, 255, 255); font-size: 14px;\"><strong>2025年7月16日</strong></span></p><p><span style=\"color: rgb(6, 6, 7); background-color: rgb(255, 255, 255); font-size: 14px;\">新易盛(300502.SZ)在投资者关系活动记录表中称，公司产品结构的变化主要取决于市场及客户的需求，公司在2025年上半年800G产品出货量和销售占比保持持续提升，400G产品也在持续出货。从目前的市场需求及客户指引来看，预计2025年下半年起，1.6T产品将逐渐起量。</span></p>",
+                            "pctChg": 1.17,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz300308",
+                                    "pctChg": 5.48,
+                                    "top": 1,
+                                    "name": "中际旭创",
+                                    "sort": 1,
+                                    "reason": "进度A股第一，800G硅光模块已推出",
+                                    "stockId": "300308",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz000988",
+                                    "pctChg": 0.86,
+                                    "top": 1,
+                                    "name": "华工科技",
+                                    "sort": 2,
+                                    "reason": "进度A股第二，800G硅光模块2022Q3季度推出",
+                                    "stockId": "000988",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh603083",
+                                    "pctChg": 0.6,
+                                    "top": 0,
+                                    "name": "剑桥科技",
+                                    "sort": 3,
+                                    "reason": "进度A股第三，800G硅光模块已生产",
+                                    "stockId": "603083",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002902",
+                                    "pctChg": -2.67,
+                                    "top": 0,
+                                    "name": "铭普光磁",
+                                    "sort": 4,
+                                    "reason": "进度A股第四，硅光800GDR8光模块示波器检测通过",
+                                    "stockId": "002902",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002384",
+                                    "pctChg": 8.87,
+                                    "top": 1,
+                                    "name": "东山精密",
+                                    "sort": 5,
+                                    "reason": "进度A股第五，800G硅光模块处样品测试阶段",
+                                    "stockId": "002384",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300548",
+                                    "pctChg": -3.61,
+                                    "top": 1,
+                                    "name": "长芯博创",
+                                    "sort": 5,
+                                    "reason": "进度A股第六，800G硅光模块开发中",
+                                    "stockId": "300548",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600736",
+                                    "pctChg": 0.5,
+                                    "top": 0,
+                                    "name": "苏州高新",
+                                    "sort": 6,
+                                    "reason": "旗下基金持股海光芯创，海光芯创自研400G硅光模块已推出",
+                                    "stockId": "600736",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz301486",
+                                    "pctChg": -0.59,
+                                    "top": 0,
+                                    "name": "致尚科技",
+                                    "sort": 7,
+                                    "reason": "控股子公司福可喜玛在硅光技术方面实现突破",
+                                    "stockId": "301486",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9053162,
+                            "subjectId": 9053166,
+                            "importance": 2
+                        },
+                        {
+                            "name": "硅光代工",
+                            "sort": 20,
+                            "reason": "硅光代工是指在硅基材料上利用半导体工艺技术制造光电子器件的代工生产服务。这种技术结合了硅材料的高电子迁移率和光波导的低损耗特性，用于生产如光调制器、光电探测器、光耦合器等光电子集成电路（OEIC）和光子集成电路（PIC）。硅光代工支持高度集成和低成本批量生产，适用于数据中心、高速通信和生物光电子学等领域，推动了光电子技术的商业化和广泛应用。",
+                            "level": 3,
+                            "detail": "<p style=\"text-align: center;\"><span style=\"color: rgb(6, 6, 7); background-color: rgb(255, 255, 255); font-size: 14px;\"><strong>硅光代工介绍</strong></span></p><p><span style=\"color: rgb(6, 6, 7); background-color: rgb(255, 255, 255); font-size: 14px;\">硅光代工是指在硅基材料上利用半导体工艺技术制造光电子器件的代工生产服务。这种技术结合了硅材料的高电子迁移率和光波导的低损耗特性，用于生产如光调制器、光电探测器、光耦合器等光电子集成电路（OEIC）和光子集成电路（PIC）。硅光代工支持高度集成和低成本批量生产，适用于数据中心、高速通信和生物光电子学等领域，推动了光电子技术的商业化和广泛应用。</span></p>",
+                            "pctChg": -2.34,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz300456",
+                                    "pctChg": -2.34,
+                                    "top": 0,
+                                    "name": "赛微电子",
+                                    "sort": 1,
+                                    "reason": "硅光芯片代工领先企业",
+                                    "stockId": "300456",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9053162,
+                            "subjectId": 9053167,
+                            "importance": 2
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9013933,
+                    "ancestors": "0,9013933",
+                    "subjectId": 9053162,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "核心工艺",
+                    "sort": 100000,
+                    "reason": "核心工艺",
+                    "level": 2,
+                    "detail": "<p><img src=\"https://super-data-middle-platform.oss-cn-beijing.aliyuncs.com/image/2026/03/16/06365e59-3abc-412a-9db7-6b147280fe79.png\" alt=\"\" data-href=\"\" style=\"\"/></p>",
+                    "pctChg": -0.34,
+                    "children": [
+                        {
+                            "name": "贴片",
+                            "sort": 1,
+                            "reason": "贴片",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": -0.83,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "code": "sz301338",
+                                    "pctChg": -0.93,
+                                    "top": 0,
+                                    "name": "凯格精机",
+                                    "sort": 2,
+                                    "reason": "关联度第一，提供贴片整线解决方案",
+                                    "stockId": "301338",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002957",
+                                    "pctChg": -0.13,
+                                    "top": 1,
+                                    "name": "科瑞技术",
+                                    "sort": 3,
+                                    "reason": "提供共晶贴片设备，供货Lumentum",
+                                    "stockId": "002957",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688097",
+                                    "pctChg": -1.42,
+                                    "top": 0,
+                                    "name": "博众精工",
+                                    "sort": 4,
+                                    "reason": "提供光模块高精度贴片机",
+                                    "stockId": "688097",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9065072,
+                            "subjectId": 9065073,
+                            "importance": 1
+                        },
+                        {
+                            "name": "耦合",
+                            "sort": 2,
+                            "reason": "耦合",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": -0.15,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz300757",
+                                    "pctChg": 1.11,
+                                    "top": 1,
+                                    "name": "罗博特科",
+                                    "sort": 1,
+                                    "reason": "关联度第一，提供全自动硅光耦合设备",
+                                    "stockId": "300757",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002957",
+                                    "pctChg": -0.13,
+                                    "top": 1,
+                                    "name": "科瑞技术",
+                                    "sort": 2,
+                                    "reason": "提供高精度光耦合设备",
+                                    "stockId": "002957",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688097",
+                                    "pctChg": -1.42,
+                                    "top": 0,
+                                    "name": "博众精工",
+                                    "sort": 3,
+                                    "reason": "提供亚微米级共晶耦合一体机",
+                                    "stockId": "688097",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9065072,
+                            "subjectId": 9065074,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9013933,
+                    "ancestors": "0,9013933",
+                    "subjectId": 9065072,
+                    "importance": 1,
+                    "limitUpCount": null
+                }
+            ],
+            "sort": 1,
+            "reason": "CPO（Co-packaged Optics，光电共封装技术）是将光引擎与交换芯片共同封装在同一基板上的前沿技术。",
+            "level": 1,
+            "pctChg": 1.45,
+            "detail": "<h2 style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>一、CPO产业概述</strong></span></h2><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">1.1 产业简介</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">CPO(共封装光学,Co-Packaged Optics)是通过先进封装技术将光引擎与ASIC、GPU等电芯片集成在同一基板或中介层,实现光电近场集成的颠覆性技术。该技术将电信号传输距离从厘米级缩短至毫米级,带宽密度可达200-500Gbps/mm2,传输延迟降至5-10ns,系统功耗降低40%-50%,是突破AI算力集群互连瓶颈的核心解决方案。CPO产业链涵盖上游光芯片(硅光芯片、EML/CW光源)、电芯片(DSP)、光器件(AWG芯片、调制器、探测器),中游光引擎制造、CPO集成封装、模块组装测试,以及下游AI算力集群、数据中心互联、高性能计算等应用场景。2026年被全球光通信与算力产业公认为CPO规模化商用元年,技术从实验室走向规模化落地,正引发全球产业格局重构。</span></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">1.2 产业重要性分析</span></h3><blockquote style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">\"将硅光芯片、CPO光引擎列为核心攻关方向,目标2026年核心器件国产化率突破60%,2027年达到80%\"——工信部《关于加快新型数据中心发展建设的通知》(2026年1月)</span></blockquote><blockquote style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">\"新建智算中心CPO适配比例不低于60%-70%,东数西算枢纽节点优先采用CPO方案,高速光互连、共封装光学被纳入新型数据中心核心技术目录\"——工信部《算力基础设施高质量发展行动计划》(2026年2月)</span></blockquote><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">CPO技术作为AI算力时代的核心基础设施,在数字经济建设中具有战略地位。其核心价值体现在三个方面:第一,破解AI算力互连瓶颈。随着AI大模型参数每两年增长400倍,传统铜缆电互连面临\"带宽墙\"(单通道速率≤400Gbps)、\"延迟墙\"(微秒级延迟)、\"功耗墙\"(互连功耗占比超40%)三重制约,CPO通过光电近场集成实现功耗降低30%-50%、带宽密度提升5-10倍、延迟降至纳秒级,是支撑十万卡级智算集群的核心互连技术。第二,提升数据中心能效。CPO方案可使51.2T交换机总功耗降低高达25%-30%,单端口功耗不足1W,远优于电交换的20W/端口,助力数据中心PUE值降至1.1以下水平。第三,实现核心技术自主可控。CPO涉及硅光芯片、先进封装等卡脖子环节,其产业化进程直接关系到我国在高端光通信领域的全球竞争力。</span></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">1.3 国内外产业概览</span></h3><p style=\"text-align: start;\"><img src=\"https://space-static.coze.site/7620634126182646025/cpo_global_market_share-74cebdbee4.png?sign=1776909392-d9972ca4d6-0-4cfaf31d559013f4edc89d45c0b3f91c764da32d4b977db7effe06931b8a68e7\" alt=\"\" data-href=\"\" style=\"width: 640px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px; font-family: 黑体;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">名称</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">占比</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">颜色标识</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">中国</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">70%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">美国</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">20%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">欧盟</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">5%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">日本</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">3%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">韩国</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">2%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"></td></tr></tbody></table><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>数据来源:中国光通信协会、LightCounting,2026年</strong></span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">中国CPO产业在全球市场占据</span><span style=\"color: red; font-size: 14px; font-family: 黑体;\">第一</span><span style=\"font-size: 14px; font-family: 黑体;\">地位,产能与市场份额均处于全球</span><span style=\"color: red; font-size: 14px; font-family: 黑体;\">龙头</span><span style=\"font-size: 14px; font-family: 黑体;\">位置。根据LightCounting数据,2023年全球前十大光模块厂商中中国企业占据七席,在CPO制造封装环节中国企业占据全球约</span><span style=\"color: red; font-size: 14px; font-family: 黑体;\">70%</span><span style=\"font-size: 14px; font-family: 黑体;\">的市场份额。中国在磷化铟基板领域的全球产能优势,以及在硅光集成、先进封装工艺上的快速突破,构筑了坚实的产业基础。国内产业主要分布在长三角、珠三角地区,形成以苏州、成都、武汉、深圳为核心的产业集群。</span></p><p style=\"text-align: start;\"><br></p><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>国内CPO光模块市场份额分布（按销售额统计）</strong></span></p><p style=\"text-align: start;\"><img src=\"https://space-static.coze.site/7624349628251013410/domestic_cpo_market_share-165206b005.png?sign=1777774983-e76d1c9068-0-d4d6f8d96c14c44ae01b98e1ada9701435c3b8c8b2f284131cc30a945a3a7b55\" alt=\"\" data-href=\"\" style=\"width: 609.797px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px; font-family: 黑体;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">企业名称</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">市场份额</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">数据来源</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">中际旭创</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>45%</strong></span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">东方财富证券，《CPO产业深度研究报告》，2026年3月</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">新易盛</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">25%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">东方财富证券，《CPO产业深度研究报告》，2026年3月</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">华工科技</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">12%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">东方财富证券，《CPO产业深度研究报告》，2026年3月</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">光迅科技</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">10%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">东方财富证券，《CPO产业深度研究报告》，2026年3月</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">其他</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">8%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">东方财富证券，《CPO产业深度研究报告》，2026年3月<br></span></td></tr></tbody></table><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>数据来源:中国光通信协会,2026年</strong></span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">国内CPO市场呈现高度集中格局。中际旭创作为全球</span><span style=\"color: red; font-size: 14px; font-family: 黑体;\">第一</span><span style=\"font-size: 14px; font-family: 黑体;\">大CPO厂商,1.6T CPO模块全球市占率超</span><span style=\"color: red; font-size: 14px; font-family: 黑体;\">50%</span><span style=\"font-size: 14px; font-family: 黑体;\">,800G高端光模块市占率在</span><span style=\"color: red; font-size: 14px; font-family: 黑体;\">40%</span><span style=\"font-size: 14px; font-family: 黑体;\">以上,深度绑定英伟达、微软、Meta等头部客户。新易盛走CPO+LPO双路线,1.6T CPO良率达92%,获Meta定制化LPO模块独家供应权。天孚通信专注CPO光引擎核心环节,1.6T光引擎全球市占率约</span><span style=\"color: red; font-size: 14px; font-family: 黑体;\">65%</span><span style=\"font-size: 14px; font-family: 黑体;\">,是英伟达Quantum-X、Spectrum-X系列的核心供应商。华工科技、光迅科技等企业也在积极布局,形成第二梯队。2026年全球800G光模块预计出货4100万支,1.6T光模块出货量将达1100万支,高速率产品将绝对主导市场增量。英伟达已将1.6T光模块的采购量从700万只上调到2000万只,增长近3倍,其CPO交换机获得5万台订单;国内阿里云、腾讯云2026年CPO采购订单超120亿元,同比增长150%,全球算力建设浪潮下,CPO需求将保持高速增长。</span></p><h2 style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">二、产业重大事件</span></h2><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">[2026年3月] 英伟达GTC大会发布新一代AI算力平台Rubin架构,宣布100%捆绑CPO交换机,Spectrum-X CPO交换机订单超5万台,直接拉动80万只光引擎需求,机构连夜上修2026年1.6T光模块需求预期,从700万只暴增至2000万只,增幅近200%,CPO从\"选配\"跃升为AI算力基础设施的\"强制标配\"。(影响:确立CPO作为AI算力核心基础设施的地位,推动产业全面爆发)</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">[2026年2月] 工信部正式发文《算力基础设施高质量发展行动计划》,将硅光芯片、CPO光引擎列为核心攻关方向,要求新建智算中心CPO适配比例不低于60%-70%,东数西算枢纽节点优先采用国产方案,目标2026年核心器件国产化率突破60%,2027年达到80%。(影响:为产业发展提供强制性政策支撑,直接锁定CPO刚性市场需求)</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">[2025年10月] 博通正式发布第三代CPO以太网交换机,搭载业界首款102.4Tbps带宽CPO以太网交换芯片,主要面向AI数据中心的纵向、横向扩展网络场景,2025年四季度已启动小批量供货,2026年上半年将实现大规模量产交付。(影响:推动CPO技术从验证走向商用,引领全球CPO产业化进程)</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">[2025年3月] 英伟达在GTC大会上首次推出基于InfiniBand网络技术的Quantum-X方案,同步发布基于以太网技术的Spectrum-X硅光交换机,采用单波长微环调制器,单通道速率200Gbps,四颗交换芯片总带宽达115.2Tbps,预计2026-2027年将实现800G/1.6T CPO规模化商用。(影响:确立CPO技术路线,推动产业链上下游协同发展)</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">[2025年] 台积电COUPE平台已进入CoWoS封装量产阶段,良率从2025年底60%提升至2026年第二季度80%以上,满足量产标准,为CPO规模化量产提供关键封装技术支撑。(影响:解决CPO量产瓶颈,推动产业从研发走向商业化)</span></p><h2 style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">三、产业内部结构分析</span></h2><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">3.1 组成部分分布</span></h3><p><span style=\"font-size: 14px; font-family: 黑体;\"> 拆解： &nbsp;CPO- 光引擎(成本占44%)=光芯片(35%)+电芯片(20%)+封装与耦合集成(30%)+FAU光纤阵列(10%)</span></p><p><img src=\"https://super-data-middle-platform.oss-cn-beijing.aliyuncs.com/image/2026/04/03/ba520a13-d1fb-41bd-97ef-2411435222ad.png\" alt=\"\" data-href=\"\" style=\"\"/></p><h4 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">3.1.1 产品组成</span></h4><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">CPO产业链的价值高度集中于</span><span style=\"font-size: 14px; font-family: 黑体;\"><strong>上游核心技术环节</strong></span><span style=\"font-size: 14px; font-family: 黑体;\">，尤其是</span><span style=\"font-size: 14px; font-family: 黑体;\"><strong>光引擎</strong></span><span style=\"font-size: 14px; font-family: 黑体;\">及其内部的</span><span style=\"font-size: 14px; font-family: 黑体;\"><strong>光芯片</strong></span><span style=\"font-size: 14px; font-family: 黑体;\">，构成了整个价值链的基石。由于CPO技术仍在快速发展中，不同来源和统计口径下的数据存在差异，以下综合各方信息，为您梳理其上游价值量分布：</span></p><h2 style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">一、第一层：CPO交换机整体BOM成本构成</span></h2><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">下图展示了CPO交换机物料成本的整体结构，其中</span><span style=\"font-size: 14px; font-family: 黑体;\"><strong>光引擎是价值量最高的单一组件</strong></span><span style=\"font-size: 14px; font-family: 黑体;\">，占比接近一半。</span></p><p style=\"text-align: start;\"><img src=\"https://super-data-middle-platform.oss-cn-beijing.aliyuncs.com/image/2026/04/03/198c8e52-2afe-444f-bb5e-900f6a26bbba.png\" alt=\"\" data-href=\"\" style=\"\"></p><h3 style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">CPO整体BOM（物料清单）成本构成▲上图</span></h3><table style=\"width: auto;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"><span style=\"font-size: 14px; font-family: 黑体;\">核心部件</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"><span style=\"font-size: 14px; font-family: 黑体;\">成本占比</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"><span style=\"font-size: 14px; font-family: 黑体;\">核心说明</span></th></tr><tr><td colSpan=\"1\" rowSpan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>光引擎 (OE)</strong></span></td><td colSpan=\"1\" rowSpan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>44%</strong></span></td><td colSpan=\"1\" rowSpan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">CPO成本核心，占比接近一半</span></td></tr><tr><td colSpan=\"1\" rowSpan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>交换芯片</strong></span></td><td colSpan=\"1\" rowSpan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>17%</strong></span></td><td colSpan=\"1\" rowSpan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">第二大成本构成</span></td></tr><tr><td colSpan=\"1\" rowSpan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>外部光源 (ELS)</strong></span></td><td colSpan=\"1\" rowSpan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>13%</strong></span></td><td colSpan=\"1\" rowSpan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">外置CW激光光源模块</span></td></tr><tr><td colSpan=\"1\" rowSpan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>MPO连接器</strong></span></td><td colSpan=\"1\" rowSpan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>8%</strong></span></td><td colSpan=\"1\" rowSpan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">高速光连接组件</span></td></tr><tr><td colSpan=\"1\" rowSpan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>FAU光纤阵列单元</strong></span></td><td colSpan=\"1\" rowSpan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>5%</strong></span></td><td colSpan=\"1\" rowSpan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">高精度光纤对接组件</span></td></tr><tr><td colSpan=\"1\" rowSpan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>其他</strong></span></td><td colSpan=\"1\" rowSpan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>13%</strong></span></td><td colSpan=\"1\" rowSpan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">配套结构件、辅料等</span></td></tr></tbody></table><blockquote style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">值得注意的是，另有其他机构调研认为光引擎的成本占比约为30%，外部激光器为10%-15%，交换芯片约占1/3-11-28。虽然具体数值存在差异，但光引擎的价值核心地位在所有分析中都高度一致。</span></blockquote><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">在CPO交换机或模块的总成本中，</span><span style=\"font-size: 14px; font-family: 黑体;\"><strong>光引擎（Optical Engine）</strong></span><span style=\"font-size: 14px; font-family: 黑体;\"> 是当之无愧的核心，占据了近一半的价值。以下是基于一项具体产品（英伟达QuantumX800 CPO交换机）的详细拆解：</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\"> 二、第二层：光引擎价值量拆解。</span></p><p style=\"text-align: start;\"><img src=\"https://super-data-middle-platform.oss-cn-beijing.aliyuncs.com/image/2026/04/03/a2fe4b07-faf9-4540-90c2-a301ac306c3e.png\" alt=\"\" data-href=\"\" style=\"\"></p><h3 style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">光引擎内部：价值进一步向上游集中</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">光引擎作为最昂贵的单一部件，其成本结构同样高度集中。</span><span style=\"font-size: 14px; font-family: 黑体;\"><strong>光芯片</strong></span><span style=\"font-size: 14px; font-family: 黑体;\">的价值在其中占据绝对主导地位。</span></p><ul><li style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">光芯片：光引擎的“心脏”：作为光电信号转换的核心，光芯片在光引擎的物料成本（BOM）中，占比最高，可达35%-50%。特别是在高端产品如1.6T光模块中，其成本占比甚至能超过50%。</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">其他关键组成：除了光芯片，光引擎内部还包括电芯片（EIC）、光学耦合组件以及封装基板等。部分分析将整个光引擎的集成封装价值量估算在40% 左右，这本身就包含了上述所有元件的整合成本。</span></li><li style=\"text-align: start;\"><span style=\"color: rgb(15, 17, 21); background-color: rgb(255, 255, 255); font-size: 14px; font-family: 黑体;\">当前CPO光引擎市场格局可概括为：</span><span style=\"color: rgb(15, 17, 21); background-color: rgb(255, 255, 255); font-size: 14px; font-family: 黑体;\"><strong>天孚通信在英伟达和博通两大平台中占据核心供应商地位；中际旭创凭借光模块整体出货量领先，自身也拥有光引擎生产能力；华工科技在3.2T等更前沿领域有差异化卡位。</strong></span><span style=\"color: rgb(15, 17, 21); background-color: rgb(255, 255, 255); font-size: 14px; font-family: 黑体;\"> 但精确的量化排名尚无统一官方来源。</span></li></ul><p><span style=\"font-size: 14px; font-family: 黑体;\"> 三、第三层：光芯片价值量拆解</span></p><p><img src=\"https://super-data-middle-platform.oss-cn-beijing.aliyuncs.com/image/2026/04/03/f0dd362e-f8f6-4d00-acbf-57dc2d3f8584.png\" alt=\"\" data-href=\"\" style=\"\"/></p><p><span style=\"font-family: 黑体;\">四、第四层：激光发射器价值量拆解▼下图</span></p><p><img src=\"https://super-data-middle-platform.oss-cn-beijing.aliyuncs.com/image/2026/04/03/3e8871a4-4c74-4064-98c7-1cc26a02e070.png\" alt=\"\" data-href=\"\" style=\"\"/></p><p style=\"text-align: start;\"><span style=\"font-family: 黑体;\"> 五、第五层：激光器芯片，及衬底材料磷化铟（InP）</span></p><p style=\"text-align: start;\"><span style=\"font-family: 黑体;\">衬底材料磷化铟（InP）在CPO产业链中扮演着“光子基石”的底层支撑角色，其核心作用体现在作为</span><span style=\"font-family: 黑体;\"><strong>激光器芯片的关键衬底材料</strong></span><span style=\"font-family: 黑体;\">。</span></p><p style=\"text-align: start;\"><span style=\"font-family: 黑体;\">它本身并不以器件形式直接出现在最终产品中，而是作为平台基础，决定了上游光芯片的性能与成本。</span></p><p style=\"text-align: start;\"><span style=\"font-family: 黑体;\">磷化铟：</span></p><ul><li style=\"text-align: start;\"><span style=\"font-family: 黑体;\">性能优异的衬底材料：磷化铟属于第二代III-V族化合物半导体，是制造高性能激光器和调制器的理想材料-。在三大主流光电芯片平台（磷化铟、硅、氮化硅）中，磷化铟在传输损耗、转换效率和高频性能等方面表现最佳-。尤其是在AI数据中心，800G光模块已成为标配，1.6T正加速渗透，其核心电吸收调制激光器（EML）正是基于磷化铟衬底。</span></li><li style=\"text-align: start;\"><span style=\"font-family: 黑体;\">占据产业链价值高地：磷化铟衬底的成本在高速光模块中占据了相当比例。数据显示，在800G光模块中，其成本占比约为25%-30%；而在更先进的1.6T光模块中，这一比例预计将攀升至35%。</span></li><li style=\"text-align: start;\"><span style=\"font-family: 黑体;\">供需缺口导致“卡脖子”：磷化铟的供应高度集中，全球90%以上的产能掌握在日本住友（Sumitomo）、美国AXT（北京通美）、日本JX金属三家手中-11-23。由于扩产周期长达2-3年，短期内难以满足AI驱动的爆发式需求，机构预计2026年供需缺口将达到70%-11。这直接推高了其价格，目前2英寸衬底约2300美元/片。</span></li></ul><p><br></p><p><span style=\"font-family: 黑体;\">总之：CPO的</span><span style=\"font-size: 14px; font-family: 黑体;\">核心组件 成本占比（占CPO总成本） 说明</span></p><p><span style=\"font-size: 14px; font-family: 黑体;\">光引擎（整体） 30%-50% CPO系统核心，技术壁垒最高，价值量最大。光引擎的组成部分如下图：</span></p><p><img src=\"https://super-data-middle-platform.oss-cn-beijing.aliyuncs.com/image/2026/04/03/58d23aaf-4847-4b48-b22a-e7e9359a666f.png\" alt=\"\" data-href=\"\" style=\"\"/></p><p><img src=\"https://super-data-middle-platform.oss-cn-beijing.aliyuncs.com/image/2026/04/03/d90b5b8f-d2ca-4153-8b87-72de40e56228.png\" alt=\"\" data-href=\"\" style=\"\"/></p><p><br></p><h3 style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">上游价值量分布总结</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">综合来看，CPO产业链的价值呈现“金字塔”式分布，利润和附加值显著集中在拥有高技术壁垒的上游环节：</span></p><ul><li style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">芯片/材料：占据产业链价值的50%以上，其中光芯片是核心，其设计和制造是整个产业的制高点。</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">光引擎：作为核心集成组件，是价值量最高的单一部件，内部成本又高度集中于光芯片。</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">无源器件与连接：如光纤阵列单元（FAU）、MPO连接器等，是保证信号完整性的关键，合计成本占比在10%-15%左右。</span></li></ul><p style=\"text-align: start;\"><br></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">3.4 新增量与新技术分析</span></h3><p style=\"text-align: start;\"><img src=\"https://space-static.coze.site/7620634126182646025/cpo_new_technologies-b01835a3a9.png?sign=1776909542-3a2edfe0a0-0-0b20b520365a882409180f76c57f3e20ff6be908485b7636f021ae1b1dca2231\" alt=\"\" data-href=\"\" style=\"width: 640px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px; font-family: 黑体;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">技术名称</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">占比</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">增长率</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">数据来源</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">3.2T CPO技术</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">35%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">300%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">中国移动、毕马威,2026年</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">硅光集成技术</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">30%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">50%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">中国移动、毕马威,2026年</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">OIO光学IO</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">25%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">200%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">中国移动、毕马威,2026年</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">其他</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">10%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">-</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">中国移动、毕马威,2026年</span></td></tr></tbody></table><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>数据来源:中国移动、毕马威,2026年</strong></span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">CPO产业的新增量与新技术主要集中在3.2T CPO技术、硅光集成技术和OIO光学IO三个方向。3.2T CPO技术作为下一代高速互联方案,占新增量的35%,增长率高达300%,是CPO技术演进的核心方向,行业遵循\"800G规模化应用→2025年1.6T商用落地→2027年3.2T量产→2028年6.4T研发\"的发展节奏,每两年实现一次代际突破。硅光集成技术占30%,增长率50%,作为CPO实现的主流技术路径,通过CMOS工艺兼容实现低成本、大规模生产,1.6T硅光模块市场份额达72%。OIO(光学IO)技术占25%,增长率200%,作为芯粒级集成方案,带宽密度可提升至1Tbps/mm,是CPO技术的终极发展方向。其他新技术占10%。</span></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">3.5 行业景气度影响因素分析</span></h3><p style=\"text-align: start;\"><img src=\"https://space-static.coze.site/7620634126182646025/cpo_influencing_factors-3aeabd20e7.png?sign=1776909558-6f3f6c62f0-0-a02829985d303b5221136027f5d3c3a40fb6002e8e31d0b9675fb59f4830de7b\" alt=\"\" data-href=\"\" style=\"width: 640px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px; font-family: 黑体;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">影响因素</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">占比</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">影响说明</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">数据来源</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">AI算力需求</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">40%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">大模型训练推理,万卡集群建设,算力需求爆发式增长</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">工信部、中国光通信协会,2026年</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">政策支持</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">25%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">工信部强制要求,CPO适配比例60-70%,国产化70%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">工信部、中国光通信协会,2026年</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">技术进步</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">20%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">硅光工艺成熟,3D封装突破,良率提升至90%+</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">工信部、中国光通信协会,2026年</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">供应链安全</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">15%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">国产替代,高端芯片自主可控</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">工信部、中国光通信协会,2026年</span></td></tr></tbody></table><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>数据来源:工信部、中国光通信协会,2026年</strong></span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">CPO行业景气度受AI算力需求、政策支持、技术进步和供应链安全四大因素影响,其中AI算力需求是最核心的驱动力,占影响因素的40%。随着ChatGPT、文心一言等大模型持续迭代,训练和推理所需的算力呈指数级增长,英伟达B100 GPU与光模块配比从1:3(H100)升至1:8,直接拉动1.6T CPO需求爆发。政策支持占25%,工信部强制要求新建智算中心CPO适配比例不低于60%-70%,东数西算枢纽节点优先采用国产方案,为产业发展提供强制性政策支撑。技术进步占20%,硅光工艺日趋成熟,3D封装技术突破,台积电COUPE平台良率从60%提升至80%以上,为CPO规模化量产扫清障碍。供应链安全占15%,中美贸易摩擦加剧,高端芯片面临出口管制,国产替代迫在眉睫,推动国内厂商加速在光芯片、DSP等卡脖子环节的突破。</span></p><p style=\"text-align: start;\"><br></p><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>加工设备或耗材需求分析:</strong></span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">CPO产业链中加工设备需求最大的两个环节是高精度耦合设备和3D封装设备。高精度耦合设备是CPO光引擎制造的关键设备,负责光纤与光芯片的亚微米级对准,精度要求达到±0.1μm,目前主要由日本Ficontec、德国Polytec等海外厂商垄断,罗博特科等国内厂商正加速突破。3D封装设备是实现CPO光电共封装的核心设备,包括TSV(硅通孔)刻蚀、TGV(玻璃通孔)加工、混合键合等设备,当前主要由应用材料、泛林半导体等海外厂商主导,国内设备商在刻蚀、沉积等环节逐步实现突破。耗材需求最大的是硅光晶圆和磷化铟衬底,硅光晶圆主要由Soitec供应,磷化铟衬底主要被日本住友电工、三菱电机垄断,国内厂商正在加速布局。此外,高速PCB和CCL也是CPO的重要耗材,胜宏科技等厂商已掌握HDI、SLP等高端PCB技术,800G/1.6T CPO专用高速PCB线宽线距达25μm/25μm,具备低损耗、高散热、高密度特性。</span></p><h2 style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">四、产业链分析</span></h2><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong> </strong></span><img src=\"https://super-data-middle-platform.oss-cn-beijing.aliyuncs.com/image/2026/04/03/6d2693a2-0d87-4db7-ac59-97408f3dc808.png\" alt=\"\" data-href=\"\" style=\"\"></p><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">CPO产业链呈现\"上游技术壁垒高、中游制造集中度提升、下游应用多元化\"的特征,整体格局正从单一器件制造向系统集成转变。上游主要包括硅光芯片、EML/CW光源、电芯片(DSP)、封装材料等核心组件,是技术壁垒最高、价值占比最大的环节,成本占比60%-80%。中游主要包括光引擎制造、CPO集成封装、模块组装测试等核心加工环节,中国企业占据绝对主导地位,全球前十大光模块厂商中中国企业占据七席,合计市场份额超过</span><span style=\"color: red; font-size: 14px; font-family: 黑体;\">70%</span><span style=\"font-size: 14px; font-family: 黑体;\">。下游主要包括AI算力集群、数据中心互联、高性能计算、电信接入等应用场景,需求主要集中在海外超大规模云厂商和国内互联网巨头。</span></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">4.1 上游分析</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">上游核心组件(尤其是光芯片)决定技术壁垒,成本占比60%-80%,部分高端组件仍依赖进口。光芯片是成本占比最高(30%-50%)、技术壁垒最高的环节,按功能分为激光器芯片(发射端)和探测器芯片(接收端),其性能直接决定CPO的速率、功耗与传输距离。VCSEL芯片主要用于10G以下的短距多模(数据中心),国产化率超80%;DFB芯片主要用于10G-25G的中短距单模,国产化率约65%;EML芯片用于100G-200G+的长距高速(800G/1.6T)场景,国产化率不足20%,主要由美国Lumentum、芬兰Coherent等海外巨头垄断,源杰科技是国内首家实现100G EML芯片量产的企业,200G EML芯片已进入客户送样验证阶段。电芯片(DSP)负责信号调制、放大与均衡,是高速CPO的\"信号管家\",成本占比15%-20%,主要由博通、Marvell等海外厂商垄断,国产化率不足10%,优迅股份、璧仞科技等国内厂商正在加速追赶。光器件分为有源器件(含光芯片,如TOSA/ROSA)和无源器件(无芯片,如光隔离器、WDM滤波器),成本占比10%-15%,天孚通信在FAU(光纤阵列单元)领域全球市占率</span><span style=\"color: red; font-size: 14px; font-family: 黑体;\">60%</span><span style=\"font-size: 14px; font-family: 黑体;\">,是头部光模块厂商的核心供应商;仕佳光子在AWG芯片领域实现突破,1.6T AWG组件成为英伟达Quantum-X交换机的独家供应商,市场占有率超过67%。结构件与辅料(外壳、散热器、光纤、胶水、PCB板等)成本占比5%-10%,国内厂商已实现较高自给率,胜宏科技在高速PCB领域技术领先,800G/1.6T CPO专用高速PCB线宽线距达25μm/25μm,适配英伟达GB200/Rubin架构,为中际旭创、新易盛等头部厂商核心供应商。</span></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">4.2 中游分析</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">中游制造与封装测试环节是CPO产业链的核心加工环节,技术门槛低于上游,但对产能规模、良率控制要求极高,良率每提升1%,毛利率提升约2个百分点。中国厂商凭借完整的产业链配套、较海外低18%-25%的制造成本以及极快的研发响应速度,在全球光模块中游制造环节已确立绝对的统治地位。2026年全球前十大光模块厂商中中国企业占据七席,合计市场份额超过</span><span style=\"color: red; font-size: 14px; font-family: 黑体;\">70%</span><span style=\"font-size: 14px; font-family: 黑体;\">。中际旭创、新易盛、华工科技三大巨头,不仅在800G和1.6T等高端产品上占据绝对主导,更通过构建\"芯片-器件-模块-测试\"的全链条垂直整合能力,将成本优势和交付效率发挥到极致。以中际旭创为例,其通过全资子公司苏州旭创和控股子公司成都储翰,实现了从硅光芯片设计、TOSA/ROSA光组件封装、模块组装到最终测试的全流程自主控制,1.6T CPO模块批量交付,良率稳定在95%左右,泰国、铜陵基地持续扩产,交付能力跟得上全球需求。新易盛走CPO+LPO双路线,1.6T CPO良率达92%,同时LPO方案拿到Meta独家供应权,成都、马来西亚双基地布局,月产能30万只,海外收入占比超94%。天孚通信专注CPO光引擎核心环节,是国内少数实现1.6T光引擎稳定量产的企业,直接供应全球头部CPO方案厂商,在光引擎这个高壁垒环节占据重要位置,耦合良率达95%,订单排至2026年一季度,毛利率长期保持在55%以上。</span></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">4.3 下游分析</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">CPO技术的下游应用主要集中在AI算力集群、数据中心互联、高性能计算、电信接入等场景,需求主要由北美云厂商(Meta、Google、Microsoft、Amazon)和国内互联网巨头(阿里、腾讯、字节跳动)拉动。AI算力集群是CPO最核心的应用场景,随着ChatGPT、文心一言等大模型的持续迭代,训练和推理所需的算力呈指数级增长,从8卡机柜升级至144卡机柜,单集群算力提升18倍,传统可插拔光模块+电互联架构在224G速率下已达极限,CPO凭借带宽密度提升3倍、延迟降低50%以上的优势,成为十万卡级AI集群的核心互连技术。英伟达已将1.6T光模块的采购量从700万只上调到2000万只,增长近3倍,其CPO交换机获得5万台订单;国内阿里云、腾讯云2026年CPO采购订单超120亿元,同比增长150%。数据中心互联是CPO的第二大应用场景,超大规模数据中心(如谷歌、微软、亚马逊)为了应对数据流量爆发,正在大规模升级网络架构,CPO方案能显著降低网络功耗和提升带宽密度,谷歌已选择差异化路径OCS全光交换技术,计划2026年部署2万台OCS交换机,仅其一家对800G以上光模块的需求就将超过600万支。高性能计算主要应用于科学研究、气象预测、地震模拟等需要海量计算的场景,CPO能显著提升计算效率。电信接入(如PON、5G前传)占光模块市场10%,追求长距大容量与高信噪比,需复杂DSP算法支持,与CPO的短距优化架构不兼容,传统可插拔模块仍为主流。</span></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">4.4 中游详细分析</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\"><strong>表格1:常用辅材及消耗材料列表</strong></span></p><p style=\"text-align: start;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px; font-family: 黑体;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">辅材/消耗材料名称</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">主要供应厂家</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">数据来源</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">高速PCB</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">胜宏科技、深南电路、沪电股份</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">中国光通信协会,2026年</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">封装基板</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">中瓷电子、生益科技</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">中国光通信协会,2026年</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">散热材料</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">飞荣达、宜安科技</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">中国光通信协会,2026年</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">光纤</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">长飞光纤、亨通光电</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">中国光通信协会,2026年</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">胶水</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">3M、回天新材</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">中国光通信协会,2026年</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">光隔离器</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">东田微、仕佳光子</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">中国光通信协会,2026年</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">MPO连接器</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">中航光电、立讯精密</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">中国光通信协会,2026年</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">其他辅料</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">各地供应商</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px; font-family: 黑体;\">中国光通信协会,2026年</span></td></tr></tbody></table><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">4.5 行业展望</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">从技术趋势看,CPO技术正沿着清晰的演进路径快速发展。从速率升级看,行业遵循\"800G规模化应用→2025年1.6T商用落地→2027年3.2T量产→2028年6.4T研发\"的发展节奏,每两年实现一次代际突破。从封装形态看,正沿着\"NPO过渡→CPO主流→OIO终极\"的路径演进,NPO作为过渡方案快速部署,CPO作为主流方案将光引擎与ASIC/GPU直接共封装,预计2026-2028年实现规模化部署,OIO作为终极方案实现芯粒级集成,带宽密度将提升至1Tbps/mm以上。从技术路线看,硅光集成成为主流,通过CMOS工艺兼容实现低成本大规模生产,LPO作为低成本补充在中高速场景持续渗透,CPO作为终极目标通过将光引擎与芯片深度共封,实现最高的集成度和最优的功耗,是3.2T及以上超高速率光模块的核心技术方向。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">从政策环境看,国家层面高度重视CPO产业发展。2026年1月工信部正式发文《算力基础设施高质量发展行动计划》,将硅光芯片、CPO光引擎列为核心攻关方向,要求新建智算中心CPO适配比例不低于60%-70%,东数西算枢纽节点优先采用国产方案,目标2026年核心器件国产化率突破60%,2027年达到80%。国家大基金持续向该领域注资,为技术研发和产业化提供了资金支持。这一强制性政策导向,直接锁定CPO刚性市场需求,为产业发展提供了强有力的政策支撑。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">从风险挑战看,CPO产业发展仍面临三大挑战。一是成本问题,CPO成本比传统光模块高30%-40%,中小机房暂时用不起,主要集中在高端AI超算场景。二是维护性问题,CPO的不可插拔特性增加维护难度,出问题需要整体更换,运维成本更高。三是技术瓶颈,异质集成、良率、维护成本等挑战仍需突破,当前行业平均良率在80%左右,头部企业能到90%以上,尾部企业还在爬坡。此外,CPO还要面对LPO技术的竞争,以及标准化缺失导致接口规范、封装尺寸等尚未统一等问题。</span></p><p style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">综合来看,CPO产业是2026年硬科技里产业落地最清晰、国产替代最明确、需求支撑最扎实的赛道之一。从实验室到商用,从依赖进口到全球供货,国内企业完成了关键跨越。CPO不仅是中国光通信产业从\"大\"到\"强\"的标志性升级,是新质生产力在数字基础设施领域的具体体现,也是我们在全球算力竞争中掌握主动权的关键一环。随着AI算力需求的持续爆发和政策的强力支撑,CPO产业将迎来黄金发展期,中国企业有望凭借在制造环节的全球</span><span style=\"color: red; font-size: 14px; font-family: 黑体;\">龙头</span><span style=\"font-size: 14px; font-family: 黑体;\">地位和在上游芯片环节的快速突破,在全球CPO市场中占据更加重要的位置。</span></p><h2 style=\"text-align: start;\"></h2><h2 style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">数据来源</span></h2><ol><li style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">Yole Group,CPO市场规模预测(2024-2030年)</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">花旗证券,CPO光模块需求再迎爆发研报(2026年2月)</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">中国光通信协会,CPO白皮书(2026年2月)</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">摩根士丹利,AI供应链:CPO与ASIC动态更新研报(2026年3月)</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">美银美林,CPO前景仍被市场低估研报(2026年3月)</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">公司年报(2025年):中际旭创、新易盛、天孚通信、华工科技、光迅科技等</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">东方财富Choice金融终端</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">工信部,《新型智算中心建设适配指引(2026版)》</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px; font-family: 黑体;\">英伟达GTC 2026大会资料</span></li></ol>",
+            "parentId": "0000000000",
+            "ancestors": "0",
+            "importance": 2,
+            "limitUpCount": 0
+        }
+    ]
+}

@@ -1,0 +1,2 @@
+# 前端部署脚本依赖（pip install -r requirements-deploy.txt）
+paramiko>=3.0.0

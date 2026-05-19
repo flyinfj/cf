@@ -1,0 +1,116 @@
+1：备份并更换 yum 源（阿里云镜像）
+	bash
+	# 1. 备份原有 yum 源配置
+	mkdir -p /etc/yum.repos.d/bak
+	mv /etc/yum.repos.d/*.repo /etc/yum.repos.d/bak/
+	
+	# 2. 下载阿里云的 CentOS 7 基础源和 epel 源
+	wget -O /etc/yum.repos.d/CentOS-Base.repo https://mirrors.aliyun.com/repo/Centos-7.repo
+	wget -O /etc/yum.repos.d/epel.repo https://mirrors.aliyun.com/repo/epel-7.repo
+	
+	# 3. 替换镜像源中的变量（解决阿里云源的 $releasever 兼容问题）
+	sed -i 's/$releasever/7/g' /etc/yum.repos.d/CentOS-Base.repo
+	sed -i 's/$releasever/7/g' /etc/yum.repos.d/epel.repo
+	
+	# 4. 清理 yum 缓存并生成新缓存
+	yum clean all
+	yum makecache fast
+
+2:安装依赖
+
+	# 安装编译依赖（必须安装，否则会缺少 openssl、zlib 等模块）
+	yum install -y gcc openssl-devel bzip2-devel libffi-devel zlib-devel wget
+
+	# 安装openssl >=1.1.1
+		# 卸载旧的 openssl-devel（不卸载核心 openssl，避免系统崩溃）
+		yum remove -y openssl-devel
+		# 1. 安装编译 OpenSSL 所需依赖
+		yum install -y gcc make zlib-devel curl
+		
+		# 2. 下载 OpenSSL 1.1.1w 源码（官网稳定版，支持到 2025 年）
+		wget https://www.openssl.org/source/openssl-1.1.1w.tar.gz
+		
+		# 3. 解压源码包（若 wget 失败，可手动下载上传后解压）
+		tar -zxvf openssl-1.1.1w.tar.gz && cd openssl-1.1.1w
+		
+		# 4. 配置 OpenSSL 安装参数（指定安装路径，避免覆盖系统默认版本）
+		./config --prefix=/usr/local/openssl111 \
+		         --openssldir=/usr/local/openssl111 \
+		         shared zlib  # 启用动态库和 zlib 支持
+		
+		# 5. 编译并安装（-j 2 按 CPU 核心数调整，加快速度）
+		make -j 2 && make install
+		
+		# 1. 添加新 OpenSSL 库路径到系统库缓存（避免编译时找不到库）
+			echo "/usr/local/openssl111/lib" > /etc/ld.so.conf.d/openssl111.conf
+			ldconfig  # 刷新系统库缓存
+			
+			# 2. 验证新 OpenSSL 版本（必须显示 1.1.1w）
+			/usr/local/openssl111/bin/openssl version
+			# 输出应为：OpenSSL 1.1.1w  11 Sep 2023
+
+一、安装python3
+
+	
+	# 下载 Python 3.13.3 源码包（wget 直接下载）
+	wget https://www.python.org/ftp/python/3.13.3/Python-3.13.3.tgz
+	
+	# 解压源码包
+	tar -zxvf Python-3.13.3.tgz
+	
+	编译安装 Python 3
+	
+	# 进入解压目录
+	cd Python-3.13.3
+	
+	# 配置安装路径（--prefix 指定安装目录，--with-ssl 启用 SSL 支持）
+	./configure --prefix=/usr/local/python3.13 --with-ssl
+	
+	./configure --prefix=/usr/local/python3.13 --with-openssl=/usr --with-openssl-rpath=auto CPPFLAGS="-I/usr/include/openssl" LDFLAGS="-L/usr/lib64 -Wl,-rpath=/usr/local/python3.13/lib:/usr/lib64"  # 强制指定 SSL 库路径
+            
+  ./configure --prefix=/usr/local/python3.13 --with-openssl=/usr/local/openssl111 --with-openssl-rpath=auto 
+  
+	
+	# 编译（-j 后面跟 CPU 核心数，加速编译，比如 4 核就写 -j4，可通过 nproc 查看核心数）
+	make -j $(nproc)
+	
+	# 安装（将编译后的文件安装到 /usr/local/python3）
+	make install
+
+
+
+二、设置环境变量
+
+	#!/bin/sh
+	export CFLAGS=$(pkg-config --cflags openssl11)
+	export LDFLAGS=$(pkg-config --libs openssl11)
+	export LD_LIBRARY_PATH=/usr/local/python3.13/lib:$LD_LIBRARY_PATH
+	
+	# 切换到 Python 脚本所在目录
+	cd /root/cf/lh
+	
+	/usr/local/python3.13/bin/python3.13 8_getLimitUpBank.py
+
+三、安装akshare
+
+	/usr/local/python3.13/bin/pip3 install akshare==1.16.90 numpy==2.2.5 pandas==2.2.3 
+	/usr/local/python3.13/bin/pip3 install openai
+	
+	
+四、nginx
+
+
+/usr/sbin/nginx -c /etc/nginx/nginx_cf.conf
+
+
+http://120.27.198.74:3389/dir.html
+http://175.178.27.33:3389/dir.html
+
+
+chmod o+x /root
+chown -R nginx:nginx /root/cf/
+chmod -R 755 /root/cf/
+
+# 3. 重启 Nginx 测试
+systemctl restart nginx
+curl http://127.0.0.1:3389

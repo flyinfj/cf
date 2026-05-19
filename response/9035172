@@ -1,0 +1,82 @@
+{
+    "msg": "操作成功",
+    "code": 200,
+    "data": [
+        {
+            "ancestors": "0,9035171",
+            "bizKey": null,
+            "children": [],
+            "createBy": null,
+            "createTime": null,
+            "detail": null,
+            "firstLetter": "WJ",
+            "imgUrl": null,
+            "importance": 2,
+            "leadTimes": null,
+            "level": 2,
+            "limitUpCount": null,
+            "limitUpTimes": null,
+            "name": "AI玩具",
+            "parentId": 9035171,
+            "parentName": "",
+            "pctChg": -0.37,
+            "reason": "AI玩具",
+            "remark": null,
+            "selectReason": null,
+            "sort": 0,
+            "status": "1",
+            "stockCount": null,
+            "stocks": [
+                {
+                    "business": null,
+                    "createTime": "2024-11-25 11:27:27",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "****",
+                    "pctChg": -0.45,
+                    "reason": "公司已研发飞飞兔GPT智能玩具，12月上市销售",
+                    "remark": "汕头澄海智能玩具创意设计与制造产业基地\"首批骨干企业之一",
+                    "selectedId": 98866,
+                    "sort": 1,
+                    "stockId": "111",
+                    "subjectId": 9035172,
+                    "top": 0
+                },
+                {
+                    "business": null,
+                    "createTime": "2024-11-22 10:27:04",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "****",
+                    "pctChg": -0.41,
+                    "reason": "公司参股AI陪伴机器人公司图灵机器人4.99%",
+                    "remark": "公司以原创和收购的精品IP为核心，辐射玩具、电影、动画、游戏、主题乐园、文化教育等多业态",
+                    "selectedId": 98867,
+                    "sort": 2,
+                    "stockId": "111",
+                    "subjectId": 9035172,
+                    "top": 1
+                },
+                {
+                    "business": null,
+                    "createTime": "2024-11-25 11:27:20",
+                    "importance": 2,
+                    "limitUp": null,
+                    "name": "****",
+                    "pctChg": -0.26,
+                    "reason": "公司推出宠物ai摄影师机器人",
+                    "remark": "专注于智能控制领域，国家高新技术企业",
+                    "selectedId": 98879,
+                    "sort": 3,
+                    "stockId": "111",
+                    "subjectId": 9035172,
+                    "top": 0
+                }
+            ],
+            "subjectId": 9035172,
+            "type": null,
+            "updateBy": null,
+            "updateTime": null
+        }
+    ]
+}

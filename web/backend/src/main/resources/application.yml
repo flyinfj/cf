@@ -1,0 +1,38 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /api
+
+spring:
+  mvc:
+    throw-exception-if-no-handler-found: true
+  web:
+    resources:
+      add-mappings: false
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://120.27.198.74:3306/cfdb?useUnicode=true&characterEncoding=utf8&useSSL=false&serverTimezone=Asia/Shanghai
+    username: cfuser
+    password: Cf@123321
+
+# CORS 配置
+# enable-all-origins: true 表示允许所有来源（仅用于调试，生产环境请设置为 false）
+# allowed-origins: 允许的前端域名列表（逗号分隔，支持通配符模式）
+cors:
+  enable-all-origins: false  # 设置为 true 可临时允许所有来源（调试用）
+  allowed-origins: http://localhost:3000,http://127.0.0.1:3000,http://localhost:80,http://127.0.0.1:80,http://120.27.198.74:80,http://120.27.198.74,http://120.27.198.74:*,http://localhost:*,http://127.0.0.1:*
+
+
+mybatis:
+  mapper-locations: classpath:mapper/*.xml
+  type-aliases-package: com.stock.entity
+  configuration:
+    map-underscore-to-camel-case: true
+    log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
+
+logging:
+  level:
+    com.stock: debug
+    org.springframework.web: info
+
+

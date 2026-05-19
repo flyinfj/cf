@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" 
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.stock.dao.SubjectInfoDao">
+    
+    <resultMap id="BaseResultMap" type="com.stock.entity.vo.SubjectInfoVO">
+        <result column="category1" property="category1"/>
+        <result column="category2" property="category2"/>
+        <result column="category3" property="category3"/>
+        <result column="stock_code" property="stockCode"/>
+        <result column="stock_name" property="stockName"/>
+        <result column="remarks" property="remarks"/>
+        <result column="pre_close" property="preClose"/>
+        <result column="high" property="high"/>
+        <result column="open" property="open"/>
+        <result column="low" property="low"/>
+        <result column="close" property="close"/>
+        <result column="vol" property="vol"/>
+        <result column="amount" property="amount"/>
+        <result column="pct_chg" property="pctChg"/>
+        <result column="vr" property="vr"/>
+        <result column="turnover_rate" property="turnoverRate"/>
+    </resultMap>
+
+    <select id="findByCategoryCode" resultMap="BaseResultMap">
+        SELECT ifnull(ifnull(r2.par_category,r1.par_category),i.category) category1,
+               case when r2.par_category is null then i.category else r1.category end category2,
+               case when r2.par_category is null or  r1.category is null then null else i.category end category3,
+               i.stock_code,i.stock_name,remarks
+        FROM subject_info i
+        left join subject_rel r1  on i.category_code=r1.category_code
+        left join subject_rel r2  on r1.par_category_code=r2.category_code
+        WHERE i.category_code = #{categoryCode}
+    </select>
+
+    <select id="findIndustryStocks" resultMap="BaseResultMap">
+        SELECT r1.category category1,
+               r2.category category2,
+               r3.category category3,
+               i.stock_code, i.stock_name, i.remarks,
+               k.pre_close, k.high, k.open, k.low, k.close, round(k.vol/10000,1) vol, k.amount, k.pct_chg, k.vr, k.turnover_rate
+        FROM subject_rel r1
+        LEFT JOIN subject_rel r2 ON r2.par_category_code = r1.category_code
+        LEFT JOIN subject_rel r3 ON r3.par_category_code = r2.category_code
+        LEFT JOIN subject_info i ON IFNULL(IFNULL(r3.category_code, r2.category_code), r1.category_code) = i.category_code
+        LEFT JOIN stock_rt_k_ms k ON k.stock_code = i.stock_code
+        WHERE r1.category_code = #{categoryCode}
+          AND i.stock_code IS NOT NULL
+    </select>
+
+    <resultMap id="IndustryCategoryResultMap" type="com.stock.entity.vo.IndustryCategoryVO">
+        <result column="category_code" property="categoryCode"/>
+        <result column="category" property="category"/>
+        <result column="child_category" property="childCategory"/>
+        <result column="pct_chg" property="pctChg"/>
+        <result column="pctdis" property="pctdis"/>
+        <result column="vol" property="vol"/>
+        <result column="amount" property="amount"/>
+    </resultMap>
+
+    <!-- 一级题材列表：统计每类下成分股的平均涨幅、涨幅分布(涨/平/跌)、成交量、成交额。
+         categoryCode 为空：一级节点条件 r1.par_category_code IS NULL AND r1.category_type IS NULL；
+         categoryCode 有值：子节点条件 r1.par_category_code = #{categoryCode}。-->
+    <select id="getIndustryCategories" resultMap="IndustryCategoryResultMap">
+        SELECT category_code, category,max(child_category) child_category,
+            ROUND(AVG(pct_chg), 2) pct_chg,
+            CONCAT(
+                SUM(CASE WHEN pct_chg > 0 THEN 1 ELSE 0 END), '/',
+                SUM(CASE WHEN pct_chg = 0 THEN 1 ELSE 0 END), '/',
+                SUM(CASE WHEN pct_chg &lt; 0 THEN 1 ELSE 0 END)
+            ) pctdis,
+            ROUND(SUM(vol) / 10000, 1) vol,
+            ROUND(SUM(amount), 1) amount
+        FROM (
+            SELECT r1.category_code, r1.category,
+                count(distinct r2.category_code) child_category,
+                i.stock_code, k.pct_chg, k.vol, k.amount
+            FROM subject_rel r1
+            LEFT JOIN subject_rel r2 ON r2.par_category_code = r1.category_code
+            LEFT JOIN subject_rel r3 ON r3.par_category_code = r2.category_code
+            LEFT JOIN subject_info i ON IFNULL(IFNULL(r3.category_code, r2.category_code), r1.category_code) = i.category_code
+            LEFT JOIN stock_rt_k_ms k ON k.stock_code = i.stock_code
+            WHERE
+            <choose>
+                <when test="categoryCode != null and categoryCode != ''">
+                    r1.par_category_code = #{categoryCode}
+                </when>
+                <otherwise>
+                    r1.par_category_code IS NULL AND r1.category_type IS NULL
+                </otherwise>
+            </choose>
+            group by r1.category_code, r1.category, i.stock_code,pct_chg,vol,amount
+        ) t
+        GROUP BY category_code, category
+        ORDER BY pct_chg DESC
+    </select>
+
+</mapper>

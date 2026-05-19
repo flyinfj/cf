@@ -1,0 +1,180 @@
+import requests
+from datetime import date, timedelta
+from dateutil.relativedelta import relativedelta
+import pandas as pd
+class GetStockInfo:
+    def __init__(self, market='A', globalId='786e4c21-70dc-435a-93bb-38'):
+        self.globalId = globalId
+        self.market = market
+        self.filedir_database = 'E:/python_workspace/cf/database'
+        self.filedir_data = 'E:/python_workspace/cf/data'
+        self.filedir_tmp = 'E:/python_workspace/cf/tmp'
+    #转换股票代码
+    def generate_market_code(self, stock_code):
+        if stock_code.startswith('1.') or stock_code.startswith('0.'):
+            return stock_code
+        if stock_code[:2] == "60":
+            return '1.' + stock_code
+        else:
+            return '0.' + stock_code
+
+    # 转换股票代码
+    def generate_market_code2(self, stock_code):
+        if stock_code[:2] == "60":
+            return stock_code + '.SH'
+        else:
+            return stock_code + '.SZ'
+
+    # 获取上个季度最后一天日期
+    def get_last_quarter_day(self,n=0):
+        today = date.today() - relativedelta(months=3 * n)
+        if today.month <= 3:
+            end_of_last_quarter = date(today.year - 1, 12, 31)
+        elif today.month <= 6:
+            end_of_last_quarter = date(today.year, 3, 31)
+        elif today.month <= 9:
+            end_of_last_quarter = date(today.year, 6, 30)
+        else:
+            end_of_last_quarter = date(today.year, 9, 30)
+        return end_of_last_quarter.strftime('%Y-%m-%d')
+
+    #获取股东信息
+    def get_holders(self,stockCode,endDate):
+        url = f'https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_F10_EH_HOLDERS&sty=SECUCODE,END_DATE,HOLDER_NAME,HOLDER_CODE,HOLDER_CODE_OLD,HOLD_NUM,HOLD_NUM_RATIO,HOLD_RATIO_QOQ,HOLDER_RANK,IS_HOLDORG,HOLDER_NEW,NEW_CHANGE_RATIO&filter=(SECUCODE="{stockCode}")(END_DATE=\'{endDate}\')&client=APP&source=SECURITIES&pageNumber=1&pageSize=10&sr=1'
+        response_data = requests.get(url)
+        data = response_data.json()
+        try:
+            df = pd.DataFrame(data.get('result', {}).get('data', []))
+            return df
+        except:
+            return pd.DataFrame()
+    #获取自由流通股东信息
+    def get_freeholders(self,stockCode,endDate):
+        url = f'https://datacenter.eastmoney.com/securities/api/data/v1/get?reportName=RPT_F10_EH_FREEHOLDERS&columns=SECUCODE,END_DATE,HOLDER_NAME,HOLDER_CODE,HOLDER_CODE_OLD,HOLD_NUM,FREE_HOLDNUM_RATIO,FREE_RATIO_QOQ,IS_HOLDORG,HOLDER_RANK,HOLDER_NEW,NEW_CHANGE_RATIO&filter=(SECUCODE="{stockCode}")(END_DATE=\'{endDate}\')&client=APP&source=SECURITIES&pageNumber=1&pageSize=10&sr=1'
+        response_data = requests.get(url)
+        data = response_data.json()
+        try:
+            df = pd.DataFrame(data.get('result', {}).get('data', []))
+            return df
+        except:
+            return pd.DataFrame()
+
+    #获取机构持股
+    def get_orgholders(self,stockCode,endDate):
+        url = f'https://datacenter.eastmoney.com/securities/api/data/get?type=RPT_MAIN_ORGHOLDDETAIL&sty=SECURITY_CODE,REPORT_DATE,HOLDER_CODE,HOLDER_NAME,TOTAL_SHARES,HOLD_VALUE,FREESHARES_RATIO,ORG_TYPE,SECUCODE,FUND_DERIVECODE,FREE_SHARES&filter=(SECUCODE="{stockCode}")(REPORT_DATE=\'{endDate}\')&p=1&ps=200&sr=-1,1'
+        response_data = requests.get(url)
+        data = response_data.json()
+        try:
+            df = pd.DataFrame(data.get('result', {}).get('data', []))
+            return df
+        except:
+            return pd.DataFrame()
+
+    #获取收盘价
+    def get_stock_close(self, stock_code):
+        stock_codes_ad=self.generate_market_code(stock_code)
+        url = f'https://push2.eastmoney.com/api/qt/ulist.np/get?ut=f057cbcbce2a86e2866ab8877db1d059&fltt=2&invt=2&fields=f14,f148,f3,f12,f2,f13,f29,f8,f10&secids={stock_codes_ad}'
+        response_data = requests.get(url)
+        try:
+            data = response_data.json()['data']['diff']
+            return data[0]['f2']
+        except:
+            return pd.DataFrame()
+    def get_limitup_sort(self,stockCode):
+        file_name = f"{self.filedir_database}/days_limitup_count.db"
+        df = pd.read_csv(file_name, sep='\t')
+        df['代码'] = df['代码'].astype(str).str.zfill(6)
+        filtered_row = df[df['代码'] == stockCode]
+        if not filtered_row.empty:
+            return filtered_row['涨停排序'].values[0]
+        else:
+            return 0
+
+    #获取股东信息
+    def get_holder_info(self,stockCode):
+        limitup_sort = self.get_limitup_sort(stockCode)
+        file_name = f"{self.filedir_database}/quar_holder_info.db"
+        try:
+            df = pd.read_csv(file_name, sep='\t')
+            df = df[df['代码'] == stockCode]
+            if not df.empty:
+                return df
+        except FileNotFoundError:
+            df = pd.DataFrame({
+                '代码': ['000000'],
+                '股本': ['test']
+            })
+            df.to_csv(file_name, mode='a', header=True, index=False, sep='\t')
+
+        #获取股票收盘价
+        close = self.get_stock_close(stockCode)
+        if not isinstance(close, (int, float)):
+            close = 0
+        #获取上季度最后一天日期
+        endDate = self.get_last_quarter_day(0)
+        #获取股东、流通股东、机构信息
+        stockCode = self.generate_market_code2(stockCode)
+        holder_df = self.get_holders(stockCode,endDate)
+        if holder_df.empty:
+            endDate = self.get_last_quarter_day(1)
+            holder_df = self.get_holders(stockCode, endDate)
+        freeholder_df = self.get_freeholders(stockCode,endDate)
+        orgholder_df = self.get_orgholders(stockCode,endDate)
+
+        #计算总股本、流通股本
+        try:
+            first_holder = holder_df.iloc[0]
+            total_shares= round(close*float(first_holder['HOLD_NUM'])/float(first_holder['HOLD_NUM_RATIO'])*100/100000000)
+            first_freeholder = freeholder_df.iloc[0]
+            unlimited_shares = round(close*first_freeholder['HOLD_NUM']/first_freeholder['FREE_HOLDNUM_RATIO']*100/100000000)
+        except:
+            total_shares = 0
+            unlimited_shares = 0
+        # 计算大股东股本
+        try:
+            holder_df_5 = holder_df[holder_df['HOLD_NUM_RATIO'] >= 5]
+            freeholder_df_5 = freeholder_df[freeholder_df['HOLDER_NAME'].isin(holder_df_5['HOLDER_NAME'])]
+            freeholder_5_num = round(close*freeholder_df_5['HOLD_NUM'].sum()/100000000)
+        except:
+            freeholder_5_num = 0
+
+        #计算机构数、机构股本
+        try:
+            orgholder_df_5 = orgholder_df[~orgholder_df['HOLDER_NAME'].isin(holder_df_5['HOLDER_NAME'])]
+            orgholder_df_num = round(close*orgholder_df_5['TOTAL_SHARES'].sum()/100000000)
+        except:
+            orgholder_df_num =0
+
+        df = pd.DataFrame({
+            '代码': [stockCode],
+            '股本': [f"{unlimited_shares}-{freeholder_5_num}/{orgholder_df_num}+{unlimited_shares-freeholder_5_num-orgholder_df_num} # {limitup_sort}"]
+            #'总股本': [total_shares],
+            #'流通股': [unlimited_shares],
+            #'大股东': [freeholder_5_num],
+            #'机构数': [len(orgholder_df)],
+            #'机构股': [orgholder_df_num],
+            #'散户':[unlimited_shares-freeholder_5_num-orgholder_df_num]
+        })
+        df['代码'] = df['代码'].str.replace('.SH', '', regex=False)
+        df['代码'] = df['代码'].str.replace('.SZ', '', regex=False)
+        df.to_csv(file_name, mode='a', header=False, index=False, sep='\t')
+        return df
+
+    def get_stock_info(self, stock_codes):
+        df = pd.DataFrame()
+        for stock_code in stock_codes:
+            df = pd.concat([df, self.get_holder_info(stock_code)], ignore_index=True)
+
+        return df
+
+pd.set_option('display.max_rows', None)  # 设置显示的最大行数为无限制
+pd.set_option('display.max_columns', None)  # 设置显示的最大列数为无限制
+pd.set_option('display.width', None)  # 设置显示的最大宽度为无限制
+pd.set_option('display.max_colwidth', None)  # 设置最大列宽为无限制
+pd.set_option('display.precision', 10)  # 设置数值的显示精度
+pd.set_option('display.colheader_justify', 'center')
+
+#model=GetStockInfo()
+#stock_codes = ['300097']
+#df = model.get_stock_info(stock_codes)
+#print(df)

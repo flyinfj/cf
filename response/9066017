@@ -1,0 +1,589 @@
+{
+    "stat": true,
+    "message": "成功",
+    "code": 200,
+    "data": [
+        {
+            "name": "树卖通",
+            "G": 22,
+            "stocks": [],
+            "children": [
+                {
+                    "name": "宇树",
+                    "reason": "宇树",
+                    "sort": 1,
+                    "level": 2,
+                    "pctChg": 2.37,
+                    "detail": null,
+                    "children": [
+                        {
+                            "name": "参股",
+                            "reason": "宇树机器狗，宇树机器狗隶属于杭州宇树科技有限公司，于2017年上市，产品主要适用于科研教育、娱乐酷玩、石油化工、安防巡检及勘探救援等多种应用场景 。",
+                            "sort": -9999,
+                            "level": 3,
+                            "pctChg": 2.68,
+                            "detail": null,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "pctChg": 1.47,
+                                    "top": 0,
+                                    "code": "sh600376",
+                                    "name": "首开股份",
+                                    "reason": "持股比例A股第一，公司间接持股宇树科技0.53%股份",
+                                    "sort": 10,
+                                    "stockId": "600376",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 1.32,
+                                    "top": 0,
+                                    "code": "sh600143",
+                                    "name": "金发科技",
+                                    "reason": "持股比例A股第二，公司间接持股宇树科技0.423%股份",
+                                    "sort": 11,
+                                    "stockId": "600143",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "S",
+                                    "pctChg": 7.29,
+                                    "top": 1,
+                                    "code": "sh600030",
+                                    "name": "中信证券",
+                                    "reason": "持股比例A股第三，公司间接持股宇树科技0.38%股份",
+                                    "sort": 12,
+                                    "stockId": "600030",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "S",
+                                    "pctChg": 2.6,
+                                    "top": 0,
+                                    "code": "sh600580",
+                                    "name": "卧龙电驱",
+                                    "reason": "持股比例A股第四，公司间接持股宇树科技0.141%股份",
+                                    "sort": 13,
+                                    "stockId": "600580",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "S",
+                                    "pctChg": 1.55,
+                                    "top": 0,
+                                    "code": "sz300543",
+                                    "name": "朗科智能",
+                                    "reason": "持股比例A股第五，公司间接持股宇树科技0.042%股份",
+                                    "sort": 14,
+                                    "stockId": "300543",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 5.48,
+                                    "top": 1,
+                                    "code": "sz300308",
+                                    "name": "中际旭创",
+                                    "reason": "持股比例A股第六，公司间接持股宇树科技0.033%股份",
+                                    "sort": 15,
+                                    "stockId": "300308",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "S",
+                                    "pctChg": 1.98,
+                                    "top": 0,
+                                    "code": "sh603949",
+                                    "name": "雪龙集团",
+                                    "reason": "持股比例A股第七，公司间接持股宇树科技0.029%股份",
+                                    "sort": 16,
+                                    "stockId": "603949",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "S",
+                                    "pctChg": -1.23,
+                                    "top": 0,
+                                    "code": "sh603980",
+                                    "name": "吉华集团",
+                                    "reason": "持股比例A股第八，公司间接持股宇树科技0.022%股份",
+                                    "sort": 17,
+                                    "stockId": "603980",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 3.39,
+                                    "top": 0,
+                                    "code": "sh603165",
+                                    "name": "荣晟环保",
+                                    "reason": "持股比例A股第九，公司间接持股宇树科技0.022%股份",
+                                    "sort": 18,
+                                    "stockId": "603165",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "S",
+                                    "pctChg": 1.27,
+                                    "top": 0,
+                                    "code": "sz002067",
+                                    "name": "景兴纸业",
+                                    "reason": "持股比例A股第十，公司间接持股宇树科技0.022%股份（预估）",
+                                    "sort": 20,
+                                    "stockId": "002067",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 1.22,
+                                    "top": 0,
+                                    "code": "sz300496",
+                                    "name": "中科创达",
+                                    "reason": "持股比例A股第十一，公司间接持股宇树科技0.019%股份",
+                                    "sort": 21,
+                                    "stockId": "300496",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 10.21,
+                                    "top": 0,
+                                    "code": "sz300458",
+                                    "name": "全志科技",
+                                    "reason": "持股比例A股第十二，公司间接持股宇树科技0.019%股份",
+                                    "sort": 22,
+                                    "stockId": "300458",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 1.6,
+                                    "top": 0,
+                                    "code": "sz002137",
+                                    "name": "实益达",
+                                    "reason": "持股比例A股第十三，公司间接持股宇树科技0.011%股份",
+                                    "sort": 23,
+                                    "stockId": "002137",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 1.11,
+                                    "top": 0,
+                                    "code": "sh603918",
+                                    "name": "金桥信息",
+                                    "reason": "公司间接持股宇树科技0.005%股份",
+                                    "sort": 24,
+                                    "stockId": "603918",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "S",
+                                    "pctChg": 0.91,
+                                    "top": 0,
+                                    "code": "sz002860",
+                                    "name": "星帅尔",
+                                    "reason": "公司间接持有宇树科技0.0051％股份",
+                                    "sort": 25,
+                                    "stockId": "002860",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066018,
+                            "subjectId": 9066020,
+                            "importance": 1
+                        },
+                        {
+                            "name": "供货宇树",
+                            "reason": "供货宇树",
+                            "sort": -9998,
+                            "level": 3,
+                            "pctChg": 1.92,
+                            "detail": null,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "pctChg": 0.17,
+                                    "top": 0,
+                                    "code": "sz300128",
+                                    "name": "锦富技术",
+                                    "reason": "为宇树机器人提供机器人整条制造产线的综合解决方案",
+                                    "sort": 0,
+                                    "stockId": "300128",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 1.19,
+                                    "top": 0,
+                                    "code": "sz300718",
+                                    "name": "长盛轴承",
+                                    "reason": "供货宇树机器人机器人关节处的自润滑轴承",
+                                    "sort": 1,
+                                    "stockId": "300718",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "S",
+                                    "pctChg": 2.63,
+                                    "top": 0,
+                                    "code": "sz002896",
+                                    "name": "中大力德",
+                                    "reason": "供货宇树行星减速器",
+                                    "sort": 1,
+                                    "stockId": "002896",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "S",
+                                    "pctChg": 3.49,
+                                    "top": 0,
+                                    "code": "sz301325",
+                                    "name": "曼恩斯特",
+                                    "reason": "子公司蓝方技术与宇树科技围绕机器人本体软硬件技术、机器人产业落地等领域开展合作",
+                                    "sort": 2,
+                                    "stockId": "301325",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 2.41,
+                                    "top": 0,
+                                    "code": "sz002245",
+                                    "name": "蔚蓝锂芯",
+                                    "reason": "供货宇树机器人、机器狗锂电池产品",
+                                    "sort": 3,
+                                    "stockId": "002245",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": -2.16,
+                                    "top": 0,
+                                    "code": "sz301182",
+                                    "name": "凯旺科技",
+                                    "reason": "公司供应些线缆及精密线缆连接组件",
+                                    "sort": 4,
+                                    "stockId": "301182",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 0.53,
+                                    "top": 0,
+                                    "code": "sz300083",
+                                    "name": "创世纪",
+                                    "reason": "供货精密结构件",
+                                    "sort": 5,
+                                    "stockId": "300083",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 2.6,
+                                    "top": 0,
+                                    "code": "sz301366",
+                                    "name": "一博科技",
+                                    "reason": "PCB研发设计和PCBA研发打样、中小批量制造服务，客户有宇树科技、优必选、斯坦德等",
+                                    "sort": 6,
+                                    "stockId": "301366",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 5.95,
+                                    "top": 0,
+                                    "code": "sh688035",
+                                    "name": "德邦科技",
+                                    "reason": "控股子公司向宇树科技提供一款热界面材料",
+                                    "sort": 7,
+                                    "stockId": "688035",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 2.4,
+                                    "top": 0,
+                                    "code": "sh600114",
+                                    "name": "东睦股份",
+                                    "reason": "供货机器人关节结构件",
+                                    "sort": 10,
+                                    "stockId": "600114",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066018,
+                            "subjectId": 9066021,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066017,
+                    "ancestors": "0,9066017",
+                    "subjectId": 9066018,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "阿里",
+                    "reason": "阿里",
+                    "sort": 2,
+                    "level": 2,
+                    "pctChg": 2.04,
+                    "detail": null,
+                    "children": [
+                        {
+                            "name": "蚂蚁金服",
+                            "reason": "2025年6月13日，关于在香港和新加坡申请稳定币许可的消息，蚂蚁回应称，尽快提交申请。",
+                            "sort": 1,
+                            "level": 3,
+                            "pctChg": 2.53,
+                            "detail": null,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "pctChg": 0.67,
+                                    "top": 0,
+                                    "code": "sz002208",
+                                    "name": "合肥城建",
+                                    "reason": "持有蚂蚁金服股份比例A股第一，0.35%",
+                                    "sort": 2,
+                                    "stockId": "002208",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "S",
+                                    "pctChg": 4.85,
+                                    "top": 1,
+                                    "code": "sz002558",
+                                    "name": "巨人网络",
+                                    "reason": "持有蚂蚁金服股份比例A股第二，0.0899%",
+                                    "sort": 3,
+                                    "stockId": "002558",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 5.84,
+                                    "top": 1,
+                                    "code": "sh603123",
+                                    "name": "翠微股份",
+                                    "reason": "持有蚂蚁金服股份比例A股第三，0.022%",
+                                    "sort": 4,
+                                    "stockId": "603123",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "S",
+                                    "pctChg": 3.65,
+                                    "top": 0,
+                                    "code": "sh600476",
+                                    "name": "湘邮科技",
+                                    "reason": "通过中邮资本参股蚂蚁金服\n",
+                                    "sort": 5,
+                                    "stockId": "600476",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 0.2,
+                                    "top": 0,
+                                    "code": "sh601928",
+                                    "name": "凤凰传媒",
+                                    "reason": "投资北京中金甲子伍号间接持有蚂蚁金服",
+                                    "sort": 6,
+                                    "stockId": "601928",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "S",
+                                    "pctChg": 0.54,
+                                    "top": 0,
+                                    "code": "sh601216",
+                                    "name": "君正集团",
+                                    "reason": "持有支付宝天弘基金15.6%股权，蚂蚁金服为基金的第一大股东",
+                                    "sort": 10,
+                                    "stockId": "601216",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 3.54,
+                                    "top": 0,
+                                    "code": "sh600570",
+                                    "name": "恒生电子",
+                                    "reason": "蚂蚁集团持股公司比例A股第一，20.79%",
+                                    "sort": 11,
+                                    "stockId": "600570",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "S",
+                                    "pctChg": 1.64,
+                                    "top": 0,
+                                    "code": "sz300682",
+                                    "name": "朗新科技",
+                                    "reason": "蚂蚁集团子公司持股公司16.54%股份",
+                                    "sort": 12,
+                                    "stockId": "300682",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "S",
+                                    "pctChg": 1.95,
+                                    "top": 0,
+                                    "code": "sz003029",
+                                    "name": "吉大正元",
+                                    "reason": "蚂蚁集团子公司持股公司10.48%股份",
+                                    "sort": 15,
+                                    "stockId": "003029",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 2.41,
+                                    "top": 0,
+                                    "code": "sz002951",
+                                    "name": "金时科技",
+                                    "reason": "公司在2025年1月与蚂蚁数科签署了合作协议，通过深化新能源项目RWA（真实世界资产）合作，助推数字能源发展。",
+                                    "sort": 16,
+                                    "stockId": "002951",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066019,
+                            "subjectId": 9066024,
+                            "importance": 1
+                        },
+                        {
+                            "name": "零售电商",
+                            "reason": "电商相关",
+                            "sort": 1,
+                            "level": 3,
+                            "pctChg": 1.09,
+                            "detail": null,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "pctChg": 1.02,
+                                    "top": 0,
+                                    "code": "sh601116",
+                                    "name": "三江购物",
+                                    "reason": "零售电商类阿里持股比例第一，持股32%",
+                                    "sort": 1,
+                                    "stockId": "601116",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "S",
+                                    "pctChg": 1.49,
+                                    "top": 0,
+                                    "code": "sz002024",
+                                    "name": "ST易购",
+                                    "reason": "零售电商类阿里持股比例第二，持股23.61%",
+                                    "sort": 2,
+                                    "stockId": "002024",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 2.66,
+                                    "top": 0,
+                                    "code": "sh688365",
+                                    "name": "光云科技",
+                                    "reason": "为电商商家提供SaaS产品，阿里曾持股10%，2024年淡出前十大股东",
+                                    "sort": 4,
+                                    "stockId": "688365",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": 0.37,
+                                    "top": 0,
+                                    "code": "sz002264",
+                                    "name": "新华都",
+                                    "reason": "为电商商家提供全渠道营销服务，阿里曾持股5.5%，2025年9月淡出前十大股东",
+                                    "sort": 5,
+                                    "stockId": "002264",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "pctChg": -0.1,
+                                    "top": 0,
+                                    "code": "sh605136",
+                                    "name": "丽人丽妆",
+                                    "reason": "公司63%营收来自于天猫平台，阿里曾持股17%，2025年5月转让",
+                                    "sort": 13,
+                                    "stockId": "605136",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066019,
+                            "subjectId": 9066023,
+                            "importance": 1
+                        },
+                        {
+                            "name": "快递物流",
+                            "reason": "物流相关",
+                            "sort": 1,
+                            "level": 3,
+                            "pctChg": 1.93,
+                            "detail": null,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "pctChg": 3.11,
+                                    "top": 0,
+                                    "code": "sh600233",
+                                    "name": "圆通速递",
+                                    "reason": "快递物流类阿里持股比例第一，持股比例20.12%",
+                                    "sort": 1,
+                                    "stockId": "600233",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "S",
+                                    "pctChg": 0.75,
+                                    "top": 0,
+                                    "code": "sz002120",
+                                    "name": "韵达股份",
+                                    "reason": "快递物流类阿里持股比例第二，持股比例2.06%",
+                                    "sort": 2,
+                                    "stockId": "002120",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066019,
+                            "subjectId": 9066022,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066017,
+                    "ancestors": "0,9066017",
+                    "subjectId": 9066019,
+                    "importance": 1,
+                    "limitUpCount": null
+                }
+            ],
+            "S": 20,
+            "subjectId": "9066017",
+            "reason": "2026 年 4 月 15 日，深圳速卖通品牌峰会将官宣“树卖通”。",
+            "sort": 1,
+            "level": 1,
+            "pctChg": 2.24,
+            "detail": "<p style=\"text-align: center;\"><strong>树卖通介绍</strong></p><p><img src=\"https://super-data-middle-platform.oss-cn-beijing.aliyuncs.com/image/2026/04/10/cd972e9f-d7de-4fd4-a068-8686797d998a.png\" alt=\"\" data-href=\"\" style=\"\"/></p><p>“树卖通” 是 宇树科技 × 阿里速卖通（AliExpress） 推出的 机器人全球出海战略项目（名称取自 “宇树”+“速卖通”）。</p><p>一、核心定位</p><p>主体：宇树科技（机器人厂商）+ 阿里速卖通（跨境电商）</p><p>性质：战略级深度合作（非简单开店）</p><p>目标：R1 人形机器人全球首发 + 全系列机器人规模化出海</p><p>模式：B2C 直售 + 本地仓配 + 全球售后</p><p>二、关键信息</p><p>官宣时间：2026 年 4 月 15 日（周三）（深圳速卖通品牌峰会）</p><p>首发产品：宇树 R1 人形机器人（海外约4900 美元）</p><p>覆盖市场：200 + 国家 / 地区（欧美、东南亚、中东优先）</p><p>资本背景：阿里为宇树 C 轮领投方（2025 年 6 月）</p><p>历史基础：宇树 2025 年 3 月已入驻速卖通（销售 Go2/H1）</p><p>三、速卖通提供的支持</p><p>全球流量：速卖通首页、百亿补贴、海外社媒矩阵</p><p>物流履约：海外仓备货 + 本地配送（72 小时达）</p><p>支付金融：国际信用卡、本地钱包、跨境收款</p><p>售后体系：多语种客服 + 本地维修网点 + 退换货</p>",
+            "parentId": "0000000000",
+            "ancestors": "0",
+            "importance": 1,
+            "limitUpCount": 0
+        }
+    ]
+}

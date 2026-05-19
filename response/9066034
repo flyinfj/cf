@@ -1,0 +1,1071 @@
+{
+    "stat": true,
+    "message": "成功",
+    "code": 200,
+    "data": [
+        {
+            "name": "4月10日热门题材复盘",
+            "G": 33,
+            "S": 15,
+            "subjectId": "9066034",
+            "stocks": [],
+            "children": [
+                {
+                    "name": "算力",
+                    "sort": -14,
+                    "reason": "根据OpenRouter数据，过去一年周度消耗Token数量从2.1T上升至24.5T，2026年以来周度Token消耗增加280%。",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 10.08,
+                    "children": [
+                        {
+                            "name": "3连板",
+                            "sort": 1,
+                            "reason": "3连板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 10.13,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz000889",
+                                    "pctChg": 10.13,
+                                    "top": 1,
+                                    "name": "中嘉博创",
+                                    "sort": 1,
+                                    "reason": "涨停时间09:29；算力",
+                                    "stockId": "000889",
+                                    "business": "1"
+                                }
+                            ],
+                            "parentId": 9066038,
+                            "subjectId": 9066056,
+                            "importance": 1
+                        },
+                        {
+                            "name": "首板",
+                            "sort": 2,
+                            "reason": "首板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 10.05,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz002263",
+                                    "pctChg": 10.11,
+                                    "top": 1,
+                                    "name": "大东南",
+                                    "sort": 2,
+                                    "reason": "涨停时间09:37；算力",
+                                    "stockId": "002263",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh600156",
+                                    "pctChg": 9.99,
+                                    "top": 0,
+                                    "name": "华升股份",
+                                    "sort": 137,
+                                    "reason": "涨停时间10:37；算力",
+                                    "stockId": "600156",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066038,
+                            "subjectId": 9066057,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066034,
+                    "ancestors": "0,9066034",
+                    "subjectId": 9066038,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "液冷服务器",
+                    "sort": -13,
+                    "reason": "业内预测，随着算力持续放量与数据中心建设提速，液冷技术已从\"可选配置\"变为\"强制\n标配”，市场即将迎来前所未有的机遇期。",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 10.02,
+                    "children": [
+                        {
+                            "name": "2连板",
+                            "sort": 1,
+                            "reason": "2连板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 10.02,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz002328",
+                                    "pctChg": 10.01,
+                                    "top": 1,
+                                    "name": "新朋股份",
+                                    "sort": 1,
+                                    "reason": "涨停时间09:31；液冷服务器",
+                                    "stockId": "002328",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002824",
+                                    "pctChg": 10.01,
+                                    "top": 1,
+                                    "name": "和胜股份",
+                                    "sort": 3,
+                                    "reason": "涨停时间09:30；液冷服务器",
+                                    "stockId": "002824",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002580",
+                                    "pctChg": 10.03,
+                                    "top": 1,
+                                    "name": "圣阳股份",
+                                    "sort": 114,
+                                    "reason": "涨停时间10:14；液冷服务器",
+                                    "stockId": "002580",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066037,
+                            "subjectId": 9066054,
+                            "importance": 1
+                        },
+                        {
+                            "name": "首板",
+                            "sort": 2,
+                            "reason": "首板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 10.02,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz002418",
+                                    "pctChg": 10.06,
+                                    "top": 1,
+                                    "name": "康盛股份",
+                                    "sort": 2,
+                                    "reason": "涨停时间09:36；液冷服务器",
+                                    "stockId": "002418",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh603088",
+                                    "pctChg": 9.98,
+                                    "top": 1,
+                                    "name": "宁波精达",
+                                    "sort": 47,
+                                    "reason": "涨停时间09:47；液冷服务器",
+                                    "stockId": "603088",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066037,
+                            "subjectId": 9066055,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066034,
+                    "ancestors": "0,9066034",
+                    "subjectId": 9066037,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "国产芯片",
+                    "sort": -13,
+                    "reason": "美股存储概念续涨，闪迪涨超9%再创历史新高",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 9.99,
+                    "children": [
+                        {
+                            "name": "首板",
+                            "sort": 1,
+                            "reason": "首板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 9.99,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "code": "sz000670",
+                                    "pctChg": 9.99,
+                                    "top": 1,
+                                    "name": "盈方微",
+                                    "sort": 1,
+                                    "reason": "涨停时间09:31；国产芯片",
+                                    "stockId": "000670",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002787",
+                                    "pctChg": 9.98,
+                                    "top": 0,
+                                    "name": "华源控股",
+                                    "sort": 2,
+                                    "reason": "涨停时间09:39；国产芯片",
+                                    "stockId": "002787",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066047,
+                            "subjectId": 9066068,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066034,
+                    "ancestors": "0,9066034",
+                    "subjectId": 9066047,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "光通信",
+                    "sort": -12,
+                    "reason": "工信部:推动全光交换等技术向产业园区用户侧延伸",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 10.07,
+                    "children": [
+                        {
+                            "name": "2连板",
+                            "sort": 1,
+                            "reason": "2连板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 10,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh600345",
+                                    "pctChg": 10,
+                                    "top": 1,
+                                    "name": "长江通信",
+                                    "sort": 1,
+                                    "reason": "涨停时间09:30；光通信",
+                                    "stockId": "600345",
+                                    "business": "1"
+                                }
+                            ],
+                            "parentId": 9066046,
+                            "subjectId": 9066066,
+                            "importance": 1
+                        },
+                        {
+                            "name": "首板",
+                            "sort": 2,
+                            "reason": "首板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 10.14,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh600103",
+                                    "pctChg": 10.14,
+                                    "top": 1,
+                                    "name": "青山纸业",
+                                    "sort": 1,
+                                    "reason": "涨停时间09:29；光通信",
+                                    "stockId": "600103",
+                                    "business": "1"
+                                }
+                            ],
+                            "parentId": 9066046,
+                            "subjectId": 9066067,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066034,
+                    "ancestors": "0,9066034",
+                    "subjectId": 9066046,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "电子布",
+                    "sort": -12,
+                    "reason": "英伟达（NVDA.US）全新架构发布带动PCB用量增长2-3倍、价值量提升4-5倍，LPU、CPU机柜全面升级至M9级别材料，高多层背板对低介电、低膨胀特种电子布需求爆发。",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 10,
+                    "children": [
+                        {
+                            "name": "首板",
+                            "sort": 1,
+                            "reason": "首板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 10,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh605006",
+                                    "pctChg": 10,
+                                    "top": 1,
+                                    "name": "山东玻纤",
+                                    "sort": 1,
+                                    "reason": "涨停时间09:47；电子布",
+                                    "stockId": "605006",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz003036",
+                                    "pctChg": 10.01,
+                                    "top": 1,
+                                    "name": "泰坦股份",
+                                    "sort": 2,
+                                    "reason": "涨停时间09:56；电子布",
+                                    "stockId": "003036",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066042,
+                            "subjectId": 9066062,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066034,
+                    "ancestors": "0,9066034",
+                    "subjectId": 9066042,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "玻璃基板",
+                    "sort": -11,
+                    "reason": "苹果正深化自研AI硬件布局，已开始测试先进的玻璃基板，；国内基板玻璃企业在美337调查初裁获胜。",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 10,
+                    "children": [
+                        {
+                            "name": "2连板",
+                            "sort": 1,
+                            "reason": "2连板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 10.01,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh600707",
+                                    "pctChg": 10.03,
+                                    "top": 1,
+                                    "name": "彩虹股份",
+                                    "sort": 1,
+                                    "reason": "涨停时间09:30；玻璃基板",
+                                    "stockId": "600707",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002962",
+                                    "pctChg": 10.02,
+                                    "top": 1,
+                                    "name": "五方光电",
+                                    "sort": 3,
+                                    "reason": "涨停时间09:36；玻璃基板",
+                                    "stockId": "002962",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh603773",
+                                    "pctChg": 9.99,
+                                    "top": 1,
+                                    "name": "沃格光电",
+                                    "sort": 105,
+                                    "reason": "涨停时间10:05；玻璃基板",
+                                    "stockId": "603773",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066040,
+                            "subjectId": 9066059,
+                            "importance": 1
+                        },
+                        {
+                            "name": "首板",
+                            "sort": 2,
+                            "reason": "首板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 9.96,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "code": "sh600876",
+                                    "pctChg": 9.96,
+                                    "top": 0,
+                                    "name": "凯盛新能",
+                                    "sort": 1,
+                                    "reason": "涨停时间09:51；玻璃基板",
+                                    "stockId": "600876",
+                                    "business": "1"
+                                }
+                            ],
+                            "parentId": 9066040,
+                            "subjectId": 9066060,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066034,
+                    "ancestors": "0,9066034",
+                    "subjectId": 9066040,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "燃气轮机",
+                    "sort": -10,
+                    "reason": "近期头部国内主机厂拿了60台以上的巴西国家石油的单子，带动国内燃机产业链景气度进一步向上；4月10日晚，海外燃气轮机龙头GEV股价新高。",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 10,
+                    "children": [
+                        {
+                            "name": "首板",
+                            "sort": 1,
+                            "reason": "首板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 10,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh600482",
+                                    "pctChg": 10.01,
+                                    "top": 1,
+                                    "name": "中国动力",
+                                    "sort": 1,
+                                    "reason": "涨停时间09:30；燃气轮机",
+                                    "stockId": "600482",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz000534",
+                                    "pctChg": 9.99,
+                                    "top": 1,
+                                    "name": "万泽股份",
+                                    "sort": 3,
+                                    "reason": "涨停时间09:44；燃气轮机",
+                                    "stockId": "000534",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh605060",
+                                    "pctChg": 10.01,
+                                    "top": 1,
+                                    "name": "联德股份",
+                                    "sort": 106,
+                                    "reason": "涨停时间10:06；燃气轮机",
+                                    "stockId": "605060",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066043,
+                            "subjectId": 9066063,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066034,
+                    "ancestors": "0,9066034",
+                    "subjectId": 9066043,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "公告",
+                    "sort": 1,
+                    "reason": "实控人筹划重组及公司转型城市运营服务商  \n2025年年报业绩大幅增长  \n控股股东拟转让10%股份引入产业资本  \n2025年年报营收净利增长  \n拟收购博泰智能控制权并配套募资  \n拟购买康豪机电100%股权  \n2026年一季度业绩预增  \n2026年一季度净利润同比增长123.69%  \n储能业务增长拟扩产至3GWh产能  \n宁德时代拟入股控股股东开展战略合作  \n2026年一季度业绩预增扣非净利润增长",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 11.12,
+                    "children": [
+                        {
+                            "name": "4连板",
+                            "sort": 1,
+                            "reason": "4连板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 9.96,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh600743",
+                                    "pctChg": 9.96,
+                                    "top": 1,
+                                    "name": "华远控股",
+                                    "sort": 1,
+                                    "reason": "涨停时间09:30；公告",
+                                    "stockId": "600743",
+                                    "business": "1"
+                                }
+                            ],
+                            "parentId": 9066035,
+                            "subjectId": 9066049,
+                            "importance": 1
+                        },
+                        {
+                            "name": "3连板",
+                            "sort": 2,
+                            "reason": "3连板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 9.99,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh603950",
+                                    "pctChg": 10,
+                                    "top": 1,
+                                    "name": "长源东谷",
+                                    "sort": -2,
+                                    "reason": "涨停时间09:25；公告",
+                                    "stockId": "603950",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh603777",
+                                    "pctChg": 9.98,
+                                    "top": 1,
+                                    "name": "来伊份",
+                                    "sort": 1,
+                                    "reason": "涨停时间09:32；公告",
+                                    "stockId": "603777",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066035,
+                            "subjectId": 9066050,
+                            "importance": 1
+                        },
+                        {
+                            "name": "2连板",
+                            "sort": 3,
+                            "reason": "2连板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 10,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh603933",
+                                    "pctChg": 10,
+                                    "top": 1,
+                                    "name": "睿能科技",
+                                    "sort": 1,
+                                    "reason": "涨停时间09:29；公告",
+                                    "stockId": "603933",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002364",
+                                    "pctChg": 9.99,
+                                    "top": 1,
+                                    "name": "中恒电气",
+                                    "sort": 2,
+                                    "reason": "涨停时间09:29；公告",
+                                    "stockId": "002364",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066035,
+                            "subjectId": 9066051,
+                            "importance": 1
+                        },
+                        {
+                            "name": "首板",
+                            "sort": 4,
+                            "reason": "首板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 12.53,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "code": "sh600983",
+                                    "pctChg": 10.05,
+                                    "top": 1,
+                                    "name": "惠而浦",
+                                    "sort": 1,
+                                    "reason": "涨停时间09:30；公告",
+                                    "stockId": "600983",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh603889",
+                                    "pctChg": 10.06,
+                                    "top": 0,
+                                    "name": "新澳股份",
+                                    "sort": 2,
+                                    "reason": "涨停时间09:31；公告",
+                                    "stockId": "603889",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh605117",
+                                    "pctChg": 10,
+                                    "top": 1,
+                                    "name": "德业股份",
+                                    "sort": 3,
+                                    "reason": "涨停时间09:31；公告",
+                                    "stockId": "605117",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688690",
+                                    "pctChg": 20.02,
+                                    "top": 0,
+                                    "name": "纳微科技",
+                                    "sort": 4,
+                                    "reason": "涨停时间09:35；公告",
+                                    "stockId": "688690",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066035,
+                            "subjectId": 9066052,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066034,
+                    "ancestors": "0,9066034",
+                    "subjectId": 9066035,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "锂电池",
+                    "sort": 2,
+                    "reason": "2026年4月8日，全球出货量第一的固态电池龙头清陶能源递表港交所，拟冲刺固态电池港股第一股。",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 10,
+                    "children": [
+                        {
+                            "name": "首板",
+                            "sort": 1,
+                            "reason": "首板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 10,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "code": "sz002074",
+                                    "pctChg": 10.01,
+                                    "top": 1,
+                                    "name": "国轩高科",
+                                    "sort": 36,
+                                    "reason": "涨停时间09:36；固态电池",
+                                    "stockId": "002074",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh603026",
+                                    "pctChg": 10,
+                                    "top": 1,
+                                    "name": "石大胜华",
+                                    "sort": 41,
+                                    "reason": "涨停时间09:41；电解液添加剂",
+                                    "stockId": "603026",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh603200",
+                                    "pctChg": 10,
+                                    "top": 1,
+                                    "name": "上海洗霸",
+                                    "sort": 102,
+                                    "reason": "涨停时间10:02；固态电池",
+                                    "stockId": "603200",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz000762",
+                                    "pctChg": 10,
+                                    "top": 1,
+                                    "name": "西藏矿业",
+                                    "sort": 109,
+                                    "reason": "涨停时间10:09；锂矿",
+                                    "stockId": "000762",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066036,
+                            "subjectId": 9066053,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066034,
+                    "ancestors": "0,9066034",
+                    "subjectId": 9066036,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "内蒙古自贸区",
+                    "sort": 5,
+                    "reason": "国务院日前印发的《中国（内蒙古）自由贸易试验区总体方案》4月9日对外发布。至此，中国自贸试验区扩围至23个。",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 9.99,
+                    "children": [
+                        {
+                            "name": "首板",
+                            "sort": 1,
+                            "reason": "首板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 9.99,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "code": "sz000626",
+                                    "pctChg": 9.96,
+                                    "top": 0,
+                                    "name": "远大控股",
+                                    "sort": 1,
+                                    "reason": "涨停时间09:29；内蒙古自贸区",
+                                    "stockId": "000626",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz001269",
+                                    "pctChg": 10.01,
+                                    "top": 0,
+                                    "name": "欧晶科技",
+                                    "sort": 2,
+                                    "reason": "涨停时间09:29；内蒙古自贸区",
+                                    "stockId": "001269",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066039,
+                            "subjectId": 9066058,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066034,
+                    "ancestors": "0,9066034",
+                    "subjectId": 9066039,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "大消费",
+                    "sort": 7,
+                    "reason": "2026年4月10日国家统计局：3月份居民消费价格同比上涨1.0%",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 9.99,
+                    "children": [
+                        {
+                            "name": "首板",
+                            "sort": 1,
+                            "reason": "首板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 9.99,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "code": "sh601010",
+                                    "pctChg": 10,
+                                    "top": 0,
+                                    "name": "文峰股份",
+                                    "sort": 1,
+                                    "reason": "涨停时间10:25；大消费",
+                                    "stockId": "601010",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz000659",
+                                    "pctChg": 9.97,
+                                    "top": 0,
+                                    "name": "珠海中富",
+                                    "sort": 2,
+                                    "reason": "涨停时间11:05；大消费",
+                                    "stockId": "000659",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz001211",
+                                    "pctChg": 10,
+                                    "top": 1,
+                                    "name": "双枪科技",
+                                    "sort": 3,
+                                    "reason": "涨停时间11:01；大消费",
+                                    "stockId": "001211",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066041,
+                            "subjectId": 9066061,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066034,
+                    "ancestors": "0,9066034",
+                    "subjectId": 9066041,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "机器人",
+                    "sort": 10,
+                    "reason": "2026年4月9日消息，宇树科技最新款机器人R1今日现身阿里西溪园区，引发多人围观。据内部消息，阿里海外正在筹备一个出海项目，预计4月中旬在深圳举办的一场品牌大会上正式发布。",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 10.01,
+                    "children": [
+                        {
+                            "name": "首板",
+                            "sort": 1,
+                            "reason": "首板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 10.01,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh603272",
+                                    "pctChg": 10.01,
+                                    "top": 1,
+                                    "name": "联翔股份",
+                                    "sort": 1,
+                                    "reason": "涨停时间09:44；机器人",
+                                    "stockId": "603272",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002988",
+                                    "pctChg": 10.01,
+                                    "top": 0,
+                                    "name": "豪美新材",
+                                    "sort": 2,
+                                    "reason": "涨停时间10:35；机器人",
+                                    "stockId": "002988",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066044,
+                            "subjectId": 9066064,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066034,
+                    "ancestors": "0,9066034",
+                    "subjectId": 9066044,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "医疗医药",
+                    "sort": 11,
+                    "reason": "2026年AACR年会将于4月17日召开，超100家中国药企携近400项研究成果亮相，覆盖ADC、双抗、核药等热门赛道及CDH17、Claudin18.2等关键靶点，后续5月ASCO大会将持续接力，形成密集的数据催化周期。",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 9.99,
+                    "children": [
+                        {
+                            "name": "首板",
+                            "sort": 1,
+                            "reason": "首板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 9.99,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh600713",
+                                    "pctChg": 10,
+                                    "top": 1,
+                                    "name": "南京医药",
+                                    "sort": 1,
+                                    "reason": "涨停时间10:35；医疗医药",
+                                    "stockId": "600713",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002950",
+                                    "pctChg": 9.98,
+                                    "top": 0,
+                                    "name": "奥美医疗",
+                                    "sort": 2,
+                                    "reason": "涨停时间09:37；医疗医药",
+                                    "stockId": "002950",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066045,
+                            "subjectId": 9066065,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066034,
+                    "ancestors": "0,9066034",
+                    "subjectId": 9066045,
+                    "importance": 1,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "其他",
+                    "sort": 14,
+                    "reason": "新能源技术突破、AI应用推广、金融业务增长及矿产资源开发等利好因素推动。",
+                    "level": 2,
+                    "detail": null,
+                    "pctChg": 9.98,
+                    "children": [
+                        {
+                            "name": "首板",
+                            "sort": 1,
+                            "reason": "首板。",
+                            "level": 3,
+                            "detail": null,
+                            "pctChg": 9.98,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh600537",
+                                    "pctChg": 10,
+                                    "top": 1,
+                                    "name": "亿晶光电",
+                                    "sort": 1,
+                                    "reason": "涨停时间10:26；其他",
+                                    "stockId": "600537",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh601999",
+                                    "pctChg": 10.01,
+                                    "top": 1,
+                                    "name": "出版传媒",
+                                    "sort": 2,
+                                    "reason": "涨停时间10:35；其他",
+                                    "stockId": "601999",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh603093",
+                                    "pctChg": 10.03,
+                                    "top": 0,
+                                    "name": "南华期货",
+                                    "sort": 4,
+                                    "reason": "涨停时间09:46；其他",
+                                    "stockId": "603093",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz000402",
+                                    "pctChg": 9.88,
+                                    "top": 1,
+                                    "name": "金融街",
+                                    "sort": 5,
+                                    "reason": "涨停时间09:31；其他",
+                                    "stockId": "000402",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz001299",
+                                    "pctChg": 9.98,
+                                    "top": 1,
+                                    "name": "美能能源",
+                                    "sort": 7,
+                                    "reason": "涨停时间10:49；其他",
+                                    "stockId": "001299",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9066048,
+                            "subjectId": 9066069,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9066034,
+                    "ancestors": "0,9066034",
+                    "subjectId": 9066048,
+                    "importance": 1,
+                    "limitUpCount": null
+                }
+            ],
+            "sort": 0,
+            "reason": "4月10日热门题材涨停个股复盘。",
+            "level": 1,
+            "pctChg": 10.22,
+            "detail": "",
+            "parentId": "0000000000",
+            "ancestors": "0",
+            "importance": 1,
+            "limitUpCount": 0
+        }
+    ]
+}

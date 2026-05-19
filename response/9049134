@@ -1,0 +1,894 @@
+{
+    "stat": true,
+    "message": "成功",
+    "code": 200,
+    "data": [
+        {
+            "name": "创新药出海",
+            "G": 49,
+            "S": 18,
+            "subjectId": "9049134",
+            "stocks": [],
+            "children": [
+                {
+                    "name": "出海预期",
+                    "sort": 1,
+                    "reason": "出海预期",
+                    "level": 2,
+                    "detail": "",
+                    "pctChg": -0.41,
+                    "children": [
+                        {
+                            "name": "小核酸药物",
+                            "sort": -99999,
+                            "reason": "小核酸药物",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": 0.18,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh688222",
+                                    "pctChg": -0.34,
+                                    "top": 0,
+                                    "name": "成都先导",
+                                    "sort": 1,
+                                    "reason": "STO核酸药物平台提供siRNA设计、修饰及脱靶评估服务，拓展CDMO业务",
+                                    "stockId": "688222",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh601089",
+                                    "pctChg": 0.6,
+                                    "top": 0,
+                                    "name": "福元医药",
+                                    "sort": 1,
+                                    "reason": "自建N-ER平台，整合小核酸设计、合成、递送系统优化及药效评价",
+                                    "stockId": "601089",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz000513",
+                                    "pctChg": 0.32,
+                                    "top": 0,
+                                    "name": "丽珠集团",
+                                    "sort": 1,
+                                    "reason": "引进佑嘉生物SEQUAD平台，合作开发GalNAc肝靶向siRNA药物，并布局痛风长效疗法",
+                                    "stockId": "000513",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688221",
+                                    "pctChg": 0,
+                                    "top": 0,
+                                    "name": "前沿生物",
+                                    "sort": 1,
+                                    "reason": "突破肝外递送瓶颈，开发肾脏靶向（非GalNAc系统）和肿瘤微环境响应型LNP递送技术",
+                                    "stockId": "688221",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688658",
+                                    "pctChg": 0.32,
+                                    "top": 0,
+                                    "name": "悦康药业",
+                                    "sort": 1,
+                                    "reason": "自主开发GalNAc递送系统（用于肝靶向递送）和阳离子脂质LNP递送系统（用于mRNA疫苗）",
+                                    "stockId": "688658",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9053264,
+                            "subjectId": 9053636,
+                            "importance": 2
+                        },
+                        {
+                            "name": "FDA孤儿药与快通",
+                            "sort": 0,
+                            "reason": "FDA孤儿药与快通\n美国FDA孤儿药资格（ODD）或快速通道资格（FTD）\n",
+                            "level": 3,
+                            "detail": "<p>美国FDA孤儿药资格（ODD）或快速通道资格（FTD）</p><p>以下是美国FDA孤儿药资格认定（Orphan Drug Designation, ODD）与快速通道资格（Fast Track）的详细介绍，结合政策核心、适用条件、激励措施及战略意义：</p><p>一、孤儿药资格认定（ODD）</p><p>1. 定义与适用条件</p><p>罕见病标准：在美国患病人数 &lt; 20万（约620例/百万人）或药物上市后7年内无法盈利的疾病。</p><p>适应症范围：涵盖治疗、预防或诊断罕见病的药物、生物制品、诊断试剂及医疗器械。</p><p>2. 核心激励政策</p><p>7年市场独占权：上市后禁止FDA批准相同适应症的同类药物（仿制药或Me-too药），即使专利已过期。</p><p>税收抵免：临床试验费用的50%可抵税，有效期20年。</p><p>费用减免：免除新药申请（NDA/BLA）费用（2025年约431万美元）。</p><p>研发补助：每年总计约1410万美元资助I/II期临床试验（最高$50万/年）。</p><p>3. 申请流程</p><p>时间：递交后90天内FDA回复，需在NDA/BLA提交前申请。</p><p>非美企要求：需委托美国代理人提交材料。</p><p>数据灵活性：支持临床前动物模型或体外数据（MOA机制证明）。</p><p>二、快速通道资格（Fast Track）</p><p>1. 定义与适用条件</p><p>目标疾病：治疗严重或危及生命的疾病（如癌症、阿尔茨海默病）。</p><p>临床优势：需满足以下任一：</p><p>填补当前无药可治的空白；</p><p>疗效显著优于现有疗法；</p><p>安全性更高（如降低毒性或改善患者依从性）。</p><p>2. 核心特权</p><p>滚动审评（Rolling Review）：可分批提交NDA/BLA资料，无需等待完整数据集。</p><p>强化沟通：</p><p>免费获得FDA会议指导（临床试验设计、生物标志物使用）；</p><p>书面交流优先响应。</p><p>资格叠加：可同时申请加速批准（Accelerated Approval）或优先审评（Priority Review）。</p><p>时间窗口：IND申请后至NDA/BLA会议前提交，FDA60天内决定。</p>",
+                            "pctChg": -0.65,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz300723",
+                                    "pctChg": 0.47,
+                                    "top": 0,
+                                    "name": "一品红",
+                                    "sort": 1,
+                                    "reason": "药物名称：AR882；认证：??FTD??；适应症：痛风石性痛风",
+                                    "stockId": "300723",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688506",
+                                    "pctChg": -1.63,
+                                    "top": 0,
+                                    "name": "百利天恒",
+                                    "sort": 1,
+                                    "reason": "药物名称：BL-B01D1（EGFR/HER3双抗ADC）；认证：??FTD??；适应症：实体瘤（肺癌、乳腺癌等）",
+                                    "stockId": "688506",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688062",
+                                    "pctChg": 0.45,
+                                    "top": 0,
+                                    "name": "迈威生物",
+                                    "sort": 1,
+                                    "reason": "药物名称：9MW3011（抗TMPRSS6单抗）；认证：??ODD+FTD??；适应症：真性红细胞增多症（PV）",
+                                    "stockId": "688062",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300765",
+                                    "pctChg": -1.87,
+                                    "top": 0,
+                                    "name": "新诺威",
+                                    "sort": 1,
+                                    "reason": "药物名称：SYS6010（CPO301）；认证：??FTD??；适应症：晚期非鳞非小细胞肺癌（Nsq-NSCLC）",
+                                    "stockId": "300765",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9053264,
+                            "subjectId": 9053272,
+                            "importance": 2
+                        },
+                        {
+                            "name": "临床阶段",
+                            "sort": 1,
+                            "reason": "临床阶段",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": -0.41,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "S",
+                                    "code": "sz300878",
+                                    "pctChg": -0.8,
+                                    "top": 0,
+                                    "name": "维康药业",
+                                    "sort": 0,
+                                    "reason": "上市申请前沟通阶段；药物名称：??黄甲软肝颗粒，治疗症为慢性乙型病毒性肝炎肝纤维化",
+                                    "stockId": "300878",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz002923",
+                                    "pctChg": -3.8,
+                                    "top": 0,
+                                    "name": "润都股份",
+                                    "sort": 0,
+                                    "reason": "提交上市申请；药物名称：盐酸去甲乌药碱注射液?，治疗症为核素心肌灌注显像（MPI），辅助诊断心肌缺血（如冠心病）",
+                                    "stockId": "002923",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688331",
+                                    "pctChg": -1.86,
+                                    "top": 0,
+                                    "name": "荣昌生物",
+                                    "sort": 1,
+                                    "reason": "III期临床；药物名称：泰它西普，治疗症为重症肌无力",
+                                    "stockId": "688331",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300436",
+                                    "pctChg": -0.32,
+                                    "top": 0,
+                                    "name": "广生堂",
+                                    "sort": 1,
+                                    "reason": "III期临床，药物名称：GST-HG141，治疗症为乙肝（全球首个靶向乙肝病毒核衣壳组装的药物）",
+                                    "stockId": "300436",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688062",
+                                    "pctChg": 0.45,
+                                    "top": 0,
+                                    "name": "迈威生物",
+                                    "sort": 1,
+                                    "reason": "III期临床；药物名称：ST2单抗，治疗症为慢阻肺COPO适应症",
+                                    "stockId": "688062",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002755",
+                                    "pctChg": 1.74,
+                                    "top": 0,
+                                    "name": "奥赛康",
+                                    "sort": 1,
+                                    "reason": "III期临床；药物名称：晚期胃/食管胃交界处腺癌ASKB589（Claudin18.2单抗）??",
+                                    "stockId": "002755",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300723",
+                                    "pctChg": 0.47,
+                                    "top": 0,
+                                    "name": "一品红",
+                                    "sort": 1,
+                                    "reason": "III期临床；药物名称：AR882，治疗症为痛风（预计2025年高尿酸血症患者达到11.8亿）",
+                                    "stockId": "300723",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz000513",
+                                    "pctChg": 0.32,
+                                    "top": 0,
+                                    "name": "丽珠集团",
+                                    "sort": 1,
+                                    "reason": "III期临床；药物名称：JP-1366；治疗症为反流性食管炎",
+                                    "stockId": "000513",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300009",
+                                    "pctChg": 0.51,
+                                    "top": 0,
+                                    "name": "安科生物",
+                                    "sort": 1,
+                                    "reason": "III期临床；药物名称：HuA21注射液，治疗症为胃癌（??国内首个进入Ⅲ期临床的HER2单抗胃癌药物??）",
+                                    "stockId": "300009",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002793",
+                                    "pctChg": -0.4,
+                                    "top": 0,
+                                    "name": "罗欣药业",
+                                    "sort": 1,
+                                    "reason": "III期临床；药物名称：普卡那肽片，治疗症为成人慢性特发性便秘",
+                                    "stockId": "002793",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh603367",
+                                    "pctChg": 3.29,
+                                    "top": 0,
+                                    "name": "辰欣药业",
+                                    "sort": 1,
+                                    "reason": "III期临床；药物名称：WX081，治疗症为利福平耐药结核、多药耐药结核、广泛耐药结核",
+                                    "stockId": "603367",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh600513",
+                                    "pctChg": -3.55,
+                                    "top": 0,
+                                    "name": "联环药业",
+                                    "sort": 1,
+                                    "reason": "III期临床，药物名称：LH-1801片，治疗症为糖尿病（通过抑制肾脏葡萄糖重吸收，促进尿糖排泄降低血糖，不依赖胰岛素功能，显著降低低血糖风险）",
+                                    "stockId": "600513",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688513",
+                                    "pctChg": -4.88,
+                                    "top": 0,
+                                    "name": "苑东生物",
+                                    "sort": 2,
+                                    "reason": "III期临床；药物名称：HP-001，治疗症多发性骨髓瘤",
+                                    "stockId": "688513",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688382",
+                                    "pctChg": -2.09,
+                                    "top": 0,
+                                    "name": "益方生物",
+                                    "sort": 2,
+                                    "reason": "III期临床；药物名称：D-2570，治疗症为银屑病",
+                                    "stockId": "688382",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz002550",
+                                    "pctChg": 4.09,
+                                    "top": 0,
+                                    "name": "千红制药",
+                                    "sort": 5,
+                                    "reason": "??II期临床；药物名称：脑卒中治疗药物????QHRD106注射液",
+                                    "stockId": "002550",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002082",
+                                    "pctChg": -7.32,
+                                    "top": 0,
+                                    "name": "万邦德",
+                                    "sort": 5,
+                                    "reason": "??II期临床；药物名称：石杉碱甲系列????WP103（注射液）",
+                                    "stockId": "002082",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh688189",
+                                    "pctChg": 1.18,
+                                    "top": 0,
+                                    "name": "南新制药",
+                                    "sort": 5,
+                                    "reason": "II期临床；药物名称：??盐酸美氟尼酮片，治疗症为糖尿病肾病",
+                                    "stockId": "688189",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz000566",
+                                    "pctChg": 0.19,
+                                    "top": 0,
+                                    "name": "海南海药",
+                                    "sort": 5,
+                                    "reason": "II期临床；药物名称：派恩加滨??，治疗症为癫痫（新型靶向抗癫痫药物，全球尚无上市品种）",
+                                    "stockId": "000566",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002773",
+                                    "pctChg": -0.28,
+                                    "top": 0,
+                                    "name": "康弘药业",
+                                    "sort": 6,
+                                    "reason": "II期临床；药物名称：KH631，治疗症为新生血管性年龄相关性黄斑变性",
+                                    "stockId": "002773",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688222",
+                                    "pctChg": -0.34,
+                                    "top": 0,
+                                    "name": "成都先导",
+                                    "sort": 6,
+                                    "reason": "II期临床；药物名称：??HG146胶囊，治疗症为复发或转移性腺样囊性癌（罕见肿瘤，目前全球无获批药物）",
+                                    "stockId": "688222",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz300204",
+                                    "pctChg": 0.07,
+                                    "top": 0,
+                                    "name": "舒泰神",
+                                    "sort": 7,
+                                    "reason": "II期临床；药物名称：波米泰酶，治疗症为血友病",
+                                    "stockId": "300204",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600380",
+                                    "pctChg": 0.36,
+                                    "top": 0,
+                                    "name": "健康元",
+                                    "sort": 8,
+                                    "reason": "II期临床；药物名称：TSLP单抗，治疗症为慢阻肺",
+                                    "stockId": "600380",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh688068",
+                                    "pctChg": 2.18,
+                                    "top": 0,
+                                    "name": "热景生物",
+                                    "sort": 15,
+                                    "reason": "I期临床；药物名称：SCG001，治疗症为心梗（解决目前心梗无药可用局面）",
+                                    "stockId": "688068",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz002940",
+                                    "pctChg": -0.58,
+                                    "top": 0,
+                                    "name": "昂利康",
+                                    "sort": 16,
+                                    "reason": "I期临床；药物名称：ALK-N001，治疗症为肿瘤（注射用 ALK-NO01 是一种全球创新的肿瘤微环境激活型小分子偶联药物，临床前研究结果显示，该药物在多种不同肿瘤模型中对肿瘤有明显的抑制作用，且具有良好的安全性，是一款极具创新性与开发潜力的小分子偶联抗肿瘤药物，有望为晚期实体瘤患者提供新的治疗选择)",
+                                    "stockId": "002940",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002399",
+                                    "pctChg": 0.27,
+                                    "top": 0,
+                                    "name": "海普瑞",
+                                    "sort": 32,
+                                    "reason": "I期临床试验；药物名称：注射用H1710；适应症为晚期实体瘤",
+                                    "stockId": "002399",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002370",
+                                    "pctChg": -0.81,
+                                    "top": 0,
+                                    "name": "亚太药业",
+                                    "sort": 33,
+                                    "reason": "I期临床；药物名称：??CX3002，治疗症为胃癌、胰腺癌",
+                                    "stockId": "002370",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz300584",
+                                    "pctChg": 1.62,
+                                    "top": 0,
+                                    "name": "海辰药业",
+                                    "sort": 34,
+                                    "reason": "I期临床；药物名称：??HC-1119，治疗症为前列腺癌",
+                                    "stockId": "300584",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002020",
+                                    "pctChg": -0.25,
+                                    "top": 0,
+                                    "name": "京新药业",
+                                    "sort": 35,
+                                    "reason": "I期临床；药物名称：口服小分子Lp(a)抑制剂，治疗症为癌症、纤维化疾病",
+                                    "stockId": "002020",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688091",
+                                    "pctChg": 0.49,
+                                    "top": 0,
+                                    "name": "上海谊众",
+                                    "sort": 54,
+                                    "reason": "临床前；药物名称：??YXC-001??（PD-1/VEGF/IL-2三功能单抗）",
+                                    "stockId": "688091",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh603222",
+                                    "pctChg": -2.39,
+                                    "top": 0,
+                                    "name": "济民健康",
+                                    "sort": 55,
+                                    "reason": "Pre-IND临床；药物名称：DB006溶瘤毒素注射液，治疗肿瘤疾病",
+                                    "stockId": "603222",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9053264,
+                            "subjectId": 9053265,
+                            "importance": 2
+                        },
+                        {
+                            "name": "已获批",
+                            "sort": 2,
+                            "reason": "已获批",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": -0.15,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sz002317",
+                                    "pctChg": 0.27,
+                                    "top": 0,
+                                    "name": "众生药业",
+                                    "sort": 0,
+                                    "reason": "药品名称：安睿威?昂拉地韦片，治疗症为流感（全球首款PB2靶点抗流感新药）",
+                                    "stockId": "002317",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002422",
+                                    "pctChg": -0.41,
+                                    "top": 0,
+                                    "name": "科伦药业",
+                                    "sort": 1,
+                                    "reason": "药物名称：芦康沙妥珠单抗，治疗症为非小细胞肺癌",
+                                    "stockId": "002422",
+                                    "business": null
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh600196",
+                                    "pctChg": -0.3,
+                                    "top": 0,
+                                    "name": "复星医药",
+                                    "sort": 2,
+                                    "reason": "药物名称：阿基仑赛注射液，治疗症为继发/复发性中枢神经系统淋巴瘤",
+                                    "stockId": "600196",
+                                    "business": null
+                                }
+                            ],
+                            "parentId": 9053264,
+                            "subjectId": 9053266,
+                            "importance": 2
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9049134,
+                    "ancestors": "0,9049134",
+                    "subjectId": 9053264,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "出海落地",
+                    "sort": 1,
+                    "reason": "出海落地",
+                    "level": 2,
+                    "detail": "<p><br></p>",
+                    "pctChg": -0.03,
+                    "children": [],
+                    "stocks": [
+                        {
+                            "GS": "G",
+                            "code": "sh600276",
+                            "pctChg": 0.25,
+                            "top": 0,
+                            "name": "恒瑞医药",
+                            "sort": -99,
+                            "reason": "出海创新药金额A股第一，总金额211.76亿美元",
+                            "stockId": "600276",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz002422",
+                            "pctChg": -0.41,
+                            "top": 0,
+                            "name": "科伦药业",
+                            "sort": -21,
+                            "reason": "出海创新药金额A股第二，总金额108.85亿美元",
+                            "stockId": "002422",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh688506",
+                            "pctChg": -1.63,
+                            "top": 0,
+                            "name": "百利天恒",
+                            "sort": -10,
+                            "reason": "出海创新药金额A股第三，总金额84亿美元",
+                            "stockId": "688506",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh688235",
+                            "pctChg": 0.62,
+                            "top": 0,
+                            "name": "百济神州",
+                            "sort": -9,
+                            "reason": "出海创新药金额A股第四，总金额64.91亿美元",
+                            "stockId": "688235",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh688336",
+                            "pctChg": 0.07,
+                            "top": 0,
+                            "name": "三生国健",
+                            "sort": -7,
+                            "reason": "出海创新药金额A股第五，预估总金额60亿美元",
+                            "stockId": "688336",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh688331",
+                            "pctChg": -1.86,
+                            "top": 0,
+                            "name": "荣昌生物",
+                            "sort": 3,
+                            "reason": "出海创新药金额A股第六，总金额26亿美元",
+                            "stockId": "688331",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sz300765",
+                            "pctChg": -1.87,
+                            "top": 0,
+                            "name": "新诺威",
+                            "sort": 4,
+                            "reason": "出海创新药金额A股第七，总金额11.95亿美元",
+                            "stockId": "300765",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh688180",
+                            "pctChg": -1.3,
+                            "top": 0,
+                            "name": "君实生物",
+                            "sort": 5,
+                            "reason": "出海创新药金额A股第八，总金额11亿美元",
+                            "stockId": "688180",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh688578",
+                            "pctChg": -0.28,
+                            "top": 0,
+                            "name": "艾力斯",
+                            "sort": 8,
+                            "reason": "出海创新药金额A股第九，总金额7.5亿美元",
+                            "stockId": "688578",
+                            "business": null
+                        },
+                        {
+                            "GS": "G",
+                            "code": "sh603259",
+                            "pctChg": 0.1,
+                            "top": 0,
+                            "name": "药明康德",
+                            "sort": 9,
+                            "reason": "出海创新药金额A股第十，总金额1.7亿美元",
+                            "stockId": "603259",
+                            "business": null
+                        },
+                        {
+                            "GS": "S",
+                            "code": "sh688013",
+                            "pctChg": 6.1,
+                            "top": 0,
+                            "name": "天臣医疗",
+                            "sort": 10,
+                            "reason": "出海医疗器械金额1.06亿，2024年新增海外产品注册证39张，累计覆盖62个国家和地区。",
+                            "stockId": "688013",
+                            "business": null
+                        }
+                    ],
+                    "parentId": 9049134,
+                    "ancestors": "0,9049134",
+                    "subjectId": 9049138,
+                    "importance": 2,
+                    "limitUpCount": null
+                },
+                {
+                    "name": "2026BD数据",
+                    "sort": 2,
+                    "reason": "2026BD数据：BD(Business Development，业务开发，在创新药行业里，主要就是指药品权益的买卖、授权合作，对外授权称License-out（出海 / 卖出去），对内授权称License-in（引进 / 买进来）），通过授权合作，获得收入。",
+                    "level": 2,
+                    "detail": "<p style=\"text-align: left;\"><span style=\"color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0); font-size: 14px;\"><strong>BD(Business Development，业务开发</strong></span><span style=\"font-size: 14px;\">在创新药行业里，主要就是指</span><span style=\"color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0); font-size: 14px;\"><strong>药品权益的买卖、授权合作，对外授权称License-out</strong></span><span style=\"font-size: 14px;\">（出海 / 卖出去）</span><span style=\"color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0); font-size: 14px;\"><strong>，对内授权称</strong></span><span style=\"font-size: 14px;\"><strong>License-in</strong></span><span style=\"font-size: 14px;\">（引进 / 买进来），以此获得收入，相当于买卖特许权</span><span style=\"color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0); font-size: 14px;\"><strong>）</strong></span></p><h3 style=\"text-align: start;\"><span style=\"font-size: 14px;\">中国创新药行业现状</span></h3><p><span style=\"color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0); font-size: 14px;\"><strong>现状</strong></span><span style=\"font-size: 14px;\">：中国创新药已从仿创跟随迈入</span><span style=\"color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0); font-size: 14px;\"><strong>全球第二大创新药阵营</strong></span><span style=\"font-size: 14px;\">，2025 年获批国产创新药 76 个、同比增 58%，在研管线占全球近 30%、ADC / 双抗等前沿赛道管线占比超 70%。行业呈现 “量质齐升、出海加速、同质化出清”：本土 FIC（全球首创新药）突破增多，license-out 海外授权交易额破千亿美元；但靶点扎堆（如 PD-1）、商业化盈利分化、基础研究薄弱仍是短板。</span></p><p><span style=\"color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0); font-size: 14px;\"><strong>核心竞争优势及来源</strong></span><span style=\"font-size: 14px;\">：</span></p><ol><li style=\"text-align: start;\"><span style=\"color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0); font-size: 14px;\"><strong>临床与效率红利</strong></span><span style=\"font-size: 14px;\">：14 亿人口提供全球最丰富病例，患者招募速度是欧美 1.5–3 倍、临床成本仅为美国 1/3；药审改革（优先审评、附条件上市）将 IND / 上市周期压缩至 30 天 / 1 年，研发周期比美国快 2 年。</span></li><li style=\"text-align: start;\"><span style=\"color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0); font-size: 14px;\"><strong>全产业链成本优势</strong></span><span style=\"font-size: 14px;\">：CXO（药明康德等）构建全球最完整研发生产外包生态，覆盖从发现到商业化全流程，大幅降低药企重资产投入；工程师红利 + 供应链国产化，综合研发成本仅为欧美 30%–50%。</span></li><li style=\"text-align: start;\"><span style=\"color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0); font-size: 14px;\"><strong>政策 + 资本 + 人才支撑</strong></span><span style=\"font-size: 14px;\">：医保谈判常态化、科创板 / 18A 上市通道拓宽，打通 “研发 - 上市 - 回报” 闭环；海外高端人才回流、本土硕博规模化供给，叠加 AI 赋能研发，加速靶点发现与验证。</span></li><li style=\"text-align: start;\"><span style=\"color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0); font-size: 14px;\"><strong>本土市场 + 全球化双轮</strong></span><span style=\"font-size: 14px;\">：庞大内需支撑快速商业化放量，同时 license-out 加速兑现全球价值，形成差异化竞争壁垒。</span></li></ol><h2 style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>一、创新药产业概述</strong></span></h2><h3 style=\"text-indent: 2em; text-align: left;\"><span style=\"font-size: 14px;\">1.1 产业简介</span></h3><p style=\"text-align: left;\"><span style=\"font-size: 14px;\">创新药是指基于全新作用机制或分子实体开发、具有明确临床价值且在全球未上市的药品。创新药产业涵盖小分子药物、大分子生物药、细胞与基因治疗等多个技术领域，涉及靶点发现、先导化合物筛选、临床前研究、I-III期临床试验等完整研发流程。该产业具有高研发投入（平均约10亿美元）、长开发周期（约10年）和高风险（成功率不足10%）的特点，是医药领域从\"仿制跟随\"向\"源头创新\"转型的核心引擎。</span></p><h3 style=\"text-indent: 2em; text-align: left;\"><span style=\"font-size: 14px;\">1.2 产业重要性</span></h3><p style=\"text-align: left;\"><span style=\"font-size: 14px;\">创新药产业是国家战略性新兴产业，是实现\"健康中国2030\"目标的重要支撑。&gt; \"生物医药首次被列为国家新兴支柱产业，创新药作为核心板块获得全链条支持\"——来源：《\"十五五\"生物医药产业发展规划》政策解读（2026年）。该产业规模约</span><span style=\"font-size: 14px;\"><strong>5500亿元</strong></span><span style=\"font-size: 14px;\">，占中国GDP的比例约为</span><span style=\"font-size: 14px;\"><strong>0.44%</strong></span><span style=\"font-size: 14px;\"> （计算基准：中国2024年GDP总量126万亿元）。2024年中国创新药市场规模达5500亿元人民币，同比增长103.7%，成为经济发展的新亮点。创新药占医院药品市场比重从2015年的20.9%提升至2024年的29.2%，9年增长8.3个百分点，产业地位显著提升。</span></p><p style=\"text-align: left;\"><br></p><p style=\"text-align: left;\"><span style=\"font-size: 14px;\">中国在全球创新药市场中的地位快速提升。2024年中国在全球首次上市的创新药中批准上市39个，由全球第3位提升到第2位，与美国的41个几近持平。中国在研创新药管线约占全球30%，稳居全球第二。从全球市场份额看，美国占据全球超50%的市场份额，是全球创新药的绝对主导者，中国当前创新药全球销售额占比约3%-6%，但市场增长潜力十分可观，有望在全球创新药领域占据更重要的位置。</span></p><p style=\"text-align: left;\"><span style=\"font-size: 14px;\"> 成品药企</span></p><p style=\"text-align: left;\"><img src=\"https://space-static.coze.site/7620669279503565062/china_competition-d804fccff5.png?sign=1776918923-81342fd060-0-5e88a5834e0c20d19a9f88217f4bd8b0eb811ebf126f80c0b6edeeb35caa31fc\" alt=\"\" data-href=\"\" style=\"width: 640px;height: auto;\"></p><p style=\"text-align: left;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"><span style=\"font-size: 14px;\">名称</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"><span style=\"font-size: 14px;\">占比</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"><span style=\"font-size: 14px;\">颜色标识</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"><span style=\"font-size: 14px;\">恒瑞医药</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"><span style=\"font-size: 14px;\">18%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"><span style=\"font-size: 14px;\">百济神州</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"><span style=\"font-size: 14px;\">15%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"><span style=\"font-size: 14px;\">信达生物</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"><span style=\"font-size: 14px;\">12%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"><span style=\"font-size: 14px;\">君实生物</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"><span style=\"font-size: 14px;\">10%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"><span style=\"font-size: 14px;\">复星医药</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"><span style=\"font-size: 14px;\">8%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"><span style=\"font-size: 14px;\">其他</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"><span style=\"font-size: 14px;\">37%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: left;\"></td></tr></tbody></table><p style=\"text-align: left;\"><span style=\"font-size: 14px;\"><strong>数据来源：医药魔方、IQVIA(2024年)</strong></span></p><p style=\"text-align: left;\"><span style=\"font-size: 14px;\">国内竞争格局呈现以长三角为核心、头部企业引领的特征。恒瑞医药以18个已上市创新药数量领先，成为行业</span><span style=\"color: red; font-size: 14px;\">龙头</span><span style=\"font-size: 14px;\">。百济神州、信达生物等企业紧随其后，在PD-1、ADC等热门赛道形成差异化优势。从地域分布看，上海聚集了复宏汉霖、君实生物等企业，江苏省则有恒瑞医药、信达生物等领军企业，形成长三角产业集群效应。</span></p><h4 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">医药上游药理及分子研发</span></h4><h4 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">中国CRO企业市场份额（2024）</span></h4><p style=\"text-align: start;\"><img src=\"https://space-static.coze.site/7623632444609495323/china_market_share-d58c212a50.png?sign=1777610379-8c33cb8436-0-84c131fa0a9d0d92866c6939637ce5821f199e6f850bc2f2b5541d26f9fb03fb\" alt=\"\" data-href=\"\" style=\"width: 640px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">企业</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">市场份额</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">营收(亿元)</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">药明康德</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">21.5%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">290.5</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">康龙化成</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">6.0%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">81.0</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">凯莱英</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">4.9%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">66.2</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">泰格医药</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">4.3%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">58.1</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">博腾股份</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">2.2%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">29.7</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">其他</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">61.1%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">824.5</span></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"color: revert; font-size: 14px;\"><em>数据来源：ZAKER新闻，《洞察2025：中国医药研发外包(CRO)行业竞争格局》，2026-03-03，查看原文</em></span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"></td></tr></tbody></table><p style=\"text-align: start;\"><br></p><p style=\"text-align: start;\"><br></p>",
+                    "pctChg": 0.18,
+                    "children": [
+                        {
+                            "name": "里程碑收入",
+                            "sort": 1,
+                            "reason": "2026里程碑收入",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": -0.41,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh600276",
+                                    "pctChg": 0.25,
+                                    "top": 0,
+                                    "name": "恒瑞医药",
+                                    "sort": 1,
+                                    "reason": "里程碑收入预计32.7 亿美元",
+                                    "stockId": "600276",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002422",
+                                    "pctChg": -0.41,
+                                    "top": 0,
+                                    "name": "科伦药业",
+                                    "sort": 2,
+                                    "reason": "里程碑收入预计9.0–11.0 亿美元",
+                                    "stockId": "002422",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688331",
+                                    "pctChg": -1.86,
+                                    "top": 0,
+                                    "name": "荣昌生物",
+                                    "sort": 3,
+                                    "reason": "里程碑收入预计7.5 亿美元",
+                                    "stockId": "688331",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688506",
+                                    "pctChg": -1.63,
+                                    "top": 0,
+                                    "name": "百利天恒",
+                                    "sort": 4,
+                                    "reason": "里程碑收入预计5.0 亿美元",
+                                    "stockId": "688506",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh600521",
+                                    "pctChg": 2.79,
+                                    "top": 0,
+                                    "name": "华海药业",
+                                    "sort": 5,
+                                    "reason": "里程碑收入预计2.9 亿美元",
+                                    "stockId": "600521",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002317",
+                                    "pctChg": 0.27,
+                                    "top": 0,
+                                    "name": "众生药业",
+                                    "sort": 6,
+                                    "reason": "里程碑收入预计1.16 亿美元",
+                                    "stockId": "002317",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688221",
+                                    "pctChg": 0,
+                                    "top": 0,
+                                    "name": "前沿生物",
+                                    "sort": 7,
+                                    "reason": "里程碑收入预计1.3 亿美元",
+                                    "stockId": "688221",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz002019",
+                                    "pctChg": -2.71,
+                                    "top": 0,
+                                    "name": "亿帆医药",
+                                    "sort": 8,
+                                    "reason": "里程碑收入预计0.3 亿美元",
+                                    "stockId": "002019",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9065769,
+                            "subjectId": 9065771,
+                            "importance": 1
+                        },
+                        {
+                            "name": "新签单收入",
+                            "sort": 1,
+                            "reason": "2026新签单收入",
+                            "level": 3,
+                            "detail": "<p><br></p>",
+                            "pctChg": 0.56,
+                            "children": [],
+                            "stocks": [
+                                {
+                                    "GS": "G",
+                                    "code": "sh600276",
+                                    "pctChg": 0.25,
+                                    "top": 0,
+                                    "name": "恒瑞医药",
+                                    "sort": 1,
+                                    "reason": "首付款7亿美元，产品：Lp(a)降脂药HRS-5346、HRS-9821 项目及至多 11 个项目的全球独家许可选择权",
+                                    "stockId": "600276",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688331",
+                                    "pctChg": -1.86,
+                                    "top": 0,
+                                    "name": "荣昌生物",
+                                    "sort": 2,
+                                    "reason": "首付款 6.5亿美元，产品：PD-1/VEGF双特异性抗体RC148",
+                                    "stockId": "688331",
+                                    "business": "1"
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sh600521",
+                                    "pctChg": 2.79,
+                                    "top": 0,
+                                    "name": "华海药业",
+                                    "sort": 3,
+                                    "reason": "首付款不超过3.4亿美元，产品：新靶点单克隆抗体",
+                                    "stockId": "600521",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sz002653",
+                                    "pctChg": 4.89,
+                                    "top": 0,
+                                    "name": "海思科",
+                                    "sort": 4,
+                                    "reason": "首付款1.08亿美元，产品：PDE3/4双重抑制剂HSK39004",
+                                    "stockId": "002653",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "G",
+                                    "code": "sh688221",
+                                    "pctChg": 0,
+                                    "top": 0,
+                                    "name": "前沿生物",
+                                    "sort": 5,
+                                    "reason": "首付款4000万美元，产品：两款siRNA小核酸管线",
+                                    "stockId": "688221",
+                                    "business": "0"
+                                },
+                                {
+                                    "GS": "S",
+                                    "code": "sz002019",
+                                    "pctChg": -2.71,
+                                    "top": 0,
+                                    "name": "亿帆医药",
+                                    "sort": 6,
+                                    "reason": "首付款0.15亿美元，产品：ACT001 (小分子 1 类新药)",
+                                    "stockId": "002019",
+                                    "business": "0"
+                                }
+                            ],
+                            "parentId": 9065769,
+                            "subjectId": 9065770,
+                            "importance": 1
+                        }
+                    ],
+                    "stocks": [],
+                    "parentId": 9049134,
+                    "ancestors": "0,9049134",
+                    "subjectId": 9065769,
+                    "importance": 1,
+                    "limitUpCount": null
+                }
+            ],
+            "sort": 1,
+            "reason": "2025年中国创新药对外授权（BD）交易总金额达1356亿美元，刷新纪录。BD(Business Development，业务开发在创新药行业里，主要就是指药品权益的买卖、授权合作，对外授权称License-out（出海 / 卖出去），对内授权称License-in（引进 / 买进来），以此获得收入，相当于买卖特许权）",
+            "level": 1,
+            "pctChg": -0.1,
+            "detail": "<h2 style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>一、创新药出海产业概述</strong></span></h2><p><br></p><p><span style=\"font-size: 14px;\"><strong> 综述：金额高速增长</strong></span><span style=\"font-size: 14px;\">。</span><span style=\"color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0); font-size: 14px;\">2021–2025 年 + 2026Q1 中国创新药出海（License?out）授权金额对比表</span><span style=\"font-size: 14px;\">，并补充首付款、交易笔数，便于对比。数据口径统一为</span><span style=\"color: rgb(0, 0, 0); background-color: rgba(0, 0, 0, 0); font-size: 14px;\">医药魔方 NextPharma 权威统计（总交易金额 = 首付 + 里程碑 + 潜在销售分成）</span></p><h3 style=\"text-align: start;\"><span style=\"font-size: 14px;\">一、近 5 年 + 2026Q1 核心数据总表（单位：亿美元）</span></h3><p><span style=\"font-size: 14px;\">表格</span></p><table style=\"width: auto; text-align: start;\"><tbody><tr style=\"text-align: start;\"><th colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: center;\"><span style=\"font-size: 14px;\">年份 / 季度</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">总交易金额 (TDV)</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">同比增速</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">首付款 (Upfront)</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">交易笔数</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: center;\"><span style=\"font-size: 14px;\">核心备注</span></th></tr><tr style=\"text-align: start;\"><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: start;\"><span style=\"font-size: 14px;\">2021</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">138.5</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">-</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">12.3</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">37</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: start;\"><span style=\"font-size: 14px;\">起步期，单笔金额小、以临床前为主</span></td></tr><tr style=\"text-align: start;\"><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: start;\"><span style=\"font-size: 14px;\">2022</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">277.1</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">+100.1%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">20.5</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">59</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: start;\"><span style=\"font-size: 14px;\">BD 元年，ADC / 双抗开始放量</span></td></tr><tr style=\"text-align: start;\"><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: start;\"><span style=\"font-size: 14px;\">2023</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">419.6</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">+51.4%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">35.2</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">78</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: start;\"><span style=\"font-size: 14px;\">重磅交易增多，首付款占比提升</span></td></tr><tr style=\"text-align: start;\"><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: start;\"><span style=\"font-size: 14px;\">2024</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">519.0</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">+23.7%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">41.0</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">94</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: start;\"><span style=\"font-size: 14px;\">稳健增长，科伦博泰、百利天恒大单</span></td></tr><tr style=\"text-align: start;\"><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: start;\"><span style=\"font-size: 14px;\">2025</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">1356.6</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">+161.4%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">70.0</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">157</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: start;\"><span style=\"font-size: 14px;\">爆发年，全球占比 49%、首超美国</span></td></tr><tr style=\"text-align: start;\"><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: start;\"><span style=\"font-size: 14px;\">2026 Q1</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">571.0</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">环比 + 42%（较 2025Q4）</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">33.2</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: -webkit-right;\"><span style=\"font-size: 14px;\">49</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\" style=\"text-align: start;\"><span style=\"font-size: 14px;\">单季超 2024 全年、接近 2025 年一半<br></span></td></tr></tbody></table><h3 style=\"text-indent: 2em; text-align: start;\"></h3><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">1.1 产业规模与供需关系</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 15px; font-family: 黑体;\">创新药出海产业属于生物医药高端制造领域，2025年全球市场规模达2750-2900亿美元。</span><span style=\"color: rgb(78, 78, 78); font-size: 15px; font-family: 黑体;\">2026Q1 创新药BD 授权总额超600亿美元，全球合作价值加速兑现。2025 年中国创新药BD 出海授权创历史新高，全年交易总金额达1356.55 亿美元、首付款70 亿美元、交易数量157 起；进入2026 年后热度延续，截至3 月27 日对外授权交易总额已超600 亿美元，国产创新药全球合作价值持续兑现。<br><br> &nbsp; &nbsp;政策定位再升级，支付端持续改善。2026 年政府工作报告首次将生物医药列为新“新兴支柱产业”，产业战略定位进一步提升；同时首版商保创新药目录正式落地，新医保+商保”的多层次支付体系加快建立，创新药支付环境持续优化。<br><br> &nbsp; &nbsp;临床活跃度持续提升，中国创新药研发进入高质量收获期。截至2025 年末，中国企业在研创新药数量全球占比达33.7%、位居全球第一，2025 年首次进入临床的原研创新药达827 款、全球占比47.4%；与此同时，2025 年我国获批上市创新药达76 个、创历史新高，国内创新药正逐步进入高质量收获期。</span></p><ul><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">供需：供不应求，跨国药企面临\"专利悬崖\"，对中国创新资产需求迫切</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">价格走势：近1年创新药对外授权首付款平均金额增长</span><span style=\"font-size: 14px;\"><strong>70.7%</strong></span><span style=\"font-size: 14px;\"> ，反映中国创新药价值提升</span></li></ul><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">促进该产业发展的主要拉动因素为</span><span style=\"font-size: 14px;\"><strong>跨国药企专利悬崖导致的管线缺口</strong></span><span style=\"font-size: 14px;\">和</span><span style=\"font-size: 14px;\"><strong>中国创新药研发实力的国际认可</strong></span><span style=\"font-size: 14px;\">。全球大型制药企业正面临严峻的\"专利悬崖\"与研发效率下滑压力，2030年前全球将有超3000亿美元销售额的药物失去专利保护，而中国创新药研发成本仅为欧美药企的30%-40%，且疗效更具优势。</span></p><p style=\"text-align: start;\"><br></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">1.2 产业重要性</span></h3><blockquote style=\"text-align: start;\"><span style=\"font-size: 14px;\">\"推动创新药和医疗器械高质量发展，更好满足人民群众多元化就医用药需求。\"——2026年政府工作报告<br> <br>美国创新药年产值约合1.4万亿人民币，占美国GDP的0.78%。可见该行业的重要性。</span></blockquote><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">1.3 全球市场份额分布</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>全球市场份额分布（按销售额统计）</strong></span></p><p style=\"text-align: start;\"><img src=\"https://space-static.coze.site/7623674529584267572/global_market_share-643d8da2bc.png?sign=1777623245-1fb7dad8a5-0-647d0476cbdcd3b06bb0cbb39726ceab7856b8d78b0afd29a4e2920fb3855ce4\" alt=\"\" data-href=\"\" style=\"width: 640px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"color: rgba(8, 13, 30, 0.9); font-size: 14px;\">表格</span></p><table style=\"width: auto; text-align: left;\"><tbody><tr><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">国家/地区</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">市场份额</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">主要企业</span></th><th colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">数据来源</span></th></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">中国</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\"><strong>49%</strong></span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">恒瑞医药、信达生物、百济神州</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">医药魔方，《2025年中国创新药BD交易年度报告》，2026年1月，</span><a href=\"https://www.pharmcube.com/report/2025-bd-yearly\" target=\"_blank\"><span style=\"font-size: 14px;\">查看原文</span></a></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">美国</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">28%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">默沙东、辉瑞、强生</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">医药魔方，《2025年全球创新药交易报告》，2026年1月，</span><a href=\"https://www.pharmcube.com/report/2025-global-bd\" target=\"_blank\"><span style=\"font-size: 14px;\">查看原文</span></a></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">欧洲</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">16%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">诺华、罗氏、葛兰素史克</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">欧洲制药工业协会，《2025年欧洲生物医药创新报告》，2026年2月，</span><a href=\"https://www.efpia.eu/reports/2025-bioinnovation\" target=\"_blank\"><span style=\"font-size: 14px;\">查看原文</span></a></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">日本</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">6%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">武田制药、安斯泰来</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">日本制药工业协会，《2025年日本医药产业报告》，2026年1月，</span><a href=\"https://www.jpma.or.jp/reports/2025\" target=\"_blank\"><span style=\"font-size: 14px;\">查看原文</span></a></td></tr><tr><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">其他</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">1%</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">-</span></td><td colspan=\"1\" rowspan=\"1\" width=\"auto\"><span style=\"font-size: 14px;\">中信证券，《全球创新药产业格局深度研究》，2026年2月，</span><a href=\"https://www.cs.ecitic.com/research/report/20260215\" target=\"_blank\"><span style=\"font-size: 14px;\">查看原文</span></a></td></tr></tbody></table><p style=\"text-align: start;\"><br></p><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">1.4 产业重大事件</span></h3><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>【国家政策】</strong></span></p><ol><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">[2024年12月] 国务院办公厅发布《关于全面深化药品医疗器械监管改革促进医药产业高质量发展的意见》，提出加大对药品医疗器械研发创新的支持力度，完善审评审批机制</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">[2025年7月] 国家医保局、国家卫生健康委出台《支持创新药高质量发展的若干措施》，从研发、准入、入院使用和多元支付全链条支持创新药发展</span></li></ol><p style=\"text-align: start;\"><span style=\"font-size: 14px;\"><strong>【产业板块大涨】</strong></span></p><ol><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">[2025年1月-2025年12月] A股创新药指数全年大涨</span><span style=\"font-size: 14px;\"><strong>54.38%</strong></span><span style=\"font-size: 14px;\"> ，港股创新药指数涨幅更是高达</span><span style=\"font-size: 14px;\"><strong>145.0%</strong></span><span style=\"font-size: 14px;\"> ，主要驱动因素为创新药出海交易爆发和业绩兑现（解读：中国创新药资产价值得到全球认可，产业从\"研发叙事\"迈向\"业绩兑现\"新阶段）</span></li></ol><p style=\"text-align: start;\"><br></p><h2 style=\"text-align: start;\"><span style=\"font-size: 14px;\">二、产业内部分析</span></h2><h3 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">2.1 产品组成与应用场景分布</span></h3><h4 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">产品组成分布</span></h4><p style=\"text-align: start;\"><img src=\"https://space-static.coze.site/7623674529584267572/therapeutic_areas-f97394ac85.png?sign=1777623245-639c25a824-0-2db4ac1446d80ee2a2a893732f229a52a507eeee88a1de0cc5cc7287cd0d7d8b\" alt=\"\" data-href=\"\" style=\"width: 640px;height: auto;\"></p><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">从产品组成来看，创新药出海主要由以下几部分构成：</span></p><ul><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">肿瘤领域：占比42%，是最成熟的出海赛道，ADC、双抗等技术全球领先</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">罕见病领域：占比18%，增长潜力巨大，中国在孤儿药研发方面成本优势明显</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">自身免疫性疾病：占比15%，新兴出海赛道，双抗、IL-17等靶点进展迅速</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">抗感染领域：占比10%，全球需求稳定，中国在抗生素研发方面积累深厚</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">代谢疾病：占比10%，GLP-1类药物出海爆发，成为新的增长引擎</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">其他：占比5%，包括心血管、神经系统等领域</span></li></ul><p style=\"text-align: start;\"><br></p><h4 style=\"text-indent: 2em; text-align: start;\"><span style=\"font-size: 14px;\">肿瘤领域上游技术分析</span></h4><p style=\"text-align: start;\"><span style=\"font-size: 14px;\">肿瘤领域的上游核心技术包括：</span></p><ul><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">ADC技术：占比35%，中国在ADC领域已形成全球竞争力，全球TOP10的活跃研发企业中，中国占了7席</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">双抗技术：占比25%，中国在PD-1/VEGF双抗、EGFR/HER3双抗等关键赛道取得全球领先成果</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">细胞治疗：占比20%，CAR-T、TCR-T等细胞治疗技术逐步成熟</span></li><li style=\"text-align: start;\"><span style=\"font-size: 14px;\">其他：占比20%，包括PROTAC、小核酸等新兴技术<br></span></li></ul><p><br></p>",
+            "parentId": "0000000000",
+            "ancestors": "0",
+            "importance": 2,
+            "limitUpCount": 0
+        }
+    ]
+}

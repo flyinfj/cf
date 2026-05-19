@@ -1,0 +1,238 @@
+﻿-- 股票现货价格表
+CREATE TABLE stock_spot (
+    stock_code VARCHAR(6) NOT NULL COMMENT '股票代码',
+    trade_date VARCHAR(8) NOT NULL COMMENT '交易日期',
+    close_price DECIMAL(10, 2) NOT NULL COMMENT '收盘价',
+    PRIMARY KEY (stock_code, trade_date),
+    INDEX idx_date (trade_date),
+    INDEX idx_code (stock_code)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='股票现货价格表';
+
+-- 交易日期表
+CREATE TABLE trade_date (
+    trade_date VARCHAR(8) NOT NULL COMMENT '交易日期',
+    PRIMARY KEY (trade_date)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='交易日期表';
+
+-- 5. 题材信息表 (对应 getSubject.py 中的 subject.csv)
+CREATE TABLE `subject` (
+  `ind_code` VARCHAR(20) NOT NULL COMMENT '行业编码',
+  `fir_category` VARCHAR(100) NOT NULL COMMENT '行业题材',
+  `sec_category` VARCHAR(100) DEFAULT NULL COMMENT '二级分类',
+  `thr_category` VARCHAR(100) DEFAULT NULL COMMENT '三级分类',
+  `category_name` VARCHAR(200) NOT NULL COMMENT '分类',  
+  `stock_code` VARCHAR(10) NOT NULL COMMENT '股票代码',
+  `stock_name` VARCHAR(200) NOT NULL COMMENT '公司名称',
+  `reason` TEXT COMMENT '入选理由',
+  `remarks` TEXT COMMENT '备注信息',
+  PRIMARY KEY (category_name,stock_code),
+  KEY `idx_stock_code` (`stock_code`),
+  KEY `idx_industry_theme` (`fir_category`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci COMMENT='行业主题分类表';
+
+-- 2. 财报信息表 (对应 getCaibao.py 中的 caibao.txt)
+CREATE TABLE IF NOT EXISTS `caibao` (
+    `stock_code` VARCHAR(10) NOT NULL COMMENT '股票代码',
+    `stock_name` VARCHAR(50) COMMENT '股票名称',
+    `notice_time` VARCHAR(50) COMMENT '公告时间',
+    `type` VARCHAR(50) COMMENT '类型',
+    `content` TEXT COMMENT '公告内容',
+    UNIQUE KEY `uk_caibao` (`stock_code`, `notice_time`),
+    INDEX `idx_stock_code` (`stock_code`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='财报信息表';
+
+
+#每日涨停股票数据
+CREATE TABLE `days_limitup` (
+  `id` INT UNSIGNED NOT NULL COMMENT '主键ID',
+  `stock_code` VARCHAR(10) NOT NULL COMMENT '股票代码',
+  `stock_name` VARCHAR(50) NOT NULL COMMENT '股票名称',
+  `change_percent` DECIMAL(8,4) COMMENT '涨跌幅(%)',
+  `last_price` DECIMAL(10,2) COMMENT '最新价',
+  `turnover_amount` BIGINT COMMENT '成交额',
+  `circul_marketcap` DECIMAL(15,2) COMMENT '流通市值',
+  `total_marketcap` DECIMAL(15,2) COMMENT '总市值',
+  `turnover_rate` DECIMAL(8,4) COMMENT '换手率(%)',
+  `limitup_amount` BIGINT COMMENT '封板资金',
+  `first_limitup_time` VARCHAR(10) COMMENT '首次封板时间',
+  `last_limitup_time` VARCHAR(10) COMMENT '最后封板时间',
+  `breakout_count` TINYINT UNSIGNED COMMENT '炸板次数',
+  `limitup_stats` VARCHAR(10) COMMENT '涨停统计(成功/总次数)',
+  `limitup_days` TINYINT UNSIGNED COMMENT '连板数',
+  `industry` VARCHAR(20) COMMENT '所属行业',
+  `trade_date` VARCHAR(8) NOT NULL COMMENT '交易日期',
+  PRIMARY KEY (trade_date,stock_code),
+  KEY `idx_stock_code` (`stock_code`),
+  KEY `idx_trade_date` (`trade_date`),
+  KEY `idx_industry` (`industry`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='每日涨停股票数据';
+
+
+-- 2. 财报信息表 (对应 getCaibao.py 中的 caibao.txt)
+CREATE TABLE `caibao` (
+  `stock_code` varchar(10) NOT NULL COMMENT '股票代码',
+  `stock_name` varchar(50) DEFAULT NULL COMMENT '股票名称',
+  `notice_time` varchar(50) DEFAULT NULL COMMENT '公告时间',
+  `type` varchar(50) DEFAULT NULL COMMENT '类型', 
+   `notice_time_type` varchar(50) DEFAULT NULL COMMENT '公告时间类型',
+  `content` text COMMENT '公告内容',
+  UNIQUE KEY `uk_caibao` (`stock_code`,`notice_time_type`),
+  KEY `idx_stock_code` (`stock_code`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='财报信息表';
+
+
+CREATE TABLE `yanbao_ind` (
+  `report_date` date NOT NULL COMMENT '报告日期',
+  `industry` varchar(100) NOT NULL COMMENT '行业名称',
+  `org` varchar(200) NOT NULL COMMENT '机构名称',
+  `title` varchar(500) NOT NULL COMMENT '报告标题',
+  PRIMARY KEY (report_date,title),
+  KEY `idx_report_date` (report_date)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='行业研究报告数据表';
+
+CREATE TABLE `yanbao_stock` (
+  `report_date` date NOT NULL COMMENT '研报日期',
+  `stock_code` varchar(20) NOT NULL COMMENT '股票代码',
+  `stock_name` varchar(100) NOT NULL COMMENT '股票名称',
+  `rating` varchar(20) DEFAULT NULL COMMENT '评级',
+  `title` varchar(500)  NOT NULL COMMENT '研报标题',
+  PRIMARY KEY (report_date,title),
+  KEY `idx_stock_code` (`stock_code`) COMMENT '股票代码索引'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='股票研报数据表';
+
+CREATE TABLE days_limitup_pre (
+    trade_date varchar(8) NOT NULL COMMENT '日期',
+    stock_code VARCHAR(10) NOT NULL COMMENT '股票代码',
+    stock_name VARCHAR(50) NOT NULL COMMENT '股票名称',
+    pre_limit_days TINYINT UNSIGNED NOT NULL COMMENT '昨板数',
+    cur_limit_days TINYINT UNSIGNED NOT NULL COMMENT '今板数',
+    change_percent DECIMAL(6,2) NOT NULL COMMENT '涨幅(%)',
+    is_limitup TINYINT(1) NOT NULL COMMENT '是否涨停(1是/0否)',
+    PRIMARY KEY (trade_date, stock_code),
+    KEY idx_stock_code (stock_code),
+    KEY idx_is_limit_up (is_limitup)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='涨停板数据表';
+
+CREATE TABLE days_limitup_count (
+    rank_id INT COMMENT '涨停排序',
+    stock_code VARCHAR(10) NOT NULL COMMENT '股票代码',
+    limitup_count INT COMMENT '涨停数',
+    next_limitup_count INT COMMENT '第二天涨次数',
+    avg_raise_percent DECIMAL(5,2) COMMENT '平均涨幅(%)',
+    PRIMARY KEY (stock_code),
+    KEY idx_rank_id (rank_id),
+    KEY idx_limitup_count (limitup_count)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='股票涨停次数统计表';
+
+CREATE TABLE `subject_stock` (
+  `stock_code` VARCHAR(12) NOT NULL COMMENT '股票代码',
+  `stock_name` VARCHAR(50) NOT NULL COMMENT '公司名称',
+  `title` varchar(500) COMMENT '业务备注',
+  PRIMARY KEY (stock_code,title),
+  INDEX `idx_name` (`stock_name`)
+) 
+
+CREATE TABLE tmp_subject_stock (
+    stock_code VARCHAR(10) NOT NULL COMMENT '代码',
+    stock_name VARCHAR(100) NOT NULL COMMENT '名称',
+    title varchar(500) COMMENT '业务描述备注',
+    change_percent VARCHAR(20) COMMENT '涨跌幅百分比',
+    trade_date varchar(8) NOT NULL COMMENT '交易日期',
+    PRIMARY KEY (title,trade_date),
+    INDEX idx_code (stock_code),
+    INDEX idx_date (trade_date)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='股票主题数据临时表';
+
+
+CREATE TABLE tmp_stock_real (
+    stock_code VARCHAR(20) NOT NULL COMMENT '代码',
+    stock_name VARCHAR(50) NOT NULL COMMENT '名称',
+    last_price DECIMAL(10,2) COMMENT '最新价',
+    change_percent DECIMAL(10,3) COMMENT '涨跌幅',
+    trade_date VARCHAR(10) COMMENT '时间',
+    PRIMARY KEY (stock_code,trade_date)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='股票实时行情数据';
+
+
+CREATE TABLE `stock_real` (
+  `stock_code` VARCHAR(20) NOT NULL COMMENT '股票代码',
+  `stock_name` VARCHAR(50) NOT NULL COMMENT '股票名称',
+  `last_price` DECIMAL(10,2) NOT NULL COMMENT '最新价',
+  `change_amount` DECIMAL(10,2) NOT NULL COMMENT '涨跌额',
+  `change_percent` DECIMAL(10,3) NOT NULL COMMENT '涨跌幅(%)',
+  `buy_price` DECIMAL(10,2) NOT NULL COMMENT '买入价',
+  `sell_price` DECIMAL(10,2) NOT NULL COMMENT '卖出价',
+  `pre_close` DECIMAL(10,2) NOT NULL COMMENT '昨日收盘价',
+  `open_price` DECIMAL(10,2) NOT NULL COMMENT '今日开盘价',
+  `high_price` DECIMAL(10,2) NOT NULL COMMENT '最高价',
+  `low_price` DECIMAL(10,2) NOT NULL COMMENT '最低价',
+  `volume` BIGINT NOT NULL COMMENT '成交量',
+  `turnover` BIGINT NOT NULL COMMENT '成交额',
+  `timestamp` VARCHAR(10) NOT NULL COMMENT '时间戳',
+  PRIMARY KEY (`stock_code`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='股票实时数据';
+
+
+CREATE TABLE `stock_stats` (
+  `id` int(11) NOT NULL AUTO_INCREMENT COMMENT '主键ID',
+  `stock_code` varchar(10) DEFAULT NULL COMMENT '代码',
+  `ma1` decimal(10,4) DEFAULT NULL COMMENT '1日均线',
+  `ma5` decimal(10,4) DEFAULT NULL COMMENT '5日均线',
+  `ma10` decimal(10,4) DEFAULT NULL COMMENT '10日均线',
+  `ma20` decimal(10,4) DEFAULT NULL COMMENT '20日均线',
+  `ma60` decimal(10,4) DEFAULT NULL COMMENT '60日均线',
+  `max20` decimal(10,4) DEFAULT NULL COMMENT '20日最高价',
+  `min20` decimal(10,4) DEFAULT NULL COMMENT '20日最低价',
+  `max60` decimal(10,4) DEFAULT NULL COMMENT '60日最高价',
+  `min60` decimal(10,4) DEFAULT NULL COMMENT '60日最低价',
+  PRIMARY KEY (`id`),
+  KEY `idx_code` (`stock_code`) COMMENT '股票代码索引'
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COMMENT='股票统计数据表';
+
+
+CREATE TABLE quar_holder_info (
+    stock_code VARCHAR(10) COMMENT '代码',
+    total_shares VARCHAR(100) COMMENT '总股本',
+    float_shares VARCHAR(100) COMMENT '流通股',
+    major_shares VARCHAR(100) COMMENT '大股东',
+    org_num VARCHAR(100) COMMENT '机构数',
+    org_shares VARCHAR(100) COMMENT '机构股',
+    small_shares  VARCHAR(100) COMMENT '大股东',
+    PRIMARY KEY (`stock_code`)
+) COMMENT='股东持股信息';
+
+
+CREATE TABLE `api_log` (
+  `app` VARCHAR(100) NOT NULL COMMENT '应用名称',
+   `start_time` DATETIME NOT NULL COMMENT '请求开始时间',
+  `stop_time` DATETIME DEFAULT NULL COMMENT '请求结束时间',
+  `exec_time` INT DEFAULT NULL COMMENT '执行耗时(毫秒)',
+  `url` VARCHAR(500) NOT NULL COMMENT '请求URL',
+  `method` VARCHAR(10) NOT NULL COMMENT '请求方法：GET/POST/PUT/DELETE',
+  `headers` JSON DEFAULT NULL COMMENT '请求头(JSON格式)',
+  `body` TEXT COMMENT '请求体内容',
+  `res_status` INT DEFAULT NULL COMMENT 'HTTP响应状态码',
+  `res_data` LONGTEXT COMMENT '响应数据',
+  `error_message` TEXT COMMENT '错误信息',
+  INDEX `idx_start_time` (`start_time`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4  COMMENT='接口请求日志表';
+
+
+CREATE TABLE stock_pop (
+    stock_code VARCHAR(6) NOT NULL COMMENT '股票代码',
+    trade_date VARCHAR(8) NOT NULL COMMENT '交易日期',
+    pop int NOT NULL COMMENT '人气',
+    PRIMARY KEY (stock_code, trade_date)
+)
+
+CREATE TABLE `subject_message` (
+    `create_time` DATETIME        NOT NULL DEFAULT CURRENT_TIMESTAMP COMMENT '时间',
+    `subject_id`  BIGINT          NOT NULL COMMENT '题材ID',
+    `subject_name` VARCHAR(255)   NOT NULL COMMENT '题材名称',
+    `pct_chg`     DECIMAL(10,4)   NOT NULL COMMENT '涨幅（百分比，带 4 位小数）',
+    `description` TEXT COMMENT '内容/描述',
+    PRIMARY KEY (create_time,subject_id),
+    KEY `idx_subject_id` (`subject_id`)
+) ENGINE=InnoDB
+  DEFAULT CHARSET=utf8mb4
+  COMMENT='题材消息表';
